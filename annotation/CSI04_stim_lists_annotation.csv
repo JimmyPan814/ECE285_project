@@ -1,0 +1,3109 @@
+,image_id,annotation
+0,COCO_train2014_000000292845.jpg,"bicycle, cup"
+1,COCO_train2014_000000081476.jpg,zebra
+2,n04209133_8326.JPEG,shower cap
+3,banquetHall2.jpg,banquetHall
+4,n02002556_6108.JPEG,"white stork, Ciconia ciconia"
+5,n02101388_6823.JPEG,Brittany spaniel
+6,courthouse4.jpg,courthouse
+7,COCO_train2014_000000576727.jpg,hat
+8,clothingstore5.jpg,clothingstore
+9,sidewalk2.jpg,sidewalk
+10,n04033995_15656.JPEG,"quilt, comforter, comfort, puff"
+11,COCO_train2014_000000274978.jpg,"bicycle, tennis racket"
+12,n03344393_5047.JPEG,fireboat
+13,COCO_train2014_000000106107.jpg,"bicycle, tennis racket"
+14,COCO_train2014_000000027471.jpg,"bottle, bicycle"
+15,rep_COCO_train2014_000000300072.jpg,"banana, window, broccoli"
+16,COCO_train2014_000000400581.jpg,"shoe, bed, couch, window"
+17,n02094258_5674.JPEG,Norwich terrier
+18,n01644373_15062.JPEG,"tree frog, tree-frog"
+19,n01630670_2697.JPEG,"common newt, Triturus vulgaris"
+20,n04467665_69667.JPEG,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi"
+21,n01514668_15569.JPEG,cock
+22,COCO_train2014_000000216029.jpg,"bicycle, tennis racket"
+23,n03770679_5503.JPEG,minivan
+24,COCO_train2014_000000282987.jpg,hat
+25,COCO_train2014_000000131967.jpg,"bicycle, traffic light"
+26,COCO_train2014_000000544738.jpg,"bicycle, traffic light, tennis racket"
+27,wineVineyard9.jpg,wineVineyard
+28,attic1.jpg,attic
+29,COCO_train2014_000000160000.jpg,orange
+30,COCO_train2014_000000328454.jpg,hat
+31,promenadeDeck3.jpg,promenadeDeck
+32,n02930766_20027.JPEG,"cab, hack, taxi, taxicab"
+33,n02859443_5607.JPEG,boathouse
+34,n03180011_6063.JPEG,desktop computer
+35,COCO_train2014_000000202764.jpg,bear
+36,rep_COCO_train2014_000000225383.jpg,"tie, bicycle, truck"
+37,n03447721_1086.JPEG,"gong, tam-tam"
+38,COCO_train2014_000000368474.jpg,"bicycle, fork, banana, scissors, vase, spoon"
+39,grocerystore6.jpg,grocerystore
+40,n02437312_3053.JPEG,"Arabian camel, dromedary, Camelus dromedarius"
+41,banquetHall5.jpg,banquetHall
+42,hardwarestore1.jpg,hardwarestore
+43,n02823428_6083.JPEG,beer bottle
+44,COCO_train2014_000000460099.jpg,vase
+45,n02051845_555.JPEG,pelican
+46,COCO_train2014_000000084529.jpg,"tie, bicycle, shoe, umbrella, fire hydrant"
+47,n04152593_3579.JPEG,"screen, CRT screen"
+48,rep_COCO_train2014_000000191734.jpg,"airplane, bicycle"
+49,COCO_train2014_000000074828.jpg,cat
+50,n03773504_27941.JPEG,missile
+51,COCO_train2014_000000510900.jpg,"bicycle, pizza"
+52,chemicalplant1.jpg,chemicalplant
+53,n02870880_22234.JPEG,bookcase
+54,n03803284_6404.JPEG,muzzle
+55,cubicle5.jpg,cubicle
+56,dollhouse3.jpg,dollhouse
+57,COCO_train2014_000000125117.jpg,"tie, street sign, bicycle"
+58,COCO_train2014_000000352191.jpg,giraffe
+59,COCO_train2014_000000073302.jpg,"shoe, tie, bicycle, cake"
+60,n02909870_29139.JPEG,"bucket, pail"
+61,COCO_train2014_000000395775.jpg,"keyboard, door, tie, laptop, mirror, couch"
+62,rep_COCO_train2014_000000570785.jpg,vase
+63,hotelRoom7.jpg,hotelRoom
+64,n04067472_10945.JPEG,reel
+65,COCO_train2014_000000124456.jpg,"bicycle, tennis racket"
+66,COCO_train2014_000000251818.jpg,"bicycle, surfboard"
+67,COCO_train2014_000000190566.jpg,"bicycle, snowboard"
+68,n03838899_32856.JPEG,"oboe, hautboy, hautbois"
+69,n02487347_6577.JPEG,macaque
+70,n02108915_1935.JPEG,French bulldog
+71,COCO_train2014_000000486717.jpg,"baseball glove, bicycle, skateboard"
+72,n02963159_9053.JPEG,cardigan
+73,COCO_train2014_000000085122.jpg,giraffe
+74,frontDoor3.jpg,frontDoor
+75,COCO_train2014_000000523334.jpg,"bicycle, baseball bat"
+76,n04590129_4291.JPEG,window shade
+77,n02514041_10061.JPEG,"barracouta, snoek"
+78,exerciseequipment4.jpg,exerciseequipment
+79,COCO_train2014_000000026388.jpg,"bicycle, suitcase"
+80,readingroom4.jpg,readingroom
+81,COCO_train2014_000000398949.jpg,"bicycle, mirror, hot dog"
+82,n03495258_17799.JPEG,harp
+83,COCO_train2014_000000056109.jpg,"bicycle, car, motorcycle, bed, train, couch"
+84,COCO_train2014_000000332498.jpg,hat
+85,COCO_train2014_000000434069.jpg,"tie, bicycle, motorcycle, shoe, microwave, umbrella"
+86,rep_n01796340_19749.JPEG,rep_n01796340_
+87,cafeteria3.jpg,cafeteria
+88,n07579787_9672.JPEG,plate
+89,breakroom5.jpg,breakroom
+90,COCO_train2014_000000074574.jpg,"bicycle, sheep"
+91,n04525038_11951.JPEG,velvet
+92,n04483307_11742.JPEG,trimaran
+93,n07615774_19270.JPEG,"ice lolly, lolly, lollipop, popsicle"
+94,COCO_train2014_000000200814.jpg,"bicycle, clock, mirror"
+95,rep_n04044716_4079.JPEG,rep_n04044716_
+96,horsebarn11.jpg,horsebarn
+97,hometheater5.jpg,hometheater
+98,COCO_train2014_000000377703.jpg,airplane
+99,n03967562_34479.JPEG,"plow, plough"
+100,COCO_train2014_000000228518.jpg,giraffe
+101,COCO_train2014_000000437967.jpg,"banana, carrot, window"
+102,COCO_train2014_000000138904.jpg,"door, refrigerator"
+103,n02443114_11782.JPEG,"polecat, fitch, foulmart, foumart, Mustela putorius"
+104,n04418357_22691.JPEG,"theater curtain, theatre curtain"
+105,n03691459_6718.JPEG,"loudspeaker, speaker, speaker unit, loudspeaker system, speaker system"
+106,n04548362_34087.JPEG,"wallet, billfold, notecase, pocketbook"
+107,n02910353_10950.JPEG,buckle
+108,COCO_train2014_000000079111.jpg,"sandwich, bowl, banana"
+109,n02281406_355.JPEG,"sulphur butterfly, sulfur butterfly"
+110,COCO_train2014_000000322105.jpg,"potted plant, horse"
+111,COCO_train2014_000000101069.jpg,"bicycle, fire hydrant, truck"
+112,COCO_train2014_000000550313.jpg,"microwave, bicycle"
+113,weightroom4.jpg,weightroom
+114,n04243546_28394.JPEG,"slot, one-armed bandit"
+115,COCO_train2014_000000515102.jpg,"hair brush, bicycle"
+116,pharmacy.jpg,pharmacy
+117,n02093647_764.JPEG,Bedlington terrier
+118,metroInside3.jpg,metroInside
+119,COCO_train2014_000000383641.jpg,giraffe
+120,n02494079_6061.JPEG,"squirrel monkey, Saimiri sciureus"
+121,cave5.jpg,cave
+122,n03877472_15657.JPEG,"pajama, pyjama, pj's, jammies"
+123,COCO_train2014_000000009557.jpg,"bicycle, couch, frisbee"
+124,n03617480_20673.JPEG,kimono
+125,COCO_train2014_000000474827.jpg,vase
+126,COCO_train2014_000000387575.jpg,hat
+127,pasture8.jpg,pasture
+128,n04456115_13349.JPEG,torch
+129,COCO_train2014_000000053778.jpg,elephant
+130,COCO_train2014_000000152564.jpg,"microwave, bicycle"
+131,shower4.jpg,shower
+132,rep_circus1.jpg,rep_circus
+133,n07718472_4516.JPEG,"cucumber, cuke"
+134,n02895154_28027.JPEG,"breastplate, aegis, egis"
+135,n09229709_45133.JPEG,bubble
+136,COCO_train2014_000000006053.jpg,"bicycle, snowboard"
+137,greenhouse5.jpg,greenhouse
+138,n02342885_2292.JPEG,hamster
+139,COCO_train2014_000000253550.jpg,"hair drier, bicycle"
+140,COCO_train2014_000000196777.jpg,"airplane, bicycle"
+141,COCO_train2014_000000334700.jpg,"fire hydrant, truck"
+142,COCO_train2014_000000128299.jpg,"blender, window, broccoli, oven, bed, banana, refrigerator, couch, toaster"
+143,rep_n02229544_6831.JPEG,rep_n02229544_
+144,n02087046_4402.JPEG,toy terrier
+145,n04149813_6373.JPEG,scoreboard
+146,n13044778_621.JPEG,earthstar
+147,n02110958_8979.JPEG,"pug, pug-dog"
+148,rep_driveway8.jpg,rep_driveway
+149,n04125021_157.JPEG,safe
+150,rep_COCO_train2014_000000570785.jpg,vase
+151,n04265275_1283.JPEG,space heater
+152,n02108000_6192.JPEG,EntleBucher
+153,COCO_train2014_000000405401.jpg,"bicycle, snowboard"
+154,COCO_train2014_000000543254.jpg,cat
+155,COCO_train2014_000000411778.jpg,hat
+156,COCO_train2014_000000521416.jpg,"potted plant, keyboard, bicycle, vase"
+157,COCO_train2014_000000433826.jpg,"bicycle, vase, traffic light, motorcycle"
+158,COCO_train2014_000000091005.jpg,airplane
+159,n01697457_8605.JPEG,"African crocodile, Nile crocodile, Crocodylus niloticus"
+160,n03947888_3551.JPEG,"pirate, pirate ship"
+161,COCO_train2014_000000524646.jpg,"bicycle, traffic light, tennis racket"
+162,n01930112_19568.JPEG,"nematode, nematode worm, roundworm"
+163,n03124043_1693.JPEG,cowboy boot
+164,n03673027_16241.JPEG,"liner, ocean liner"
+165,COCO_train2014_000000459190.jpg,cake
+166,n03733805_3247.JPEG,measuring cup
+167,constructionSite3.jpg,constructionSite
+168,n02100877_3784.JPEG,"Irish setter, red setter"
+169,COCO_train2014_000000364806.jpg,traffic light
+170,COCO_train2014_000000140946.jpg,fire hydrant
+171,n02509815_2662.JPEG,"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens"
+172,n02013706_6959.JPEG,"limpkin, Aramus pictus"
+173,onboat7.jpg,onboat
+174,dollhouse1.jpg,dollhouse
+175,driveway6.jpg,driveway
+176,n03372029_44960.JPEG,"flute, transverse flute"
+177,clothingstore2.jpg,clothingstore
+178,COCO_train2014_000000579065.jpg,"hair brush, refrigerator, plate"
+179,COCO_train2014_000000332261.jpg,"bicycle, tennis racket"
+180,COCO_train2014_000000078042.jpg,bicycle
+181,n04612504_3286.JPEG,yawl
+182,COCO_train2014_000000129060.jpg,"bicycle, sports ball, snowboard"
+183,newsstand5.jpg,newsstand
+184,hotelRoom2.jpg,hotelRoom
+185,COCO_train2014_000000231851.jpg,"cat, traffic light"
+186,COCO_train2014_000000038370.jpg,"bicycle, pizza, knife, fork, window, couch"
+187,COCO_train2014_000000403184.jpg,"horse, bicycle, motorcycle"
+188,COCO_train2014_000000021991.jpg,"bicycle, mirror"
+189,concert1.jpg,concert
+190,n03803284_20020.JPEG,muzzle
+191,COCO_train2014_000000484528.jpg,"bicycle, skateboard"
+192,n03000247_27870.JPEG,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour"
+193,COCO_train2014_000000157119.jpg,"horse, mirror"
+194,COCO_train2014_000000082548.jpg,"bicycle, car, boat, umbrella, train"
+195,n07697537_1304.JPEG,"hotdog, hot dog, red hot"
+196,n04435653_567.JPEG,tile roof
+197,n02493509_10255.JPEG,"titi, titi monkey"
+198,n04179913_3897.JPEG,sewing machine
+199,COCO_train2014_000000331225.jpg,"tie, cat, bicycle, fork"
+200,n03240683_16987.JPEG,"drilling platform, offshore rig"
+201,wineVineyard2.jpg,wineVineyard
+202,ballroom4.jpg,ballroom
+203,rep_n03623198_3026.JPEG,rep_n03623198_
+204,n01689811_9114.JPEG,alligator lizard
+205,COCO_train2014_000000050624.jpg,bear
+206,doctor1.jpg,doctor
+207,COCO_train2014_000000268659.jpg,hat
+208,dormroom10.jpg,dormroom
+209,n04141327_8356.JPEG,scabbard
+210,COCO_train2014_000000474024.jpg,"microwave, bicycle, bird"
+211,n02098286_5609.JPEG,West Highland white terrier
+212,n02840245_11446.JPEG,"binder, ring-binder"
+213,n02869837_657.JPEG,"bonnet, poke bonnet"
+214,n07717410_8699.JPEG,acorn squash
+215,n02108551_26574.JPEG,Tibetan mastiff
+216,COCO_train2014_000000444346.jpg,hat
+217,COCO_train2014_000000185888.jpg,bus
+218,rep_bakery5.jpg,rep_bakery
+219,COCO_train2014_000000343992.jpg,"elephant, bicycle"
+220,operatingroom3.jpg,operatingroom
+221,cliff2.jpg,cliff
+222,diningroom3.jpg,diningroom
+223,n02992211_3819.JPEG,"cello, violoncello"
+224,COCO_train2014_000000051774.jpg,cow
+225,n01968897_21883.JPEG,"chambered nautilus, pearly nautilus, nautilus"
+226,shower1.jpg,shower
+227,n02088364_6333.JPEG,beagle
+228,n04525038_17320.JPEG,velvet
+229,n04560804_9848.JPEG,water jug
+230,COCO_train2014_000000408829.jpg,"hair brush, door, refrigerator, plate"
+231,COCO_train2014_000000559958.jpg,teddy bear
+232,COCO_train2014_000000498615.jpg,"cat, boat"
+233,n02099429_5693.JPEG,curly-coated retriever
+234,n02363005_12005.JPEG,beaver
+235,COCO_train2014_000000306988.jpg,"tie, bicycle, bird, cat, umbrella, couch"
+236,COCO_train2014_000000201246.jpg,bus
+237,COCO_train2014_000000266103.jpg,keyboard
+238,COCO_train2014_000000300383.jpg,"bottle, bicycle, kite"
+239,rep_COCO_train2014_000000488558.jpg,"mouse, clock, window, plate, remote, orange"
+240,COCO_train2014_000000502043.jpg,"hair drier, bicycle"
+241,n04251144_13296.JPEG,snorkel
+242,dancestudio5.jpg,dancestudio
+243,n02268853_630.JPEG,damselfly
+244,COCO_train2014_000000026443.jpg,"bear, bicycle, bird"
+245,park.jpg,park
+246,COCO_train2014_000000022627.jpg,"mirror, dog"
+247,n07880968_238.JPEG,burrito
+248,COCO_train2014_000000405730.jpg,"cat, traffic light"
+249,n07734744_18382.JPEG,mushroom
+250,baywindow4.jpg,baywindow
+251,gazebo5.jpg,gazebo
+252,COCO_train2014_000000215291.jpg,"bicycle, tennis racket"
+253,classroom5.jpg,classroom
+254,n04127249_4641.JPEG,safety pin
+255,n02110063_5641.JPEG,"malamute, malemute, Alaskan malamute"
+256,rep_desertvegetation3.jpg,rep_desertvegetation
+257,n03457902_14354.JPEG,"greenhouse, nursery, glasshouse"
+258,COCO_train2014_000000357470.jpg,"mouse, fork, dog"
+259,n02090622_8903.JPEG,"borzoi, Russian wolfhound"
+260,COCO_train2014_000000340602.jpg,"bicycle, sports ball"
+261,COCO_train2014_000000442793.jpg,giraffe
+262,olympicswimmingpool7.jpg,olympicswimmingpool
+263,COCO_train2014_000000077686.jpg,"potted plant, keyboard, bicycle"
+264,casino4.jpg,casino
+265,n12057211_4404.JPEG,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+266,n03670208_3265.JPEG,"limousine, limo"
+267,COCO_train2014_000000404823.jpg,"bicycle, bus, plate"
+268,van_interior5.jpg,van_interior
+269,pantry6.jpg,pantry
+270,COCO_train2014_000000398540.jpg,giraffe
+271,n04597913_690.JPEG,wooden spoon
+272,COCO_train2014_000000148639.jpg,"baseball glove, bicycle, kite"
+273,n02113186_8621.JPEG,"Cardigan, Cardigan Welsh corgi"
+274,carFactory3.jpg,carFactory
+275,golfcourse10.jpg,golfcourse
+276,rep_n02442845_19700.JPEG,rep_n02442845_
+277,COCO_train2014_000000354045.jpg,"tie, bicycle, broccoli, apple"
+278,n07930864_29639.JPEG,cup
+279,COCO_train2014_000000384167.jpg,airplane
+280,n04317175_4361.JPEG,stethoscope
+281,n01629819_19393.JPEG,"European fire salamander, Salamandra salamandra"
+282,n11879895_2208.JPEG,rapeseed
+283,n04238763_2717.JPEG,"slide rule, slipstick"
+284,COCO_train2014_000000191740.jpg,"bowl, banana, hot dog, window"
+285,COCO_train2014_000000126321.jpg,dog
+286,COCO_train2014_000000100863.jpg,refrigerator
+287,COCO_train2014_000000282137.jpg,"fork, dog"
+288,courthouse2.jpg,courthouse
+289,COCO_train2014_000000364683.jpg,bear
+290,n01641577_2021.JPEG,"bullfrog, Rana catesbeiana"
+291,COCO_train2014_000000367552.jpg,"bicycle, snowboard"
+292,rep_COCO_train2014_000000300072.jpg,"banana, window, broccoli"
+293,n03126707_22076.JPEG,crane
+294,n02096294_5480.JPEG,Australian terrier
+295,n02165456_9825.JPEG,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle"
+296,COCO_train2014_000000495243.jpg,"chair, bicycle, couch, knife, fork, laptop, window, spoon"
+297,COCO_train2014_000000036589.jpg,"hair drier, bicycle, mirror"
+298,n03709823_19069.JPEG,"mailbag, postbag"
+299,COCO_train2014_000000203937.jpg,"mouse, remote, cell phone"
+300,COCO_train2014_000000464964.jpg,hat
+301,COCO_train2014_000000302166.jpg,"bicycle, umbrella, traffic light"
+302,n04591157_1442.JPEG,Windsor tie
+303,fireplace2.jpg,fireplace
+304,n03347037_2263.JPEG,"fire screen, fireguard"
+305,cabin5.jpg,cabin
+306,n03857828_53119.JPEG,"oscilloscope, scope, cathode-ray oscilloscope, CRO"
+307,COCO_train2014_000000539705.jpg,traffic light
+308,n03424325_31318.JPEG,"gasmask, respirator, gas helmet"
+309,rep_n02704792_9673.JPEG,rep_n02704792_
+310,n02895154_35255.JPEG,"breastplate, aegis, egis"
+311,pub2.jpg,pub
+312,COCO_train2014_000000409023.jpg,"bicycle, bird"
+313,n02132136_492.JPEG,"brown bear, bruin, Ursus arctos"
+314,icecream1.jpg,icecream
+315,HorseRaceTrack4.jpg,HorseRaceTrack
+316,n07711569_5443.JPEG,mashed potato
+317,foodcourt6.jpg,foodcourt
+318,COCO_train2014_000000522534.jpg,"bicycle, umbrella"
+319,fireplace4.jpg,fireplace
+320,COCO_train2014_000000183719.jpg,hat
+321,n03866082_8143.JPEG,overskirt
+322,COCO_train2014_000000213838.jpg,"bicycle, cup, plate"
+323,COCO_train2014_000000300072.jpg,"banana, window, broccoli"
+324,n03249569_23070.JPEG,"drum, membranophone, tympan"
+325,n03895866_45745.JPEG,"passenger car, coach, carriage"
+326,n03481172_16310.JPEG,hammer
+327,COCO_train2014_000000056341.jpg,"clock, laptop, potted plant, bed, scissors, couch"
+328,COCO_train2014_000000534267.jpg,"bicycle, surfboard, motorcycle"
+329,rep_n13040303_4195.JPEG,rep_n13040303_
+330,COCO_train2014_000000480403.jpg,"shoe, tie, bicycle, suitcase"
+331,n03447721_2079.JPEG,"gong, tam-tam"
+332,n04409515_19454.JPEG,tennis ball
+333,n01820546_4905.JPEG,lorikeet
+334,COCO_train2014_000000402057.jpg,"carrot, orange"
+335,n04476259_4447.JPEG,tray
+336,volleyballcourt7.jpg,volleyballcourt
+337,gasstation8.jpg,gasstation
+338,n01484850_22362.JPEG,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias"
+339,COCO_train2014_000000028868.jpg,"bicycle, baseball bat"
+340,frontFoyer7.jpg,frontFoyer
+341,COCO_train2014_000000090827.jpg,horse
+342,COCO_train2014_000000225750.jpg,bird
+343,n01695060_2336.JPEG,"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis"
+344,n02930766_3558.JPEG,"cab, hack, taxi, taxicab"
+345,n03207941_9898.JPEG,"dishwasher, dish washer, dishwashing machine"
+346,n02951585_4109.JPEG,"can opener, tin opener"
+347,n03000134_7257.JPEG,chainlink fence
+348,COCO_train2014_000000091784.jpg,hat
+349,nailsalon2.jpg,nailsalon
+350,COCO_train2014_000000303436.jpg,"bicycle, fire hydrant, train, motorcycle"
+351,COCO_train2014_000000419212.jpg,"bicycle, tennis racket"
+352,COCO_train2014_000000188660.jpg,cat
+353,COCO_train2014_000000034381.jpg,"tie, bicycle, shoe, traffic light, couch"
+354,COCO_train2014_000000176873.jpg,"tie, bicycle, car, motorcycle, bed, fire hydrant, couch"
+355,n03935335_617.JPEG,"piggy bank, penny bank"
+356,COCO_train2014_000000309192.jpg,"bicycle, pizza"
+357,COCO_train2014_000000237372.jpg,"shoe, bicycle, boat, motorcycle"
+358,porch2.jpg,porch
+359,n04326547_16089.JPEG,stone wall
+360,rep_COCO_train2014_000000470907.jpg,bear
+361,COCO_train2014_000000291599.jpg,sheep
+362,n02328150_6567.JPEG,"Angora, Angora rabbit"
+363,n03785016_17731.JPEG,moped
+364,shoestore2.jpg,shoestore
+365,COCO_train2014_000000188225.jpg,"bicycle, bus"
+366,sparoom.jpg,sparoom
+367,rep_shoestore5.jpg,rep_shoestore
+368,n03676483_23351.JPEG,"lipstick, lip rouge"
+369,n09288635_4221.JPEG,geyser
+370,COCO_train2014_000000031053.jpg,"bicycle, skis, motorcycle"
+371,COCO_train2014_000000238256.jpg,"bicycle, kite, skateboard"
+372,horsebarn7.jpg,horsebarn
+373,rep_n03461385_91813.JPEG,rep_n03461385_
+374,basement.jpg,basement
+375,COCO_train2014_000000438154.jpg,"elephant, bicycle"
+376,COCO_train2014_000000202050.jpg,traffic light
+377,n02130308_13809.JPEG,"cheetah, chetah, Acinonyx jubatus"
+378,COCO_train2014_000000461118.jpg,"baseball glove, bicycle, skateboard"
+379,COCO_train2014_000000526968.jpg,"bicycle, boat, kite"
+380,n03742115_8580.JPEG,"medicine chest, medicine cabinet"
+381,COCO_train2014_000000300704.jpg,bus
+382,dollhouse5.jpg,dollhouse
+383,ATM5.jpg,ATM
+384,n04550184_24353.JPEG,"wardrobe, closet, press"
+385,n02817516_52384.JPEG,"bearskin, busby, shako"
+386,dugout4.jpg,dugout
+387,n03920288_7730.JPEG,Petri dish
+388,n01632777_18659.JPEG,"axolotl, mud puppy, Ambystoma mexicanum"
+389,rep_COCO_train2014_000000114846.jpg,"bicycle, sheep"
+390,n01496331_1499.JPEG,"electric ray, crampfish, numbfish, torpedo"
+391,COCO_train2014_000000361197.jpg,"banana, fork, window, orange"
+392,COCO_train2014_000000192501.jpg,"chair, bicycle, cup, window, bowl, couch"
+393,COCO_train2014_000000340283.jpg,"bicycle, umbrella, vase"
+394,n03530642_642.JPEG,honeycomb
+395,whitewaterrapids2.jpg,whitewaterrapids
+396,n01694178_8398.JPEG,"African chameleon, Chamaeleo chamaeleon"
+397,n03998194_5245.JPEG,"prayer rug, prayer mat"
+398,COCO_train2014_000000437832.jpg,"tie, bicycle, umbrella, truck"
+399,rep_COCO_train2014_000000399337.jpg,vase
+400,n03908618_3760.JPEG,"pencil box, pencil case"
+401,n02134084_22997.JPEG,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus"
+402,boardwalk2.jpg,boardwalk
+403,COCO_train2014_000000180410.jpg,"bottle, bicycle"
+404,COCO_train2014_000000379052.jpg,"bicycle, train"
+405,n04275548_4656.JPEG,"spider web, spider's web"
+406,COCO_train2014_000000007567.jpg,bus
+407,COCO_train2014_000000023718.jpg,"train, bicycle, vase, motorcycle"
+408,rep_hardwarestore1.jpg,rep_hardwarestore
+409,n02018207_3567.JPEG,"American coot, marsh hen, mud hen, water hen, Fulica americana"
+410,COCO_train2014_000000251016.jpg,"tie, clock, plate, microwave, umbrella"
+411,n02088094_2564.JPEG,"Afghan hound, Afghan"
+412,COCO_train2014_000000189765.jpg,"bicycle, skis"
+413,COCO_train2014_000000114822.jpg,"bicycle, snowboard"
+414,n01806143_8071.JPEG,peacock
+415,COCO_train2014_000000413472.jpg,"bicycle, cake"
+416,rep_n02206856_1366.JPEG,rep_n02206856_
+417,rep_driveway8.jpg,rep_driveway
+418,COCO_train2014_000000132617.jpg,"bicycle, couch, dog"
+419,COCO_train2014_000000276664.jpg,"cup, fork, plate, bowl, refrigerator, traffic light"
+420,n01644900_18469.JPEG,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui"
+421,COCO_train2014_000000531392.jpg,scissors
+422,n12985857_3799.JPEG,coral fungus
+423,parkinglot2.jpg,parkinglot
+424,n02397096_5104.JPEG,warthog
+425,cargo3.jpg,cargo
+426,n01795545_24.JPEG,black grouse
+427,COCO_train2014_000000035927.jpg,cat
+428,COCO_train2014_000000219294.jpg,"bicycle, boat, kite, motorcycle"
+429,n03658185_4301.JPEG,"letter opener, paper knife, paperknife"
+430,n04371430_693.JPEG,"swimming trunks, bathing trunks"
+431,COCO_train2014_000000310870.jpg,hat
+432,COCO_train2014_000000508456.jpg,giraffe
+433,lookout3.jpg,lookout
+434,n03956157_7402.JPEG,planetarium
+435,lookout2.jpg,lookout
+436,COCO_train2014_000000347933.jpg,"sandwich, bowl, banana"
+437,nursery5.jpg,nursery
+438,COCO_train2014_000000440792.jpg,vase
+439,n09332890_13407.JPEG,"lakeside, lakeshore"
+440,applestore6.jpg,applestore
+441,n02641379_15161.JPEG,"gar, garfish, garpike, billfish, Lepisosteus osseus"
+442,conference3.jpg,conference
+443,n01631663_6519.JPEG,eft
+444,n04507155_27960.JPEG,umbrella
+445,glaciers_outdoor.jpg,glaciers_outdoor
+446,n03961711_21196.JPEG,plate rack
+447,COCO_train2014_000000178423.jpg,truck
+448,n02814860_25582.JPEG,"beacon, lighthouse, beacon light, pharos"
+449,n02219486_30190.JPEG,"ant, emmet, pismire"
+450,COCO_train2014_000000242079.jpg,bus
+451,trainStation3.jpg,trainStation
+452,COCO_train2014_000000279197.jpg,"bicycle, tennis racket"
+453,n12144580_11176.JPEG,corn
+454,n02087394_19274.JPEG,Rhodesian ridgeback
+455,COCO_train2014_000000265453.jpg,"bicycle, sheep"
+456,COCO_train2014_000000289791.jpg,"bowl, bicycle, window"
+457,homeoffice.jpg,homeoffice
+458,park7.jpg,park
+459,rep_COCO_train2014_000000088449.jpg,"bicycle, truck"
+460,n02442845_5338.JPEG,mink
+461,COCO_train2014_000000081995.jpg,"bicycle, sheep"
+462,COCO_train2014_000000321011.jpg,"umbrella, bicycle, surfboard, plate"
+463,museum3.jpg,museum
+464,n03763968_3541.JPEG,military uniform
+465,COCO_train2014_000000027665.jpg,"bicycle, hat"
+466,frontFoyer.jpg,frontFoyer
+467,n02492660_7004.JPEG,"howler monkey, howler"
+468,COCO_train2014_000000443377.jpg,"bicycle, truck"
+469,COCO_train2014_000000017935.jpg,"bicycle, tennis racket"
+470,n01943899_2192.JPEG,conch
+471,wineVineyard7.jpg,wineVineyard
+472,n10148035_12439.JPEG,"groom, bridegroom"
+473,COCO_train2014_000000140347.jpg,"knife, fork, window, bowl, spoon, orange"
+474,rep_COCO_train2014_000000372775.jpg,"refrigerator, plate"
+475,COCO_train2014_000000326666.jpg,"bicycle, tennis racket"
+476,COCO_train2014_000000236078.jpg,"bicycle, kite, skateboard"
+477,COCO_train2014_000000294834.jpg,hat
+478,rep_n04019541_4621.JPEG,rep_n04019541_
+479,n02364673_9357.JPEG,"guinea pig, Cavia cobaya"
+480,n03207743_10711.JPEG,"dishrag, dishcloth"
+481,n02092339_318.JPEG,Weimaraner
+482,postoffice3.jpg,postoffice
+483,COCO_train2014_000000081841.jpg,"clock, window, bed, scissors, couch"
+484,COCO_train2014_000000137150.jpg,"bicycle, elephant, motorcycle, boat, apple, horse"
+485,COCO_train2014_000000165492.jpg,"bed, traffic light, bird"
+486,n02422699_10807.JPEG,"impala, Aepyceros melampus"
+487,barbershop5.jpg,barbershop
+488,COCO_train2014_000000367853.jpg,"bed, couch, scissors, window"
+489,COCO_train2014_000000485605.jpg,"hair brush, door, refrigerator"
+490,rep_COCO_train2014_000000061215.jpg,"pizza, window, orange"
+491,n02782093_5363.JPEG,balloon
+492,rep_COCO_train2014_000000405401.jpg,"bicycle, snowboard"
+493,n02423022_6896.JPEG,gazelle
+494,COCO_train2014_000000151163.jpg,"bicycle, bird"
+495,COCO_train2014_000000541856.jpg,"banana, blender, plate"
+496,n03201208_15820.JPEG,"dining table, board"
+497,baseball6.jpg,baseball
+498,COCO_train2014_000000009024.jpg,"bicycle, pizza"
+499,n01669191_12735.JPEG,"box turtle, box tortoise"
+500,rep_n04040759_5145.JPEG,rep_n04040759_
+501,COCO_train2014_000000176551.jpg,"clock, frisbee"
+502,COCO_train2014_000000512380.jpg,"bicycle, skateboard"
+503,library_aisle10.jpg,library_aisle
+504,greenhouse.jpg,greenhouse
+505,restaurantkitchen3.jpg,restaurantkitchen
+506,fireplace5.jpg,fireplace
+507,n02823750_2943.JPEG,beer glass
+508,COCO_train2014_000000439139.jpg,"shoe, tie, bicycle"
+509,n03424325_7337.JPEG,"gasmask, respirator, gas helmet"
+510,COCO_train2014_000000257976.jpg,"bicycle, bird"
+511,COCO_train2014_000000081042.jpg,"plate, bed, refrigerator, banana, scissors"
+512,n02094114_4176.JPEG,Norfolk terrier
+513,COCO_train2014_000000218772.jpg,"bed, couch, scissors, window"
+514,n04613696_1557.JPEG,yurt
+515,n03724870_11453.JPEG,mask
+516,n04371774_728.JPEG,swing
+517,n03085013_23483.JPEG,"computer keyboard, keypad"
+518,rep_playground10.jpg,rep_playground
+519,COCO_train2014_000000033764.jpg,"bicycle, skis, couch"
+520,COCO_train2014_000000390120.jpg,"bicycle, snowboard"
+521,soccerfield3.jpg,soccerfield
+522,COCO_train2014_000000028116.jpg,"horse, bicycle, sheep"
+523,COCO_train2014_000000393738.jpg,"bicycle, sports ball"
+524,COCO_train2014_000000074714.jpg,"bicycle, baseball bat"
+525,bambooforest4.jpg,bambooforest
+526,rep_circus1.jpg,rep_circus
+527,frontLawn5.jpg,frontLawn
+528,n02939185_6758.JPEG,"caldron, cauldron"
+529,publicrestroom5.jpg,publicrestroom
+530,n03085013_17762.JPEG,"computer keyboard, keypad"
+531,n02389026_1115.JPEG,sorrel
+532,n04404412_32274.JPEG,"television, television system"
+533,COCO_train2014_000000521923.jpg,"horse, bicycle, snowboard"
+534,liquorstore2.jpg,liquorstore
+535,COCO_train2014_000000047172.jpg,hat
+536,racecarcourse2.jpg,racecarcourse
+537,n01843383_10394.JPEG,toucan
+538,COCO_train2014_000000162230.jpg,"chair, toaster"
+539,COCO_train2014_000000015183.jpg,"bicycle, donut, toaster"
+540,n04554684_9453.JPEG,"washer, automatic washer, washing machine"
+541,hometheater6.jpg,hometheater
+542,n02815834_10493.JPEG,beaker
+543,n01688243_1815.JPEG,"frilled lizard, Chlamydosaurus kingi"
+544,n03697007_12710.JPEG,"lumbermill, sawmill"
+545,n02395406_1663.JPEG,"hog, pig, grunter, squealer, Sus scrofa"
+546,COCO_train2014_000000421320.jpg,"spoon, bicycle, donut, knife, fork, window, couch"
+547,COCO_train2014_000000026800.jpg,"hair drier, suitcase"
+548,COCO_train2014_000000368852.jpg,"potted plant, bicycle, plate, dog"
+549,n07753592_10770.JPEG,banana
+550,n02281787_5227.JPEG,"lycaenid, lycaenid butterfly"
+551,COCO_train2014_000000521884.jpg,parking meter
+552,n04285008_1674.JPEG,"sports car, sport car"
+553,COCO_train2014_000000234997.jpg,vase
+554,rep_COCO_train2014_000000523236.jpg,bus
+555,n01698640_3315.JPEG,"American alligator, Alligator mississipiensis"
+556,n04523525_23943.JPEG,vault
+557,n02133161_14833.JPEG,"American black bear, black bear, Ursus americanus, Euarctos americanus"
+558,n02110185_868.JPEG,Siberian husky
+559,n03887697_1847.JPEG,paper towel
+560,COCO_train2014_000000210065.jpg,"clock, window, potted plant, bed, scissors, couch"
+561,n02865351_2536.JPEG,"bolo tie, bolo, bola tie, bola"
+562,n01817953_333.JPEG,"African grey, African gray, Psittacus erithacus"
+563,stripmall5.jpg,stripmall
+564,COCO_train2014_000000130222.jpg,baseball bat
+565,olympicswimmingpool.jpg,olympicswimmingpool
+566,COCO_train2014_000000193385.jpg,"bicycle, snowboard"
+567,COCO_train2014_000000414733.jpg,"bicycle, snowboard"
+568,snowmountains4.jpg,snowmountains
+569,rep_n02277742_15647.JPEG,rep_n02277742_
+570,pavilion5.jpg,pavilion
+571,rep_n11879895_2208.JPEG,rep_n11879895_
+572,COCO_train2014_000000096157.jpg,"umbrella, frisbee"
+573,COCO_train2014_000000165969.jpg,cow
+574,COCO_train2014_000000172426.jpg,hat
+575,COCO_train2014_000000437776.jpg,traffic light
+576,parkinggarage3.jpg,parkinggarage
+577,rep_COCO_train2014_000000450864.jpg,"bicycle, donut, couch, knife, cup, fork, window, plate, broccoli, bowl, banana, spoon"
+578,pantry2.jpg,pantry
+579,COCO_train2014_000000057631.jpg,"horse, bicycle, boat"
+580,n02037110_227.JPEG,"oystercatcher, oyster catcher"
+581,COCO_train2014_000000273120.jpg,"bottle, bicycle"
+582,desertvegetation6.jpg,desertvegetation
+583,COCO_train2014_000000563929.jpg,"elephant, giraffe"
+584,n02102318_2472.JPEG,"cocker spaniel, English cocker spaniel, cocker"
+585,COCO_train2014_000000369253.jpg,"bicycle, vase"
+586,COCO_train2014_000000520259.jpg,"bicycle, baseball bat, motorcycle"
+587,COCO_train2014_000000189388.jpg,"refrigerator, plate"
+588,n02504013_15866.JPEG,"Indian elephant, Elephas maximus"
+589,n02134418_2406.JPEG,"sloth bear, Melursus ursinus, Ursus ursinus"
+590,n01518878_6971.JPEG,"ostrich, Struthio camelus"
+591,n02099601_5488.JPEG,golden retriever
+592,n03770679_1063.JPEG,minivan
+593,COCO_train2014_000000280808.jpg,"door, refrigerator, scissors"
+594,COCO_train2014_000000319517.jpg,"bicycle, traffic light"
+595,n02963159_5955.JPEG,cardigan
+596,n03958227_7647.JPEG,plastic bag
+597,n02028035_1596.JPEG,"redshank, Tringa totanus"
+598,rep_COCO_train2014_000000225383.jpg,"tie, bicycle, truck"
+599,warehouse4.jpg,warehouse
+600,n02655020_8762.JPEG,"puffer, pufferfish, blowfish, globefish"
+601,n02190166_7731.JPEG,fly
+602,COCO_train2014_000000210751.jpg,"bicycle, clock, fork, potted plant, bed, cake"
+603,COCO_train2014_000000028367.jpg,bear
+604,parkinggarage.jpg,parkinggarage
+605,harbor7.jpg,harbor
+606,COCO_train2014_000000130914.jpg,"bus, boat, motorcycle"
+607,n02071294_21700.JPEG,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca"
+608,n04522168_22352.JPEG,vase
+609,dentist1.jpg,dentist
+610,n01806143_7550.JPEG,peacock
+611,COCO_train2014_000000524819.jpg,"bottle, bicycle, kite"
+612,COCO_train2014_000000491228.jpg,"oven, bed, toaster, apple"
+613,garbagedump4.jpg,garbagedump
+614,rep_dining_car.jpg,rep_dining_car
+615,COCO_train2014_000000040685.jpg,"mirror, dog"
+616,COCO_train2014_000000422473.jpg,hat
+617,n01978455_6994.JPEG,"rock crab, Cancer irroratus"
+618,n02950826_22506.JPEG,cannon
+619,campsite3.jpg,campsite
+620,COCO_train2014_000000294744.jpg,"clock, laptop, cell phone, banana, microwave, remote"
+621,desertvegetation5.jpg,desertvegetation
+622,n03706229_5674.JPEG,magnetic compass
+623,n04447861_7728.JPEG,toilet seat
+624,COCO_train2014_000000366146.jpg,"bicycle, train, snowboard"
+625,COCO_train2014_000000292678.jpg,train
+626,COCO_train2014_000000307156.jpg,"potted plant, bed, couch, vase"
+627,COCO_train2014_000000095258.jpg,"bed, blender, toaster, plate"
+628,rep_n02447366_24047.JPEG,rep_n02447366_
+629,COCO_train2014_000000117897.jpg,giraffe
+630,COCO_train2014_000000516516.jpg,"bicycle, sports ball"
+631,n03706229_3814.JPEG,magnetic compass
+632,COCO_train2014_000000270325.jpg,"fire hydrant, truck"
+633,runway3.jpg,runway
+634,COCO_train2014_000000113787.jpg,"cat, hat"
+635,COCO_train2014_000000542304.jpg,cat
+636,foodcourt7.jpg,foodcourt
+637,dinosaur4.jpg,dinosaur
+638,n02910353_9413.JPEG,buckle
+639,COCO_train2014_000000227451.jpg,toaster
+640,n04418357_1004.JPEG,"theater curtain, theatre curtain"
+641,n04423845_7996.JPEG,thimble
+642,carmechanic2.jpg,carmechanic
+643,n03388549_12143.JPEG,four-poster
+644,n03721384_5635.JPEG,"marimba, xylophone"
+645,n03146219_2343.JPEG,cuirass
+646,COCO_train2014_000000157231.jpg,"bicycle, snowboard"
+647,savanna5.jpg,savanna
+648,coralreef5.jpg,coralreef
+649,n03998194_9700.JPEG,"prayer rug, prayer mat"
+650,COCO_train2014_000000366342.jpg,"bicycle, train"
+651,harbor6.jpg,harbor
+652,COCO_train2014_000000387318.jpg,"cake, fork, orange"
+653,n02056570_8319.JPEG,"king penguin, Aptenodytes patagonica"
+654,COCO_train2014_000000149221.jpg,"bicycle, cup, fork, window, plate"
+655,COCO_train2014_000000007048.jpg,cat
+656,n12620546_18664.JPEG,"hip, rose hip, rosehip"
+657,rep_COCO_train2014_000000312003.jpg,"bicycle, parking meter, street sign, bench, motorcycle, boat"
+658,COCO_train2014_000000006178.jpg,"door, refrigerator"
+659,COCO_train2014_000000320834.jpg,"bicycle, cup, window, banana"
+660,rep_campsite3.jpg,rep_campsite
+661,n02134084_32584.JPEG,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus"
+662,COCO_train2014_000000073172.jpg,"tie, microwave, bicycle, frisbee"
+663,rep_n02101006_8380.JPEG,rep_n02101006_
+664,n03534580_2964.JPEG,"hoopskirt, crinoline"
+665,n04252077_15202.JPEG,snowmobile
+666,COCO_train2014_000000425066.jpg,"bicycle, sheep"
+667,photographer_studio2.jpg,photographer_studio
+668,rep_n03461385_91813.JPEG,rep_n03461385_
+669,rep_COCO_train2014_000000407676.jpg,hat
+670,COCO_train2014_000000208849.jpg,"horse, motorcycle"
+671,n02488291_3871.JPEG,langur
+672,n03384352_7608.JPEG,forklift
+673,COCO_train2014_000000398083.jpg,"bicycle, skateboard"
+674,COCO_train2014_000000378621.jpg,"bicycle, skis"
+675,rep_n02356798_2870.JPEG,rep_n02356798_
+676,n13052670_4260.JPEG,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa"
+677,frontDoor2.jpg,frontDoor
+678,COCO_train2014_000000554688.jpg,"tie, bicycle, suitcase, umbrella, truck"
+679,COCO_train2014_000000325758.jpg,"refrigerator, blender, toaster"
+680,bambooforest.jpg,bambooforest
+681,n03337140_17569.JPEG,"file, file cabinet, filing cabinet"
+682,COCO_train2014_000000181468.jpg,"bicycle, sandwich, plate, motorcycle, apple, frisbee"
+683,n04350905_14574.JPEG,"suit, suit of clothes"
+684,COCO_train2014_000000086725.jpg,donut
+685,COCO_train2014_000000027157.jpg,"bicycle, surfboard"
+686,n04462240_18783.JPEG,toyshop
+687,n02119022_16850.JPEG,"red fox, Vulpes vulpes"
+688,attic3.jpg,attic
+689,n02114855_33106.JPEG,"coyote, prairie wolf, brush wolf, Canis latrans"
+690,COCO_train2014_000000170485.jpg,"bicycle, tennis racket"
+691,COCO_train2014_000000293377.jpg,donut
+692,fireplace3.jpg,fireplace
+693,n01667778_2596.JPEG,terrapin
+694,copyroom5.jpg,copyroom
+695,ruralroad5.jpg,ruralroad
+696,n03792972_2725.JPEG,mountain tent
+697,COCO_train2014_000000348204.jpg,cow
+698,n02971356_2937.JPEG,carton
+699,n02526121_5548.JPEG,eel
+700,COCO_train2014_000000239337.jpg,"cat, bicycle"
+701,n02085620_288.JPEG,Chihuahua
+702,COCO_train2014_000000405215.jpg,cow
+703,n07695742_5848.JPEG,pretzel
+704,MRI1.jpg,MRI
+705,n07720875_6121.JPEG,bell pepper
+706,rep_COCO_train2014_000000221685.jpg,bear
+707,COCO_train2014_000000311232.jpg,truck
+708,n07718472_21699.JPEG,"cucumber, cuke"
+709,rep_n03032252_36446.JPEG,rep_n03032252_
+710,COCO_train2014_000000396550.jpg,cow
+711,n03496892_10109.JPEG,"harvester, reaper"
+712,COCO_train2014_000000150636.jpg,"bicycle, motorcycle, bed, fire hydrant, train"
+713,COCO_train2014_000000558278.jpg,"banana, fork, window, orange"
+714,n02123597_6521.JPEG,"Siamese cat, Siamese"
+715,wrestlingring6.jpg,wrestlingring
+716,COCO_train2014_000000000731.jpg,"shoe, bicycle, motorcycle"
+717,n02133161_7422.JPEG,"American black bear, black bear, Ursus americanus, Euarctos americanus"
+718,hotellobby4.jpg,hotellobby
+719,n03297495_7387.JPEG,espresso maker
+720,n02091134_2235.JPEG,whippet
+721,COCO_train2014_000000249905.jpg,"bicycle, snowboard"
+722,n04532106_11248.JPEG,vestment
+723,COCO_train2014_000000505661.jpg,"oven, clock"
+724,n02128925_3869.JPEG,"jaguar, panther, Panthera onca, Felis onca"
+725,n02445715_9618.JPEG,"skunk, polecat, wood pussy"
+726,n03584254_1429.JPEG,iPod
+727,backstage3.jpg,backstage
+728,snowmountains3.jpg,snowmountains
+729,campusquad4.jpg,campusquad
+730,snowmountains5.jpg,snowmountains
+731,COCO_train2014_000000179876.jpg,giraffe
+732,COCO_train2014_000000247121.jpg,"microwave, mirror, couch"
+733,COCO_train2014_000000363719.jpg,"bicycle, donut, bird, knife, fork, window, plate, microwave, spoon"
+734,COCO_train2014_000000119550.jpg,"bed, scissors"
+735,COCO_train2014_000000312403.jpg,"blender, oven, potted plant, spoon, toaster"
+736,horsebarn8.jpg,horsebarn
+737,COCO_train2014_000000391678.jpg,"hair brush, door, bicycle"
+738,n04465501_9230.JPEG,tractor
+739,COCO_train2014_000000200391.jpg,bus
+740,COCO_train2014_000000214821.jpg,"baseball glove, bicycle"
+741,homeoffice7.jpg,homeoffice
+742,bikerack2.jpg,bikerack
+743,COCO_train2014_000000105708.jpg,"bottle, bicycle, kite"
+744,COCO_train2014_000000322008.jpg,"cup, mirror"
+745,COCO_train2014_000000554759.jpg,"banana, orange, knife"
+746,n02422106_3014.JPEG,hartebeest
+747,n02109525_2943.JPEG,"Saint Bernard, St Bernard"
+748,rep_COCO_train2014_000000116603.jpg,"spoon, broccoli"
+749,n02105505_691.JPEG,komondor
+750,rep_shoestore5.jpg,rep_shoestore
+751,COCO_train2014_000000106874.jpg,"bicycle, snowboard"
+752,COCO_train2014_000000154556.jpg,bear
+753,COCO_train2014_000000575164.jpg,"bottle, bicycle"
+754,COCO_train2014_000000036151.jpg,"baseball glove, bicycle, skateboard"
+755,savanna3.jpg,savanna
+756,n04041544_18426.JPEG,"radio, wireless"
+757,n03710193_24798.JPEG,"mailbox, letter box"
+758,jewelrystore.jpg,jewelrystore
+759,COCO_train2014_000000574784.jpg,"sandwich, bicycle, broccoli, apple"
+760,n04116512_2215.JPEG,"rubber eraser, rubber, pencil eraser"
+761,COCO_train2014_000000303392.jpg,"keyboard, laptop, window, potted plant, bed, scissors"
+762,swimmingpool2.jpg,swimmingpool
+763,n01677366_3070.JPEG,"common iguana, iguana, Iguana iguana"
+764,n04532670_5168.JPEG,viaduct
+765,n03983396_2493.JPEG,"pop bottle, soda bottle"
+766,n01667114_73.JPEG,mud turtle
+767,n02236044_11638.JPEG,"mantis, mantid"
+768,COCO_train2014_000000062203.jpg,"bicycle, motorcycle, apple"
+769,baggageClaim3.jpg,baggageClaim
+770,n02086079_37837.JPEG,"Pekinese, Pekingese, Peke"
+771,cabin3.jpg,cabin
+772,COCO_train2014_000000396793.jpg,"bottle, bicycle, couch"
+773,COCO_train2014_000000064263.jpg,"potted plant, keyboard, bicycle, couch"
+774,COCO_train2014_000000495387.jpg,"bed, couch, window"
+775,labClass1.jpg,labClass
+776,n02101006_8380.JPEG,Gordon setter
+777,COCO_train2014_000000229233.jpg,"spoon, bicycle, donut, knife, window, plate, couch"
+778,n02169497_5882.JPEG,"leaf beetle, chrysomelid"
+779,rep_n02113978_9805.JPEG,rep_n02113978_
+780,beach2.jpg,beach
+781,COCO_train2014_000000570016.jpg,"bicycle, hot dog, carrot"
+782,COCO_train2014_000000104328.jpg,"baseball glove, bicycle, skateboard"
+783,COCO_train2014_000000269483.jpg,"tie, bicycle, umbrella, surfboard"
+784,COCO_train2014_000000509269.jpg,zebra
+785,n02089867_5381.JPEG,"Walker hound, Walker foxhound"
+786,COCO_train2014_000000467027.jpg,"bicycle, sheep"
+787,COCO_train2014_000000147694.jpg,"tie, bench, dog, bicycle"
+788,igloo4.jpg,igloo
+789,citystreet11.jpg,citystreet
+790,COCO_train2014_000000143594.jpg,"cat, traffic light"
+791,n02776631_55082.JPEG,"bakery, bakeshop, bakehouse"
+792,n01631663_4901.JPEG,eft
+793,concert5.jpg,concert
+794,COCO_train2014_000000541164.jpg,cat
+795,n03485407_6896.JPEG,"hand-held computer, hand-held microcomputer"
+796,n01560419_1342.JPEG,bulbul
+797,eyeglassstore8.jpg,eyeglassstore
+798,n03417042_10677.JPEG,"garbage truck, dustcart"
+799,n02091635_7610.JPEG,"otterhound, otter hound"
+800,lightingstore3.jpg,lightingstore
+801,castle4.jpg,castle
+802,hallway2.jpg,hallway
+803,rep_n07717410_9329.JPEG,rep_n07717410_
+804,n03627232_7376.JPEG,knot
+805,n02123159_3798.JPEG,tiger cat
+806,COCO_train2014_000000225054.jpg,"bicycle, sports ball"
+807,COCO_train2014_000000345725.jpg,bear
+808,COCO_train2014_000000531256.jpg,airplane
+809,n02441942_409.JPEG,weasel
+810,n04560804_13788.JPEG,water jug
+811,n03197337_1313.JPEG,digital watch
+812,COCO_train2014_000000120987.jpg,hat
+813,COCO_train2014_000000407778.jpg,"bicycle, fire hydrant, truck"
+814,dugout1.jpg,dugout
+815,COCO_train2014_000000318299.jpg,boat
+816,n03125729_6225.JPEG,cradle
+817,COCO_train2014_000000386856.jpg,"baseball glove, bicycle, kite, bird"
+818,COCO_train2014_000000346310.jpg,giraffe
+819,rep_n04019541_4621.JPEG,rep_n04019541_
+820,n04023962_16686.JPEG,"punching bag, punch bag, punching ball, punchball"
+821,labClass3.jpg,labClass
+822,COCO_train2014_000000245895.jpg,"bicycle, skateboard"
+823,waterfall_outdoor4.jpg,waterfall_outdoor
+824,icecream4.jpg,icecream
+825,n09472597_7165.JPEG,volcano
+826,n03763968_1201.JPEG,military uniform
+827,COCO_train2014_000000213288.jpg,"blender, window, oven, bed, refrigerator, vase, couch, toaster"
+828,COCO_train2014_000000372943.jpg,"bicycle, kite, skateboard"
+829,drycleaners3.jpg,drycleaners
+830,tenniscourt5.jpg,tenniscourt
+831,COCO_train2014_000000398934.jpg,"tie, bicycle, bird, window, umbrella"
+832,n02095570_3254.JPEG,Lakeland terrier
+833,COCO_train2014_000000146725.jpg,bus
+834,COCO_train2014_000000425135.jpg,refrigerator
+835,n02276258_392.JPEG,admiral
+836,n04204347_7781.JPEG,shopping cart
+837,n04326547_12861.JPEG,stone wall
+838,n03642806_23635.JPEG,"laptop, laptop computer"
+839,COCO_train2014_000000188405.jpg,"microwave, bicycle, boat, motorcycle"
+840,n04376876_11087.JPEG,syringe
+841,COCO_train2014_000000164502.jpg,giraffe
+842,racecarcourse.jpg,racecarcourse
+843,laundromat3.jpg,laundromat
+844,COCO_train2014_000000277778.jpg,donut
+845,n03733281_29214.JPEG,"maze, labyrinth"
+846,COCO_train2014_000000257164.jpg,"mouse, bicycle"
+847,n03047690_9895.JPEG,"clog, geta, patten, sabot"
+848,COCO_train2014_000000150196.jpg,"boat, fire hydrant, train, motorcycle"
+849,n03791053_17506.JPEG,"motor scooter, scooter"
+850,rep_COCO_train2014_000000242631.jpg,"bicycle, skis"
+851,n04125021_14260.JPEG,safe
+852,n04131690_3365.JPEG,"saltshaker, salt shaker"
+853,n04550184_26611.JPEG,"wardrobe, closet, press"
+854,n02105641_3364.JPEG,"Old English sheepdog, bobtail"
+855,n01910747_1419.JPEG,jellyfish
+856,n02033041_3442.JPEG,dowitcher
+857,COCO_train2014_000000345149.jpg,"bicycle, sports ball"
+858,pier5.jpg,pier
+859,drycleaners6.jpg,drycleaners
+860,COCO_train2014_000000259687.jpg,"bicycle, sports ball"
+861,COCO_train2014_000000408965.jpg,bus
+862,operatingroom1.jpg,operatingroom
+863,n03000684_16894.JPEG,"chain saw, chainsaw"
+864,carwash3.jpg,carwash
+865,COCO_train2014_000000559560.jpg,"clock, window, potted plant, mirror, couch"
+866,COCO_train2014_000000138153.jpg,"door, refrigerator, scissors"
+867,museum6.jpg,museum
+868,n02802426_19991.JPEG,basketball
+869,n04116512_9840.JPEG,"rubber eraser, rubber, pencil eraser"
+870,COCO_train2014_000000244334.jpg,"bicycle, snowboard"
+871,factory1.jpg,factory
+872,COCO_train2014_000000009988.jpg,giraffe
+873,rep_n03345487_28487.JPEG,rep_n03345487_
+874,rooftop2.jpg,rooftop
+875,COCO_train2014_000000226527.jpg,hat
+876,COCO_train2014_000000374288.jpg,"fork, carrot, window, plate, banana, hot dog"
+877,COCO_train2014_000000491140.jpg,"tie, bicycle, bird"
+878,rep_COCO_train2014_000000112805.jpg,bird
+879,COCO_train2014_000000504888.jpg,"bicycle, bird"
+880,n04141975_12834.JPEG,"scale, weighing machine"
+881,COCO_train2014_000000084174.jpg,"baseball glove, bicycle, skateboard"
+882,n02277742_15647.JPEG,"ringlet, ringlet butterfly"
+883,n01644900_2394.JPEG,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui"
+884,COCO_train2014_000000439241.jpg,"toothbrush, door, refrigerator, plate"
+885,COCO_train2014_000000472400.jpg,"bicycle, truck"
+886,n04458633_6595.JPEG,totem pole
+887,COCO_train2014_000000159453.jpg,"potted plant, mouse, clock, dog"
+888,n03014705_10173.JPEG,chest
+889,bar.jpg,bar
+890,COCO_train2014_000000285450.jpg,refrigerator
+891,rep_n03602883_18507.JPEG,rep_n03602883_
+892,COCO_train2014_000000570178.jpg,"banana, carrot"
+893,COCO_train2014_000000492627.jpg,"clock, cup, window, plate, bed, couch, toaster"
+894,COCO_train2014_000000428691.jpg,"bicycle, traffic light"
+895,COCO_train2014_000000061215.jpg,"pizza, window, orange"
+896,n02123045_557.JPEG,"tabby, tabby cat"
+897,COCO_train2014_000000118680.jpg,"mouse, bicycle, clock, dog, potted plant"
+898,COCO_train2014_000000090201.jpg,"airplane, bicycle"
+899,COCO_train2014_000000224869.jpg,"bicycle, airplane, motorcycle, vase, horse"
+900,COCO_train2014_000000152328.jpg,"tie, bicycle, car"
+901,waterfall_outdoor11.jpg,waterfall_outdoor
+902,treehouse4.jpg,treehouse
+903,COCO_train2014_000000268418.jpg,"bicycle, baseball bat"
+904,playground10.jpg,playground
+905,n01622779_7389.JPEG,"great grey owl, great gray owl, Strix nebulosa"
+906,COCO_train2014_000000260400.jpg,giraffe
+907,COCO_train2014_000000163103.jpg,"bicycle, snowboard"
+908,n02490219_4577.JPEG,marmoset
+909,rep_n04335435_10063.JPEG,rep_n04335435_
+910,n02264363_9150.JPEG,"lacewing, lacewing fly"
+911,COCO_train2014_000000495022.jpg,"bicycle, tennis racket"
+912,lockerroom2.jpg,lockerroom
+913,n02510455_1670.JPEG,"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca"
+914,n03255030_4054.JPEG,dumbbell
+915,n02825657_3847.JPEG,"bell cote, bell cot"
+916,observatory2.jpg,observatory
+917,n03065424_7411.JPEG,"coil, spiral, volute, whorl, helix"
+918,n02172182_3566.JPEG,dung beetle
+919,COCO_train2014_000000020517.jpg,"fire hydrant, vase, motorcycle"
+920,n04487081_28566.JPEG,"trolleybus, trolley coach, trackless trolley"
+921,COCO_train2014_000000204806.jpg,zebra
+922,skatepark5.jpg,skatepark
+923,n04204347_7065.JPEG,shopping cart
+924,n04461696_3462.JPEG,"tow truck, tow car, wrecker"
+925,COCO_train2014_000000468394.jpg,"bicycle, couch, bird"
+926,diningroom7.jpg,diningroom
+927,COCO_train2014_000000523164.jpg,"bicycle, couch, fork, window, banana, spoon, orange"
+928,rep_COCO_train2014_000000399337.jpg,vase
+929,RVinside2.jpg,RVinside
+930,n07697313_11356.JPEG,cheeseburger
+931,rep_campsite3.jpg,rep_campsite
+932,n02692877_1225.JPEG,"airship, dirigible"
+933,COCO_train2014_000000014546.jpg,"bicycle, tennis racket"
+934,n02992211_35871.JPEG,"cello, violoncello"
+935,COCO_train2014_000000246166.jpg,"microwave, bicycle"
+936,n01675722_6842.JPEG,banded gecko
+937,COCO_train2014_000000251702.jpg,"carrot, window, bowl, banana, hot dog"
+938,COCO_train2014_000000091637.jpg,"bicycle, baseball bat, motorcycle"
+939,n01798484_2829.JPEG,"prairie chicken, prairie grouse, prairie fowl"
+940,COCO_train2014_000000285307.jpg,giraffe
+941,n02480495_788.JPEG,"orangutan, orang, orangutang, Pongo pygmaeus"
+942,n03781244_15818.JPEG,monastery
+943,n03662601_14072.JPEG,lifeboat
+944,airplanecabin5.jpg,airplanecabin
+945,n03976657_6294.JPEG,pole
+946,COCO_train2014_000000361193.jpg,giraffe
+947,nursery2.jpg,nursery
+948,COCO_train2014_000000303133.jpg,"cat, vase"
+949,n07920052_19129.JPEG,espresso
+950,COCO_train2014_000000278714.jpg,"potted plant, bed, scissors"
+951,COCO_train2014_000000063482.jpg,"bicycle, suitcase"
+952,COCO_train2014_000000061918.jpg,"bicycle, suitcase"
+953,n01514859_10095.JPEG,hen
+954,n03498962_8595.JPEG,hatchet
+955,COCO_train2014_000000186484.jpg,"dog, motorcycle"
+956,promenadeDeck.jpg,promenadeDeck
+957,ice_rink10.jpg,ice_rink
+958,kitchen6.jpg,kitchen
+959,stream_outdoor5.jpg,stream_outdoor
+960,n02105162_5214.JPEG,malinois
+961,COCO_train2014_000000566214.jpg,"sandwich, bicycle, suitcase, apple"
+962,COCO_train2014_000000334011.jpg,"bicycle, sheep"
+963,COCO_train2014_000000555457.jpg,"bicycle, sheep"
+964,ShowJumping7.jpg,ShowJumping
+965,nailsalon4.jpg,nailsalon
+966,COCO_train2014_000000300622.jpg,"bicycle, suitcase"
+967,COCO_train2014_000000125042.jpg,"mirror, clock"
+968,n03874599_12058.JPEG,padlock
+969,COCO_train2014_000000176732.jpg,"bus, boat, motorcycle"
+970,grocerystore2.jpg,grocerystore
+971,n01824575_1413.JPEG,coucal
+972,COCO_train2014_000000315461.jpg,hat
+973,igloo2.jpg,igloo
+974,COCO_train2014_000000237090.jpg,giraffe
+975,n02988304_2552.JPEG,CD player
+976,COCO_train2014_000000067082.jpg,"elephant, cat"
+977,n03782006_1286.JPEG,monitor
+978,n07584110_11300.JPEG,consomme
+979,COCO_train2014_000000101952.jpg,"mouse, clock, fork, laptop, cell phone, couch, remote"
+980,n01882714_5318.JPEG,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus"
+981,aquarium6.jpg,aquarium
+982,rep_COCO_train2014_000000523272.jpg,"bicycle, motorcycle, boat, fire hydrant, horse"
+983,fireEscape8.jpg,fireEscape
+984,n02111129_4141.JPEG,Leonberg
+985,COCO_train2014_000000478505.jpg,"door, scissors"
+986,COCO_train2014_000000065769.jpg,"bicycle, pizza"
+987,n09468604_12427.JPEG,"valley, vale"
+988,COCO_train2014_000000001625.jpg,"car, train"
+989,n01518878_5028.JPEG,"ostrich, Struthio camelus"
+990,n02490219_3652.JPEG,marmoset
+991,COCO_train2014_000000227307.jpg,"bus, motorcycle"
+992,rep_n04517823_11001.JPEG,rep_n04517823_
+993,COCO_train2014_000000292436.jpg,dog
+994,n02086910_4607.JPEG,papillon
+995,n07760859_5424.JPEG,custard apple
+996,COCO_train2014_000000326161.jpg,"bicycle, sports ball, snowboard"
+997,cemetery6.jpg,cemetery
+998,n07613480_5958.JPEG,trifle
+999,n03777754_2544.JPEG,modem
+1000,amusement2.jpg,amusement
+1001,COCO_train2014_000000372247.jpg,giraffe
+1002,n13037406_2866.JPEG,gyromitra
+1003,rainforest2.jpg,rainforest
+1004,COCO_train2014_000000382969.jpg,"bicycle, surfboard"
+1005,COCO_train2014_000000161062.jpg,bus
+1006,n04417672_1923.JPEG,"thatch, thatched roof"
+1007,rep_n04136333_2487.JPEG,rep_n04136333_
+1008,COCO_train2014_000000065012.jpg,"bottle, bicycle, kite, motorcycle"
+1009,COCO_train2014_000000244578.jpg,"bicycle, tennis racket"
+1010,COCO_train2014_000000370802.jpg,"bicycle, suitcase, couch, knife, fork, window, plate, bowl, spoon"
+1011,firestation4.jpg,firestation
+1012,n02168699_3026.JPEG,"long-horned beetle, longicorn, longicorn beetle"
+1013,n04355338_8539.JPEG,sundial
+1014,n04604644_15039.JPEG,"worm fence, snake fence, snake-rail fence, Virginia fence"
+1015,n01685808_9352.JPEG,"whiptail, whiptail lizard"
+1016,botanicalGarden4.jpg,botanicalGarden
+1017,ATM1.jpg,ATM
+1018,COCO_train2014_000000541746.jpg,cat
+1019,COCO_train2014_000000453221.jpg,"airplane, bicycle"
+1020,COCO_train2014_000000024591.jpg,"bicycle, snowboard"
+1021,COCO_train2014_000000083738.jpg,"hair brush, door, refrigerator, fork"
+1022,COCO_train2014_000000130181.jpg,elephant
+1023,n02391049_1189.JPEG,zebra
+1024,n02088238_7566.JPEG,"basset, basset hound"
+1025,COCO_train2014_000000139815.jpg,"shoe, bicycle, bird"
+1026,postoffice1.jpg,postoffice
+1027,COCO_train2014_000000135836.jpg,"bicycle, tennis racket"
+1028,n02877765_15088.JPEG,bottlecap
+1029,n04505470_3947.JPEG,typewriter keyboard
+1030,concerthall5.jpg,concerthall
+1031,rep_COCO_train2014_000000363605.jpg,bear
+1032,n02111277_2742.JPEG,"Newfoundland, Newfoundland dog"
+1033,COCO_train2014_000000198977.jpg,bear
+1034,savanna4.jpg,savanna
+1035,n02280649_2534.JPEG,cabbage butterfly
+1036,COCO_train2014_000000130973.jpg,"bus, boat"
+1037,COCO_train2014_000000147547.jpg,microwave
+1038,n02088632_2841.JPEG,bluetick
+1039,COCO_train2014_000000087334.jpg,"keyboard, dog, fork, potted plant, microwave, couch"
+1040,staircase4.jpg,staircase
+1041,rep_COCO_train2014_000000341033.jpg,"bicycle, tennis racket"
+1042,waitingroom1.jpg,waitingroom
+1043,COCO_train2014_000000424218.jpg,"sandwich, broccoli"
+1044,n02101556_3256.JPEG,"clumber, clumber spaniel"
+1045,COCO_train2014_000000308950.jpg,vase
+1046,COCO_train2014_000000293372.jpg,"bicycle, mirror"
+1047,n02988304_5949.JPEG,CD player
+1048,COCO_train2014_000000336804.jpg,"potted plant, horse, couch, hair drier"
+1049,n02111129_1827.JPEG,Leonberg
+1050,n02002724_6339.JPEG,"black stork, Ciconia nigra"
+1051,whitewaterrapids.jpg,whitewaterrapids
+1052,n02085620_6945.JPEG,Chihuahua
+1053,COCO_train2014_000000533551.jpg,"bicycle, baseball bat"
+1054,poolhall5.jpg,poolhall
+1055,COCO_train2014_000000165106.jpg,bird
+1056,n02113799_8764.JPEG,standard poodle
+1057,rooftop1.jpg,rooftop
+1058,COCO_train2014_000000464616.jpg,"bear, bicycle"
+1059,n01530575_3746.JPEG,"brambling, Fringilla montifringilla"
+1060,n02865351_24792.JPEG,"bolo tie, bolo, bola tie, bola"
+1061,sculpturegarden2.jpg,sculpturegarden
+1062,COCO_train2014_000000487825.jpg,"cell phone, couch, laptop, remote"
+1063,n03297495_6878.JPEG,espresso maker
+1064,cornfield3.jpg,cornfield
+1065,n03197337_2865.JPEG,digital watch
+1066,COCO_train2014_000000209931.jpg,"microwave, mouse, remote, teddy bear"
+1067,n02096585_8512.JPEG,"Boston bull, Boston terrier"
+1068,rep_n02356798_2870.JPEG,rep_n02356798_
+1069,n04409515_3252.JPEG,tennis ball
+1070,COCO_train2014_000000272901.jpg,"tie, bicycle, car, bench, motorcycle, boat, umbrella, fire hydrant"
+1071,n04372370_37233.JPEG,"switch, electric switch, electrical switch"
+1072,COCO_train2014_000000568927.jpg,cat
+1073,greenhouse3.jpg,greenhouse
+1074,COCO_train2014_000000297844.jpg,"bicycle, skis"
+1075,n02488702_1072.JPEG,"colobus, colobus monkey"
+1076,COCO_train2014_000000296267.jpg,"spoon, window, orange"
+1077,COCO_train2014_000000062763.jpg,"bicycle, blender, fork, window, couch"
+1078,COCO_train2014_000000346795.jpg,"bicycle, snowboard"
+1079,COCO_train2014_000000001496.jpg,street sign
+1080,rep_desertvegetation3.jpg,rep_desertvegetation
+1081,COCO_train2014_000000508612.jpg,giraffe
+1082,n03690938_4233.JPEG,lotion
+1083,horsebarn9.jpg,horsebarn
+1084,COCO_train2014_000000055402.jpg,hat
+1085,baggageClaim2.jpg,baggageClaim
+1086,COCO_train2014_000000401251.jpg,"bicycle, tennis racket"
+1087,playroom4.jpg,playroom
+1088,n01986214_18927.JPEG,hermit crab
+1089,n09399592_90080.JPEG,"promontory, headland, head, foreland"
+1090,rep_n01796340_19749.JPEG,rep_n01796340_
+1091,COCO_train2014_000000560396.jpg,"shoe, bicycle, couch, bird"
+1092,COCO_train2014_000000211138.jpg,"keyboard, bicycle, knife, fork, window, banana, spoon"
+1093,n04423845_13920.JPEG,thimble
+1094,n07718747_11173.JPEG,"artichoke, globe artichoke"
+1095,n04044716_8781.JPEG,"radio telescope, radio reflector"
+1096,n03786901_7792.JPEG,mortar
+1097,n02169497_8053.JPEG,"leaf beetle, chrysomelid"
+1098,n04070727_5531.JPEG,"refrigerator, icebox"
+1099,COCO_train2014_000000072715.jpg,"oven, clock, scissors, toaster"
+1100,sushibar10.jpg,sushibar
+1101,n03929660_22386.JPEG,"pick, plectrum, plectron"
+1102,castle2.jpg,castle
+1103,COCO_train2014_000000455020.jpg,"cell phone, laptop, remote"
+1104,n02981792_10684.JPEG,catamaran
+1105,COCO_train2014_000000202805.jpg,"bicycle, skis"
+1106,n02102480_11314.JPEG,Sussex spaniel
+1107,ISS3.jpg,ISS
+1108,COCO_train2014_000000417700.jpg,"bicycle, tennis racket"
+1109,n03676483_6920.JPEG,"lipstick, lip rouge"
+1110,readingroom5.jpg,readingroom
+1111,COCO_train2014_000000037925.jpg,"bicycle, surfboard"
+1112,n02086646_4398.JPEG,Blenheim spaniel
+1113,n01978287_5664.JPEG,"Dungeness crab, Cancer magister"
+1114,COCO_train2014_000000571548.jpg,"cat, parking meter, motorcycle"
+1115,yogastudio3.jpg,yogastudio
+1116,COCO_train2014_000000415608.jpg,traffic light
+1117,n02134418_1384.JPEG,"sloth bear, Melursus ursinus, Ursus ursinus"
+1118,n07695742_6577.JPEG,pretzel
+1119,rep_COCO_train2014_000000134111.jpg,baseball bat
+1120,poolhall2.jpeg,poolhall
+1121,farm1.jpg,farm
+1122,n02389026_6893.JPEG,sorrel
+1123,carmechanic3.jpg,carmechanic
+1124,rep_library_aisle10.jpg,rep_library_aisle
+1125,n04429376_2693.JPEG,throne
+1126,COCO_train2014_000000445726.jpg,vase
+1127,n03444034_4956.JPEG,go-kart
+1128,COCO_train2014_000000444171.jpg,"hair drier, bicycle, mirror, clock"
+1129,COCO_train2014_000000108871.jpg,"banana, giraffe, sheep"
+1130,COCO_train2014_000000401919.jpg,bear
+1131,n03532672_30611.JPEG,"hook, claw"
+1132,COCO_train2014_000000408922.jpg,airplane
+1133,COCO_train2014_000000029732.jpg,giraffe
+1134,n03908714_12762.JPEG,pencil sharpener
+1135,n02981792_3265.JPEG,catamaran
+1136,COCO_train2014_000000261575.jpg,horse
+1137,conference4.jpg,conference
+1138,COCO_train2014_000000373970.jpg,"bicycle, surfboard, plate, motorcycle, umbrella"
+1139,n01537544_5373.JPEG,"indigo bunting, indigo finch, indigo bird, Passerina cyanea"
+1140,n01608432_16455.JPEG,kite
+1141,COCO_train2014_000000570785.jpg,vase
+1142,basketballcourt4.jpg,basketballcourt
+1143,n03942813_9877.JPEG,ping-pong ball
+1144,n07716358_40372.JPEG,"zucchini, courgette"
+1145,COCO_train2014_000000252850.jpg,"keyboard, laptop, potted plant, vase, couch"
+1146,COCO_train2014_000000488658.jpg,hat
+1147,COCO_train2014_000000399337.jpg,vase
+1148,rep_COCO_train2014_000000190964.jpg,bus
+1149,n04026417_26908.JPEG,purse
+1150,rep_n04136333_2487.JPEG,rep_n04136333_
+1151,n09468604_78803.JPEG,"valley, vale"
+1152,n04310018_13967.JPEG,steam locomotive
+1153,n01883070_9183.JPEG,wombat
+1154,COCO_train2014_000000096161.jpg,hat
+1155,frontLawn3.jpg,frontLawn
+1156,office3.jpg,office
+1157,n02236044_17749.JPEG,"mantis, mantid"
+1158,n07831146_8193.JPEG,carbonara
+1159,COCO_train2014_000000246792.jpg,"bowl, hot dog, window"
+1160,n03775546_5801.JPEG,mixing bowl
+1161,COCO_train2014_000000520422.jpg,giraffe
+1162,COCO_train2014_000000523272.jpg,"bicycle, motorcycle, boat, fire hydrant, horse"
+1163,restaurantkitchen.jpg,restaurantkitchen
+1164,COCO_train2014_000000196368.jpg,"bed, door, scissors, refrigerator"
+1165,COCO_train2014_000000234383.jpg,horse
+1166,n04069434_2278.JPEG,reflex camera
+1167,n02447366_17624.JPEG,badger
+1168,n03814639_9256.JPEG,neck brace
+1169,runway2.jpg,runway
+1170,COCO_train2014_000000543541.jpg,apple
+1171,COCO_train2014_000000244132.jpg,"bicycle, sports ball, snowboard, bird, umbrella"
+1172,n03445924_19842.JPEG,"golfcart, golf cart"
+1173,COCO_train2014_000000261858.jpg,"bicycle, blender, knife, bowl, banana, refrigerator"
+1174,bleachers5.jpg,bleachers
+1175,mallindoor8.jpg,mallindoor
+1176,COCO_train2014_000000331607.jpg,vase
+1177,n02091244_4986.JPEG,"Ibizan hound, Ibizan Podenco"
+1178,COCO_train2014_000000023392.jpg,"tie, bicycle, bird, shoe, microwave"
+1179,COCO_train2014_000000507789.jpg,"door, refrigerator, plate"
+1180,n02690373_7046.JPEG,airliner
+1181,publicrestroom4.jpg,publicrestroom
+1182,COCO_train2014_000000109971.jpg,"bicycle, kite, skateboard"
+1183,n02415577_5690.JPEG,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis"
+1184,COCO_train2014_000000376407.jpg,"bicycle, surfboard"
+1185,COCO_train2014_000000490888.jpg,"tie, bicycle, car, truck"
+1186,COCO_train2014_000000190271.jpg,cat
+1187,carFactory4.jpeg,carFactory
+1188,COCO_train2014_000000498443.jpg,horse
+1189,rep_COCO_train2014_000000116603.jpg,"spoon, broccoli"
+1190,COCO_train2014_000000505420.jpg,"bicycle, snowboard"
+1191,n01443537_1087.JPEG,"goldfish, Carassius auratus"
+1192,sandbox7.jpg,sandbox
+1193,n03452741_16107.JPEG,"grand piano, grand"
+1194,n03658185_5584.JPEG,"letter opener, paper knife, paperknife"
+1195,COCO_train2014_000000246736.jpg,"potted plant, cell phone, couch, dog"
+1196,COCO_train2014_000000174522.jpg,"bicycle, skis"
+1197,homeoffice8.jpg,homeoffice
+1198,n03944341_8299.JPEG,pinwheel
+1199,n04554684_1213.JPEG,"washer, automatic washer, washing machine"
+1200,COCO_train2014_000000192171.jpg,hat
+1201,skislope11.jpg,skislope
+1202,n04584207_8095.JPEG,wig
+1203,stream_outdoor10.jpg,stream_outdoor
+1204,COCO_train2014_000000032832.jpg,train
+1205,baywindow2.jpg,baywindow
+1206,n01855032_7458.JPEG,"red-breasted merganser, Mergus serrator"
+1207,laundromat2.jpeg,laundromat
+1208,n02097298_7926.JPEG,"Scotch terrier, Scottish terrier, Scottie"
+1209,n07716906_5285.JPEG,spaghetti squash
+1210,n04522168_29661.JPEG,vase
+1211,n01796340_19749.JPEG,ptarmigan
+1212,COCO_train2014_000000442888.jpg,dog
+1213,COCO_train2014_000000268444.jpg,mirror
+1214,COCO_train2014_000000420713.jpg,"sandwich, window, hot dog, scissors, apple, couch"
+1215,n02125311_9205.JPEG,"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor"
+1216,COCO_train2014_000000545160.jpg,"mouse, blender, plate, microwave, refrigerator, apple, remote, toaster"
+1217,n01843065_2043.JPEG,jacamar
+1218,n02051845_8361.JPEG,pelican
+1219,rep_boardwalk4.jpg,rep_boardwalk
+1220,COCO_train2014_000000359085.jpg,"horse, couch"
+1221,n04344873_8289.JPEG,"studio couch, day bed"
+1222,rep_banquetHall2.jpg,rep_banquetHall
+1223,n02086079_1227.JPEG,"Pekinese, Pekingese, Peke"
+1224,COCO_train2014_000000383508.jpg,hat
+1225,n04599235_3808.JPEG,"wool, woolen, woollen"
+1226,n07892512_17445.JPEG,red wine
+1227,lake6.jpg,lake
+1228,playground7.jpg,playground
+1229,COCO_train2014_000000283426.jpg,bus
+1230,COCO_train2014_000000197401.jpg,giraffe
+1231,COCO_train2014_000000071502.jpg,giraffe
+1232,mallindoor6.jpg,mallindoor
+1233,COCO_train2014_000000480601.jpg,"bicycle, snowboard"
+1234,n02025239_919.JPEG,"ruddy turnstone, Arenaria interpres"
+1235,COCO_train2014_000000043815.jpg,truck
+1236,artStudio3.jpg,artStudio
+1237,n03016953_18457.JPEG,"chiffonier, commode"
+1238,n02106030_7824.JPEG,collie
+1239,n03126707_15509.JPEG,crane
+1240,COCO_train2014_000000563961.jpg,"bed, door, refrigerator"
+1241,n02879718_9103.JPEG,bow
+1242,n02101556_5312.JPEG,"clumber, clumber spaniel"
+1243,COCO_train2014_000000354897.jpg,carrot
+1244,alley2.jpg,alley
+1245,COCO_train2014_000000305685.jpg,"bicycle, suitcase, fork, window, potted plant, banana, couch"
+1246,n01968897_7201.JPEG,"chambered nautilus, pearly nautilus, nautilus"
+1247,n04346328_21908.JPEG,"stupa, tope"
+1248,pavilion2.jpg,pavilion
+1249,COCO_train2014_000000556748.jpg,"bicycle, suitcase, train"
+1250,n02090379_2126.JPEG,redbone
+1251,COCO_train2014_000000503643.jpg,cat
+1252,rep_n02277742_15647.JPEG,rep_n02277742_
+1253,COCO_train2014_000000323153.jpg,"bicycle, sports ball"
+1254,COCO_train2014_000000337479.jpg,giraffe
+1255,trainStation1.jpg,trainStation
+1256,n02504013_1512.JPEG,"Indian elephant, Elephas maximus"
+1257,COCO_train2014_000000159680.jpg,vase
+1258,COCO_train2014_000000216197.jpg,donut
+1259,casino5.jpg,casino
+1260,COCO_train2014_000000115649.jpg,"chair, spoon"
+1261,n04252077_15114.JPEG,snowmobile
+1262,appleorchard2.jpg,appleorchard
+1263,COCO_train2014_000000265150.jpg,vase
+1264,livingroom4.jpg,livingroom
+1265,COCO_train2014_000000443575.jpg,"clock, laptop, bed, cell phone, scissors, couch"
+1266,rep_COCO_train2014_000000341033.jpg,"bicycle, tennis racket"
+1267,COCO_train2014_000000575971.jpg,"bicycle, baseball bat, umbrella"
+1268,n07892512_4656.JPEG,red wine
+1269,COCO_train2014_000000381961.jpg,bear
+1270,rep_tailor6.jpg,rep_tailor
+1271,n02917067_629.JPEG,"bullet train, bullet"
+1272,volleyballcourt.jpg,volleyballcourt
+1273,COCO_train2014_000000221441.jpg,"tie, bicycle, car, window, shoe, couch"
+1274,pizzeria2.jpg,pizzeria
+1275,n02835271_23430.JPEG,"bicycle-built-for-two, tandem bicycle, tandem"
+1276,COCO_train2014_000000365855.jpg,"door, plate"
+1277,n02095314_3716.JPEG,wire-haired fox terrier
+1278,n02794156_7217.JPEG,barometer
+1279,COCO_train2014_000000537687.jpg,"hair drier, bicycle"
+1280,warehouseoutside1.jpg,warehouseoutside
+1281,n03345487_25103.JPEG,"fire engine, fire truck"
+1282,n02113978_9805.JPEG,Mexican hairless
+1283,COCO_train2014_000000530082.jpg,"baseball glove, skateboard, bicycle"
+1284,farm2.jpg,farm
+1285,n02974003_850.JPEG,car wheel
+1286,n04275548_5641.JPEG,"spider web, spider's web"
+1287,n01644373_13639.JPEG,"tree frog, tree-frog"
+1288,COCO_train2014_000000363806.jpg,vase
+1289,n01697457_588.JPEG,"African crocodile, Nile crocodile, Crocodylus niloticus"
+1290,n03891251_7499.JPEG,park bench
+1291,COCO_train2014_000000485902.jpg,"bicycle, sports ball"
+1292,COCO_train2014_000000122964.jpg,"oven, refrigerator, cup"
+1293,n04330267_13164.JPEG,stove
+1294,COCO_train2014_000000397999.jpg,"bicycle, tennis racket"
+1295,rep_n01796340_19749.JPEG,rep_n01796340_
+1296,n03337140_50607.JPEG,"file, file cabinet, filing cabinet"
+1297,n03903868_9899.JPEG,"pedestal, plinth, footstall"
+1298,hospitalroom6.jpg,hospitalroom
+1299,n03400231_21818.JPEG,"frying pan, frypan, skillet"
+1300,COCO_train2014_000000569196.jpg,"bicycle, tennis racket"
+1301,COCO_train2014_000000029323.jpg,"banana, window, carrot"
+1302,rep_COCO_train2014_000000116603.jpg,"spoon, broccoli"
+1303,n02808440_28917.JPEG,"bathtub, bathing tub, bath, tub"
+1304,n01558993_2306.JPEG,"robin, American robin, Turdus migratorius"
+1305,COCO_train2014_000000292543.jpg,"bicycle, car, suitcase, elephant, sandwich, motorcycle, banana"
+1306,COCO_train2014_000000505738.jpg,"airplane, bicycle, fire hydrant, motorcycle"
+1307,COCO_train2014_000000338670.jpg,"tie, bicycle, sandwich, broccoli, apple"
+1308,n04357314_13472.JPEG,"sunscreen, sunblock, sun blocker"
+1309,courthouse3.jpg,courthouse
+1310,COCO_train2014_000000550870.jpg,"potted plant, bicycle, window, donut"
+1311,n04162706_15212.JPEG,"seat belt, seatbelt"
+1312,COCO_train2014_000000463620.jpg,truck
+1313,fittingroom4.jpg,fittingroom
+1314,n04254777_7338.JPEG,sock
+1315,botanicalGarden5.jpg,botanicalGarden
+1316,COCO_train2014_000000352236.jpg,fire hydrant
+1317,n04154565_11349.JPEG,screwdriver
+1318,COCO_train2014_000000452279.jpg,"tie, bicycle, bird"
+1319,COCO_train2014_000000547284.jpg,"chair, knife"
+1320,COCO_train2014_000000418115.jpg,"clock, cup, fork, laptop, potted plant, bed, scissors, couch"
+1321,n01692333_5867.JPEG,"Gila monster, Heloderma suspectum"
+1322,doctor4.jpg,doctor
+1323,COCO_train2014_000000356565.jpg,"tie, bicycle, laptop, umbrella, truck"
+1324,COCO_train2014_000000419296.jpg,"bicycle, suitcase, airplane, bench, motorcycle"
+1325,n02486410_7049.JPEG,baboon
+1326,n03970156_9629.JPEG,"plunger, plumber's helper"
+1327,elevatorOutside3.jpg,elevatorOutside
+1328,n02099849_2590.JPEG,Chesapeake Bay retriever
+1329,n11879895_8228.JPEG,rapeseed
+1330,homegarage2.jpg,homegarage
+1331,COCO_train2014_000000367423.jpg,elephant
+1332,n02089078_1967.JPEG,black-and-tan coonhound
+1333,n03781244_9830.JPEG,monastery
+1334,n03095699_4161.JPEG,"container ship, containership, container vessel"
+1335,COCO_train2014_000000038801.jpg,bear
+1336,n02111889_13924.JPEG,"Samoyed, Samoyede"
+1337,bakerykitchen.jpg,bakerykitchen
+1338,hometheater2.jpg,hometheater
+1339,COCO_train2014_000000027002.jpg,airplane
+1340,COCO_train2014_000000562100.jpg,"sandwich, broccoli, apple"
+1341,coffeeshop6.jpg,coffeeshop
+1342,rep_n02704792_9673.JPEG,rep_n02704792_
+1343,COCO_train2014_000000436578.jpg,zebra
+1344,COCO_train2014_000000092089.jpg,"bicycle, pizza"
+1345,n03958227_1754.JPEG,plastic bag
+1346,COCO_train2014_000000333494.jpg,giraffe
+1347,cockpit2.jpg,cockpit
+1348,COCO_train2014_000000492402.jpg,"potted plant, keyboard, bicycle"
+1349,metroInside4.jpg,metroInside
+1350,n01910747_3616.JPEG,jellyfish
+1351,COCO_train2014_000000239828.jpg,"shoe, bicycle, car"
+1352,n03992509_3521.JPEG,potter's wheel
+1353,COCO_train2014_000000481157.jpg,"cell phone, bicycle, laptop, remote"
+1354,n02058221_2070.JPEG,"albatross, mollymawk"
+1355,n02090379_6373.JPEG,redbone
+1356,n02009912_9742.JPEG,"American egret, great white heron, Egretta albus"
+1357,COCO_train2014_000000532753.jpg,bus
+1358,deck1.jpg,deck
+1359,treehouse.jpg,treehouse
+1360,n02509815_11491.JPEG,"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens"
+1361,COCO_train2014_000000240128.jpg,"bicycle, tennis racket"
+1362,n02687172_1657.JPEG,"aircraft carrier, carrier, flattop, attack aircraft carrier"
+1363,COCO_train2014_000000366802.jpg,giraffe
+1364,rep_n01843065_640.JPEG,rep_n01843065_
+1365,COCO_train2014_000000105358.jpg,"keyboard, bicycle, clock, potted plant, couch"
+1366,n07930864_32716.JPEG,cup
+1367,n04486054_1941.JPEG,triumphal arch
+1368,COCO_train2014_000000412200.jpg,"bicycle, tennis racket"
+1369,cave4.jpg,cave
+1370,n02112350_3837.JPEG,keeshond
+1371,COCO_train2014_000000250381.jpg,"bicycle, tennis racket"
+1372,n07717410_9329.JPEG,acorn squash
+1373,n02790996_9913.JPEG,barbell
+1374,COCO_train2014_000000136142.jpg,"blender, knife, sandwich, window, carrot, plate, bowl, banana, hot dog, scissors, apple, couch"
+1375,n04536866_34509.JPEG,"violin, fiddle"
+1376,COCO_train2014_000000455799.jpg,"bicycle, donut, window"
+1377,bridge3.jpg,bridge
+1378,COCO_train2014_000000474859.jpg,"scissors, bed, fork, window"
+1379,COCO_train2014_000000380729.jpg,motorcycle
+1380,n02906734_3063.JPEG,broom
+1381,n01833805_1411.JPEG,hummingbird
+1382,n03127925_21504.JPEG,crate
+1383,n03630383_6338.JPEG,"lab coat, laboratory coat"
+1384,COCO_train2014_000000479651.jpg,"bicycle, carrot, hot dog, spoon, toaster"
+1385,COCO_train2014_000000016898.jpg,vase
+1386,n03131574_426.JPEG,"crib, cot"
+1387,skatepark.jpg,skatepark
+1388,n01665541_15223.JPEG,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea"
+1389,COCO_train2014_000000022964.jpg,"bottle, bicycle, kite"
+1390,runway1.jpg,runway
+1391,n04005630_17549.JPEG,"prison, prison house"
+1392,pier2.jpg,pier
+1393,rep_n04040759_5145.JPEG,rep_n04040759_
+1394,COCO_train2014_000000043776.jpg,truck
+1395,n09428293_26701.JPEG,"seashore, coast, seacoast, sea-coast"
+1396,breakroom2.jpg,breakroom
+1397,COCO_train2014_000000011667.jpg,"elephant, cow"
+1398,closet5.jpg,closet
+1399,COCO_train2014_000000179480.jpg,"bicycle, snowboard"
+1400,n02999410_12249.JPEG,chain
+1401,n03495258_174.JPEG,harp
+1402,rep_n04591157_1442.JPEG,rep_n04591157_
+1403,COCO_train2014_000000066253.jpg,"mirror, dog"
+1404,COCO_train2014_000000340488.jpg,"tie, bicycle, fire hydrant, truck"
+1405,COCO_train2014_000000580813.jpg,"shoe, bicycle"
+1406,COCO_train2014_000000501926.jpg,"bicycle, sports ball"
+1407,coralreef.jpg,coralreef
+1408,COCO_train2014_000000015823.jpg,elephant
+1409,COCO_train2014_000000373666.jpg,"sandwich, window, broccoli, banana, apple"
+1410,n04486054_12926.JPEG,triumphal arch
+1411,COCO_train2014_000000431825.jpg,hat
+1412,rep_library_aisle10.jpg,rep_library_aisle
+1413,icecream2.jpg,icecream
+1414,n02441942_17262.JPEG,weasel
+1415,n12057211_262.JPEG,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+1416,winebarrel1.jpg,winebarrel
+1417,hardwarestore4.jpg,hardwarestore
+1418,n01616318_626.JPEG,vulture
+1419,COCO_train2014_000000526035.jpg,sheep
+1420,COCO_train2014_000000412855.jpg,"parking meter, fire hydrant"
+1421,n04141975_33422.JPEG,"scale, weighing machine"
+1422,COCO_train2014_000000322246.jpg,"frisbee, dog"
+1423,COCO_train2014_000000420478.jpg,dog
+1424,ShowJumping8.jpg,ShowJumping
+1425,childsroom2.jpg,childsroom
+1426,n03388183_13799.JPEG,fountain pen
+1427,COCO_train2014_000000112734.jpg,bear
+1428,n03743016_8738.JPEG,"megalith, megalithic structure"
+1429,n02206856_4812.JPEG,bee
+1430,island3.jpg,island
+1431,COCO_train2014_000000008562.jpg,"sandwich, carrot, window, broccoli, apple, couch"
+1432,COCO_train2014_000000454565.jpg,"bicycle, bus, boat, motorcycle"
+1433,COCO_train2014_000000367048.jpg,"microwave, bicycle, window, chair"
+1434,n04254120_2111.JPEG,soap dispenser
+1435,n03400231_6486.JPEG,"frying pan, frypan, skillet"
+1436,rep_COCO_train2014_000000113449.jpg,"bicycle, tennis racket"
+1437,COCO_train2014_000000280484.jpg,"bicycle, boat, fire hydrant, motorcycle"
+1438,n03127747_3338.JPEG,crash helmet
+1439,n13052670_2612.JPEG,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa"
+1440,n02101006_16208.JPEG,Gordon setter
+1441,COCO_train2014_000000430523.jpg,bear
+1442,COCO_train2014_000000414853.jpg,sheep
+1443,COCO_train2014_000000516517.jpg,"bicycle, snowboard"
+1444,COCO_train2014_000000531765.jpg,giraffe
+1445,n07742313_4357.JPEG,Granny Smith
+1446,tenniscourt2.jpg,tenniscourt
+1447,n02109961_53398.JPEG,"Eskimo dog, husky"
+1448,COCO_train2014_000000259414.jpg,"bicycle, surfboard"
+1449,COCO_train2014_000000532520.jpg,"door, refrigerator"
+1450,classroom2.jpg,classroom
+1451,n02408429_8642.JPEG,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis"
+1452,n02493793_1728.JPEG,"spider monkey, Ateles geoffroyi"
+1453,n03787032_13150.JPEG,mortarboard
+1454,COCO_train2014_000000140724.jpg,"bicycle, sheep"
+1455,n03776460_5895.JPEG,"mobile home, manufactured home"
+1456,COCO_train2014_000000445351.jpg,horse
+1457,n04525305_17128.JPEG,vending machine
+1458,COCO_train2014_000000000036.jpg,"shoe, bicycle"
+1459,COCO_train2014_000000563511.jpg,"fire hydrant, motorcycle"
+1460,canyon.jpg,canyon
+1461,n04596742_20706.JPEG,wok
+1462,COCO_train2014_000000559225.jpg,cat
+1463,rep_tailor6.jpg,rep_tailor
+1464,n02480495_17586.JPEG,"orangutan, orang, orangutang, Pongo pygmaeus"
+1465,n04004767_1801.JPEG,printer
+1466,COCO_train2014_000000152273.jpg,"microwave, fork, window"
+1467,COCO_train2014_000000175236.jpg,donut
+1468,foodcourt.jpg,foodcourt
+1469,rep_n13040303_4195.JPEG,rep_n13040303_
+1470,n02825657_15789.JPEG,"bell cote, bell cot"
+1471,igloo5.jpg,igloo
+1472,jewelrystore3.jpg,jewelrystore
+1473,COCO_train2014_000000353175.jpg,bear
+1474,n03874599_10119.JPEG,padlock
+1475,COCO_train2014_000000412857.jpg,hat
+1476,COCO_train2014_000000467646.jpg,"shoe, bicycle, couch"
+1477,COCO_train2014_000000079338.jpg,"potted plant, keyboard, bicycle, couch"
+1478,onboat6.jpg,onboat
+1479,n02797295_13746.JPEG,"barrow, garden cart, lawn cart, wheelbarrow"
+1480,COCO_train2014_000000401499.jpg,"bicycle, sports ball"
+1481,n03218198_23089.JPEG,"dogsled, dog sled, dog sleigh"
+1482,COCO_train2014_000000116588.jpg,"blender, fork, window, plate, broccoli, oven, bed, banana, refrigerator, bowl, apple, couch, toaster"
+1483,COCO_train2014_000000323936.jpg,cat
+1484,COCO_train2014_000000389103.jpg,bus
+1485,COCO_train2014_000000438045.jpg,"mouse, bicycle, couch, remote"
+1486,COCO_train2014_000000557037.jpg,cow
+1487,rep_n02229544_6831.JPEG,rep_n02229544_
+1488,COCO_train2014_000000207717.jpg,"bicycle, clock, suitcase, vase, couch"
+1489,highway2.jpg,highway
+1490,n03743016_11028.JPEG,"megalith, megalithic structure"
+1491,COCO_train2014_000000304187.jpg,"bicycle, snowboard"
+1492,n03529860_6834.JPEG,"home theater, home theatre"
+1493,n03938244_13254.JPEG,pillow
+1494,COCO_train2014_000000448401.jpg,truck
+1495,n03793489_8323.JPEG,"mouse, computer mouse"
+1496,playground6.jpg,playground
+1497,n04380533_33.JPEG,table lamp
+1498,n04606251_6619.JPEG,wreck
+1499,ballroom2.jpg,ballroom
+1500,n04501370_20404.JPEG,turnstile
+1501,n02951358_2118.JPEG,canoe
+1502,COCO_train2014_000000225113.jpg,"bicycle, sports ball, snowboard"
+1503,n07714990_2462.JPEG,broccoli
+1504,COCO_train2014_000000275663.jpg,carrot
+1505,COCO_train2014_000000424110.jpg,"bicycle, snowboard"
+1506,theater3.jpg,theater
+1507,ISS2.jpg,ISS
+1508,COCO_train2014_000000039196.jpg,"dog, bird"
+1509,n02088364_16207.JPEG,beagle
+1510,COCO_train2014_000000319611.jpg,"cat, dog"
+1511,n02808304_6420.JPEG,bath towel
+1512,castle6.jpg,castle
+1513,COCO_train2014_000000240904.jpg,"bird, window, shoe, bed, couch"
+1514,rep_COCO_train2014_000000428691.jpg,"bicycle, traffic light"
+1515,backstage1.jpg,backstage
+1516,n01855032_1080.JPEG,"red-breasted merganser, Mergus serrator"
+1517,labClass5.jpg,labClass
+1518,publicrestroom1.jpg,publicrestroom
+1519,attic2.jpg,attic
+1520,n03977966_66080.JPEG,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria"
+1521,COCO_train2014_000000576030.jpg,"sandwich, oven, banana, refrigerator, vase, sink, spoon, toaster"
+1522,n02190166_11038.JPEG,fly
+1523,COCO_train2014_000000061174.jpg,hat
+1524,COCO_train2014_000000124840.jpg,"microwave, bicycle, vase"
+1525,COCO_train2014_000000029114.jpg,"bicycle, donut, window"
+1526,COCO_train2014_000000319443.jpg,cat
+1527,n04479046_447.JPEG,trench coat
+1528,COCO_train2014_000000429818.jpg,"couch, frisbee"
+1529,COCO_train2014_000000488406.jpg,"street sign, motorcycle"
+1530,COCO_train2014_000000464935.jpg,"bicycle, tennis racket"
+1531,n03388043_4049.JPEG,fountain
+1532,n04081281_20646.JPEG,"restaurant, eating house, eating place, eatery"
+1533,n02111500_5675.JPEG,Great Pyrenees
+1534,brewery4.jpg,brewery
+1535,rep_recordingstudio1.jpg,rep_recordingstudio
+1536,COCO_train2014_000000339051.jpg,"bicycle, blender, plate"
+1537,n03393912_7704.JPEG,freight car
+1538,n02099267_19571.JPEG,flat-coated retriever
+1539,COCO_train2014_000000334958.jpg,vase
+1540,COCO_train2014_000000354111.jpg,cat
+1541,n02089973_11475.JPEG,English foxhound
+1542,whitewaterrapids3.jpg,whitewaterrapids
+1543,n02167151_11792.JPEG,"ground beetle, carabid beetle"
+1544,COCO_train2014_000000518954.jpg,"banana, window, broccoli"
+1545,COCO_train2014_000000445754.jpg,"baseball glove, bicycle, kite, skateboard"
+1546,n09246464_40892.JPEG,"cliff, drop, drop-off"
+1547,COCO_train2014_000000403739.jpg,elephant
+1548,concert4.jpg,concert
+1549,COCO_train2014_000000040008.jpg,bus
+1550,eyeglassstore9.jpg,eyeglassstore
+1551,n02109047_3087.JPEG,Great Dane
+1552,n02100236_6089.JPEG,German short-haired pointer
+1553,rep_n04522168_29661.JPEG,rep_n04522168_
+1554,COCO_train2014_000000575252.jpg,"airplane, bicycle"
+1555,n03476684_1550.JPEG,hair slide
+1556,rep_n03345487_28487.JPEG,rep_n03345487_
+1557,n02165456_1732.JPEG,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle"
+1558,COCO_train2014_000000443883.jpg,elephant
+1559,n02006656_1546.JPEG,spoonbill
+1560,rep_n01843065_640.JPEG,rep_n01843065_
+1561,COCO_train2014_000000481521.jpg,"cat, vase"
+1562,n02025239_2098.JPEG,"ruddy turnstone, Arenaria interpres"
+1563,COCO_train2014_000000224483.jpg,"fire hydrant, motorcycle"
+1564,sparoom7.jpg,sparoom
+1565,COCO_train2014_000000364280.jpg,"bicycle, surfboard"
+1566,COCO_train2014_000000521739.jpg,"street sign, bicycle, motorcycle"
+1567,botanicalGarden6.jpg,botanicalGarden
+1568,n02113624_174.JPEG,toy poodle
+1569,COCO_train2014_000000394008.jpg,vase
+1570,n02783161_2737.JPEG,"ballpoint, ballpoint pen, ballpen, Biro"
+1571,drymountains5.jpg,drymountains
+1572,n04317175_8732.JPEG,stethoscope
+1573,COCO_train2014_000000474964.jpg,"fire hydrant, train"
+1574,aquarium2.jpg,aquarium
+1575,COCO_train2014_000000541258.jpg,"chair, fork, window"
+1576,n02692877_14978.JPEG,"airship, dirigible"
+1577,n01498041_984.JPEG,stingray
+1578,COCO_train2014_000000461429.jpg,"tie, bicycle, umbrella, surfboard"
+1579,n02708093_1767.JPEG,analog clock
+1580,rooftop3.jpg,rooftop
+1581,COCO_train2014_000000478249.jpg,"tie, bicycle, fire hydrant"
+1582,weightroom5.jpg,weightroom
+1583,appleorchard3.jpg,appleorchard
+1584,n02783161_2952.JPEG,"ballpoint, ballpoint pen, ballpen, Biro"
+1585,COCO_train2014_000000402199.jpg,teddy bear
+1586,n02328150_10403.JPEG,"Angora, Angora rabbit"
+1587,COCO_train2014_000000061559.jpg,truck
+1588,COCO_train2014_000000325545.jpg,"plate, broccoli, banana, hot dog, spoon"
+1589,COCO_train2014_000000531657.jpg,"street sign, motorcycle"
+1590,n02607072_5334.JPEG,anemone fish
+1591,COCO_train2014_000000319626.jpg,baseball bat
+1592,n02815834_5838.JPEG,beaker
+1593,n03355925_29622.JPEG,"flagpole, flagstaff"
+1594,n02110627_18410.JPEG,"affenpinscher, monkey pinscher, monkey dog"
+1595,livingroom5.jpg,livingroom
+1596,firestation5.jpg,firestation
+1597,COCO_train2014_000000080619.jpg,"bicycle, suitcase"
+1598,COCO_train2014_000000036341.jpg,"baseball glove, bicycle, motorcycle"
+1599,rep_COCO_train2014_000000470999.jpg,dog
+1600,COCO_train2014_000000418409.jpg,"tie, mouse, bicycle, sandwich, potted plant"
+1601,COCO_train2014_000000197656.jpg,truck
+1602,n11939491_24703.JPEG,daisy
+1603,cabana2.jpg,cabana
+1604,n02417914_4562.JPEG,"ibex, Capra ibex"
+1605,n02504458_4448.JPEG,"African elephant, Loxodonta africana"
+1606,COCO_train2014_000000354761.jpg,"bed, blender, toaster"
+1607,COCO_train2014_000000192852.jpg,"shoe, tie, bicycle, umbrella"
+1608,n03100240_15345.JPEG,convertible
+1609,n03908618_18198.JPEG,"pencil box, pencil case"
+1610,lockerroom3.jpg,lockerroom
+1611,COCO_train2014_000000576789.jpg,"bird, bicycle, train, motorcycle"
+1612,COCO_train2014_000000276956.jpg,"chair, bicycle, suitcase, window, spoon"
+1613,ticket_counter7.jpg,ticket_counter
+1614,n03444034_9558.JPEG,go-kart
+1615,n02123394_2455.JPEG,Persian cat
+1616,COCO_train2014_000000067623.jpg,motorcycle
+1617,stripmall.jpg,stripmall
+1618,COCO_train2014_000000094885.jpg,"chair, knife, carrot, bowl, banana, hot dog"
+1619,n03670208_2112.JPEG,"limousine, limo"
+1620,COCO_train2014_000000329919.jpg,"laptop, plate, potted plant, couch, frisbee"
+1621,n01986214_14578.JPEG,hermit crab
+1622,COCO_train2014_000000492037.jpg,zebra
+1623,conference1.jpg,conference
+1624,COCO_train2014_000000055090.jpg,"keyboard, bicycle, clock, laptop, couch"
+1625,COCO_train2014_000000460118.jpg,"cow, bicycle"
+1626,n03891332_5084.JPEG,parking meter
+1627,rep_COCO_train2014_000000541164.jpg,cat
+1628,COCO_train2014_000000438429.jpg,orange
+1629,COCO_train2014_000000285588.jpg,"bicycle, kite"
+1630,COCO_train2014_000000565875.jpg,"cow, bicycle, train, zebra"
+1631,n01795545_10541.JPEG,black grouse
+1632,n02093859_5057.JPEG,Kerry blue terrier
+1633,n04536866_5392.JPEG,"violin, fiddle"
+1634,COCO_train2014_000000228565.jpg,giraffe
+1635,COCO_train2014_000000314379.jpg,"bicycle, sports ball"
+1636,campsite.jpg,campsite
+1637,winebarrel3.jpg,winebarrel
+1638,COCO_train2014_000000352120.jpg,"shoe, bicycle, motorcycle"
+1639,breakroom4.jpg,breakroom
+1640,n02107312_786.JPEG,miniature pinscher
+1641,n02669723_15255.JPEG,"academic gown, academic robe, judge's robe"
+1642,track2.jpg,track
+1643,COCO_train2014_000000358868.jpg,"tie, mirror, dog"
+1644,n03804744_2445.JPEG,nail
+1645,COCO_train2014_000000321902.jpg,"donut, window"
+1646,rep_COCO_train2014_000000027710.jpg,elephant
+1647,n03041632_229.JPEG,"cleaver, meat cleaver, chopper"
+1648,COCO_train2014_000000303318.jpg,"cat, bicycle"
+1649,COCO_train2014_000000541077.jpg,"bicycle, fire hydrant, car, motorcycle"
+1650,n03627232_12520.JPEG,knot
+1651,n02114367_15682.JPEG,"timber wolf, grey wolf, gray wolf, Canis lupus"
+1652,COCO_train2014_000000458616.jpg,"bicycle, fork, window, banana, orange"
+1653,basketballcourt7.jpg,basketballcourt
+1654,COCO_train2014_000000556542.jpg,"bicycle, sheep"
+1655,n01818515_4196.JPEG,macaw
+1656,COCO_train2014_000000169217.jpg,"elephant, giraffe"
+1657,n02488702_3245.JPEG,"colobus, colobus monkey"
+1658,livingroom6.jpg,livingroom
+1659,COCO_train2014_000000456035.jpg,"bicycle, clock, fork, window, banana, scissors, apple, couch"
+1660,MRI3.jpg,MRI
+1661,n02099429_5316.JPEG,curly-coated retriever
+1662,rep_n04277352_10350.JPEG,rep_n04277352_
+1663,n03983396_2080.JPEG,"pop bottle, soda bottle"
+1664,COCO_train2014_000000125575.jpg,"bicycle, sports ball, snowboard"
+1665,COCO_train2014_000000560489.jpg,"bed, refrigerator, spoon"
+1666,rep_n04465501_9230.JPEG,rep_n04465501_
+1667,concerthall2.jpg,concerthall
+1668,citystreet9.jpg,citystreet
+1669,COCO_train2014_000000340734.jpg,"horse, boat"
+1670,COCO_train2014_000000150939.jpg,"airplane, bicycle"
+1671,COCO_train2014_000000163250.jpg,cat
+1672,n04562935_3137.JPEG,water tower
+1673,castle3.jpg,castle
+1674,n04597913_2666.JPEG,wooden spoon
+1675,COCO_train2014_000000228316.jpg,cat
+1676,COCO_train2014_000000086811.jpg,cat
+1677,COCO_train2014_000000039312.jpg,apple
+1678,n03095699_13277.JPEG,"container ship, containership, container vessel"
+1679,n02106382_1480.JPEG,"Bouvier des Flandres, Bouviers des Flandres"
+1680,COCO_train2014_000000516455.jpg,pizza
+1681,COCO_train2014_000000378461.jpg,"bicycle, refrigerator, toaster"
+1682,COCO_train2014_000000528664.jpg,"bowl, banana"
+1683,n10565667_5063.JPEG,scuba diver
+1684,COCO_train2014_000000360605.jpg,"bicycle, skateboard"
+1685,COCO_train2014_000000399932.jpg,"bicycle, baseball bat"
+1686,n03729826_3047.JPEG,matchstick
+1687,COCO_train2014_000000022166.jpg,cow
+1688,n02088466_1757.JPEG,"bloodhound, sleuthhound"
+1689,n03494278_21126.JPEG,"harmonica, mouth organ, harp, mouth harp"
+1690,COCO_train2014_000000008053.jpg,"tie, street sign, bicycle"
+1691,rep_COCO_train2014_000000428691.jpg,"bicycle, traffic light"
+1692,n02410509_3576.JPEG,bison
+1693,n03888257_37794.JPEG,"parachute, chute"
+1694,ISS1.jpg,ISS
+1695,COCO_train2014_000000228380.jpg,"bicycle, truck, bird"
+1696,n04335435_10063.JPEG,"streetcar, tram, tramcar, trolley, trolley car"
+1697,n04591157_1330.JPEG,Windsor tie
+1698,n02807133_7801.JPEG,"bathing cap, swimming cap"
+1699,volleyballcourt4.jpg,volleyballcourt
+1700,dinosaur3.jpg,dinosaur
+1701,postoffice4.jpg,postoffice
+1702,COCO_train2014_000000551275.jpg,"bowl, banana, hot dog, window"
+1703,COCO_train2014_000000081961.jpg,"bicycle, umbrella, snowboard"
+1704,n02110341_1478.JPEG,"dalmatian, coach dog, carriage dog"
+1705,COCO_train2014_000000363137.jpg,traffic light
+1706,n03187595_5162.JPEG,"dial telephone, dial phone"
+1707,tollbooth3.jpg,tollbooth
+1708,n02129604_8786.JPEG,"tiger, Panthera tigris"
+1709,COCO_train2014_000000116526.jpg,hat
+1710,n01693334_348.JPEG,"green lizard, Lacerta viridis"
+1711,rep_n02120079_6668.JPEG,rep_n02120079_
+1712,tvstudio4.jpg,tvstudio
+1713,bowlingalley2.jpg,bowlingalley
+1714,COCO_train2014_000000354791.jpg,"baseball glove, bicycle, skateboard"
+1715,garbagedump2.jpg,garbagedump
+1716,n02092002_2572.JPEG,"Scottish deerhound, deerhound"
+1717,n03494278_32555.JPEG,"harmonica, mouth organ, harp, mouth harp"
+1718,driveway4.jpg,driveway
+1719,n09256479_5632.JPEG,coral reef
+1720,COCO_train2014_000000087146.jpg,"horse, sheep"
+1721,n06874185_45643.JPEG,"traffic light, traffic signal, stoplight"
+1722,COCO_train2014_000000207549.jpg,"boat, hat"
+1723,n02229544_250.JPEG,cricket
+1724,COCO_train2014_000000245946.jpg,"bicycle, hat, broccoli"
+1725,COCO_train2014_000000327281.jpg,"boat, fire hydrant, motorcycle"
+1726,farmersmarket2.jpeg,farmersmarket
+1727,n04239074_3672.JPEG,sliding door
+1728,n04392985_7175.JPEG,tape player
+1729,n03623198_3026.JPEG,knee pad
+1730,COCO_train2014_000000106878.jpg,"laptop, potted plant, bed, banana, scissors"
+1731,promenadeDeck6.jpg,promenadeDeck
+1732,COCO_train2014_000000055764.jpg,"baseball glove, bicycle, kite, skateboard"
+1733,COCO_train2014_000000012501.jpg,"bicycle, skis"
+1734,COCO_train2014_000000319685.jpg,zebra
+1735,n03777568_6027.JPEG,Model T
+1736,rep_n04522168_29661.JPEG,rep_n04522168_
+1737,COCO_train2014_000000262414.jpg,"bicycle, tennis racket"
+1738,COCO_train2014_000000229947.jpg,"chair, bicycle, cake"
+1739,COCO_train2014_000000275037.jpg,"bicycle, parking meter, motorcycle"
+1740,COCO_train2014_000000185549.jpg,bear
+1741,COCO_train2014_000000065029.jpg,"bed, bicycle, fork, scissors"
+1742,COCO_train2014_000000053670.jpg,"baseball glove, bicycle, kite, skateboard"
+1743,n03445924_6637.JPEG,"golfcart, golf cart"
+1744,rep_COCO_train2014_000000382890.jpg,train
+1745,COCO_train2014_000000472865.jpg,"sandwich, spoon"
+1746,COCO_train2014_000000196365.jpg,"bottle, bicycle, kite"
+1747,homegarden6.jpg,homegarden
+1748,COCO_train2014_000000225383.jpg,"tie, bicycle, truck"
+1749,COCO_train2014_000000380887.jpg,cat
+1750,n02980441_3642.JPEG,castle
+1751,COCO_train2014_000000090569.jpg,"bicycle, couch, cup, window"
+1752,n03733131_8397.JPEG,maypole
+1753,publicrestroom2.jpg,publicrestroom
+1754,n04311004_2935.JPEG,steel arch bridge
+1755,n04552348_2040.JPEG,"warplane, military plane"
+1756,COCO_train2014_000000547186.jpg,"shoe, couch, train, motorcycle"
+1757,COCO_train2014_000000043856.jpg,"bottle, bicycle, kite"
+1758,rep_n03032252_36446.JPEG,rep_n03032252_
+1759,COCO_train2014_000000560567.jpg,"bicycle, umbrella, snowboard"
+1760,parkinggarage4.jpg,parkinggarage
+1761,rep_n02442845_19700.JPEG,rep_n02442845_
+1762,n12998815_10332.JPEG,agaric
+1763,n03492542_7406.JPEG,"hard disc, hard disk, fixed disk"
+1764,n01807496_16700.JPEG,partridge
+1765,COCO_train2014_000000502470.jpg,cat
+1766,n03000684_26458.JPEG,"chain saw, chainsaw"
+1767,windmill3.jpg,windmill
+1768,COCO_train2014_000000565166.jpg,truck
+1769,yogastudio4.jpg,yogastudio
+1770,n03841143_11510.JPEG,"odometer, hodometer, mileometer, milometer"
+1771,n03065424_30673.JPEG,"coil, spiral, volute, whorl, helix"
+1772,n03208938_19796.JPEG,"disk brake, disc brake"
+1773,highway.jpg,highway
+1774,cabana1.jpg,cabana
+1775,n02077923_361.JPEG,sea lion
+1776,cliff5.jpg,cliff
+1777,cave6.jpg,cave
+1778,COCO_train2014_000000241026.jpg,truck
+1779,ShowJumping9.jpg,ShowJumping
+1780,n03980874_15861.JPEG,poncho
+1781,COCO_train2014_000000069625.jpg,"tie, bicycle, umbrella, bird"
+1782,COCO_train2014_000000425712.jpg,"microwave, clock, mouse, remote"
+1783,n04209133_2442.JPEG,shower cap
+1784,COCO_train2014_000000444880.jpg,vase
+1785,COCO_train2014_000000082945.jpg,"bicycle, snowboard"
+1786,COCO_train2014_000000364368.jpg,"bicycle, snowboard"
+1787,n13054560_3451.JPEG,bolete
+1788,carmechanic.jpg,carmechanic
+1789,n02769748_59838.JPEG,"backpack, back pack, knapsack, packsack, rucksack, haversack"
+1790,n04589890_13601.JPEG,window screen
+1791,n02114712_15679.JPEG,"red wolf, maned wolf, Canis rufus, Canis niger"
+1792,n04286575_17823.JPEG,"spotlight, spot"
+1793,bus_shelter.jpg,bus_shelter
+1794,n04311174_6826.JPEG,steel drum
+1795,COCO_train2014_000000573830.jpg,"carrot, window"
+1796,arcade5.jpg,arcade
+1797,COCO_train2014_000000005277.jpg,"door, refrigerator, plate"
+1798,n04579145_6272.JPEG,whiskey jug
+1799,COCO_train2014_000000140590.jpg,hat
+1800,n02113978_2003.JPEG,Mexican hairless
+1801,COCO_train2014_000000359033.jpg,refrigerator
+1802,rep_COCO_train2014_000000535994.jpg,truck
+1803,n03028079_7455.JPEG,"church, church building"
+1804,COCO_train2014_000000534259.jpg,truck
+1805,carwash4.jpg,carwash
+1806,n03584829_313.JPEG,"iron, smoothing iron"
+1807,COCO_train2014_000000077870.jpg,"mouse, remote, dog, cell phone"
+1808,rep_n03602883_18507.JPEG,rep_n03602883_
+1809,n03447447_2772.JPEG,gondola
+1810,COCO_train2014_000000022256.jpg,"tie, sandwich, window, plate, broccoli, banana, vase, couch"
+1811,rep_COCO_train2014_000000507789.jpg,"door, refrigerator, plate"
+1812,COCO_train2014_000000030148.jpg,"cell phone, laptop, vase, remote"
+1813,n04039381_11426.JPEG,"racket, racquet"
+1814,n01980166_1563.JPEG,fiddler crab
+1815,n07684084_3827.JPEG,French loaf
+1816,COCO_train2014_000000498645.jpg,"baseball glove, bicycle, skateboard"
+1817,rep_COCO_train2014_000000372775.jpg,"refrigerator, plate"
+1818,COCO_train2014_000000120655.jpg,"bicycle, sports ball, snowboard"
+1819,fishmarket2.jpg,fishmarket
+1820,COCO_train2014_000000071328.jpg,"door, refrigerator, plate"
+1821,homegarden5.jpg,homegarden
+1822,rep_n04465501_9230.JPEG,rep_n04465501_
+1823,n03594734_26370.JPEG,"jean, blue jean, denim"
+1824,COCO_train2014_000000260581.jpg,hat
+1825,COCO_train2014_000000066014.jpg,"bicycle, bus, boat"
+1826,n04579432_2036.JPEG,whistle
+1827,COCO_train2014_000000163263.jpg,"elephant, bicycle, umbrella"
+1828,COCO_train2014_000000021921.jpg,apple
+1829,COCO_train2014_000000129143.jpg,"airplane, bicycle"
+1830,n07615774_15445.JPEG,"ice lolly, lolly, lollipop, popsicle"
+1831,jewelrystore8.jpg,jewelrystore
+1832,n07749582_23405.JPEG,lemon
+1833,carFactory2.jpg,carFactory
+1834,n04552348_11490.JPEG,"warplane, military plane"
+1835,rep_COCO_train2014_000000407676.jpg,hat
+1836,COCO_train2014_000000555915.jpg,cat
+1837,COCO_train2014_000000131763.jpg,"mouse, bicycle, mirror"
+1838,n03388549_11795.JPEG,four-poster
+1839,n03950228_19944.JPEG,"pitcher, ewer"
+1840,n02747177_30140.JPEG,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin"
+1841,COCO_train2014_000000476481.jpg,dog
+1842,dentist2.jpg,dentist
+1843,n02356798_2870.JPEG,"fox squirrel, eastern fox squirrel, Sciurus niger"
+1844,COCO_train2014_000000035216.jpg,"keyboard, bicycle"
+1845,gazebo2.jpg,gazebo
+1846,COCO_train2014_000000193318.jpg,"bicycle, surfboard, motorcycle"
+1847,shower3.jpg,shower
+1848,n04019541_4621.JPEG,"puck, hockey puck"
+1849,COCO_train2014_000000396638.jpg,"bicycle, sheep"
+1850,firestation3.jpg,firestation
+1851,n02104365_755.JPEG,schipperke
+1852,n04099969_3551.JPEG,"rocking chair, rocker"
+1853,sandDunes_desert_outdoor3.jpg,sandDunes_desert_outdoor
+1854,olympicswimmingpool5.jpg,olympicswimmingpool
+1855,COCO_train2014_000000432648.jpg,"tie, bicycle, umbrella, dog"
+1856,COCO_train2014_000000276545.jpg,"parking meter, motorcycle"
+1857,COCO_train2014_000000261746.jpg,"fire hydrant, motorcycle"
+1858,COCO_train2014_000000359931.jpg,"mouse, fork, laptop, microwave, cell phone, umbrella"
+1859,COCO_train2014_000000538822.jpg,"keyboard, bicycle"
+1860,COCO_train2014_000000009983.jpg,"bicycle, cup, fork, window, bowl, banana, microwave, spoon"
+1861,n02090721_4320.JPEG,Irish wolfhound
+1862,COCO_train2014_000000444043.jpg,cow
+1863,COCO_train2014_000000314167.jpg,"bowl, banana, apple"
+1864,rep_COCO_train2014_000000242631.jpg,"bicycle, skis"
+1865,COCO_train2014_000000426911.jpg,"mouse, clock, car, blender, laptop, oven, mirror, couch"
+1866,COCO_train2014_000000170917.jpg,"tie, mouse, bicycle, cell phone, couch, remote"
+1867,n02012849_6564.JPEG,crane
+1868,n01818515_243.JPEG,macaw
+1869,n02129165_4371.JPEG,"lion, king of beasts, Panthera leo"
+1870,n02097047_3955.JPEG,miniature schnauzer
+1871,COCO_train2014_000000445301.jpg,door
+1872,rep_cabana2.jpg,rep_cabana
+1873,constructionSite4.jpg,constructionSite
+1874,n04067472_10250.JPEG,reel
+1875,n03916031_15296.JPEG,"perfume, essence"
+1876,COCO_train2014_000000282631.jpg,train
+1877,rep_n03065424_30673.JPEG,rep_n03065424_
+1878,warehouse2.jpg,warehouse
+1879,COCO_train2014_000000472089.jpg,"bicycle, train, motorcycle"
+1880,n02110958_4869.JPEG,"pug, pug-dog"
+1881,n01877812_4799.JPEG,"wallaby, brush kangaroo"
+1882,COCO_train2014_000000563029.jpg,"door, fork"
+1883,cafeteria1.jpg,cafeteria
+1884,bridalboutique2.jpg,bridalboutique
+1885,n03041632_39952.JPEG,"cleaver, meat cleaver, chopper"
+1886,n02277742_3879.JPEG,"ringlet, ringlet butterfly"
+1887,n02264363_12238.JPEG,"lacewing, lacewing fly"
+1888,forestpath6.jpg,forestpath
+1889,COCO_train2014_000000212229.jpg,"mouse, mirror, fork, dog"
+1890,n09421951_6349.JPEG,"sandbar, sand bar"
+1891,factory6.jpg,factory
+1892,n02777292_26189.JPEG,"balance beam, beam"
+1893,n01872401_7381.JPEG,"echidna, spiny anteater, anteater"
+1894,COCO_train2014_000000527618.jpg,hat
+1895,rep_driveway8.jpg,rep_driveway
+1896,COCO_train2014_000000543947.jpg,"blender, cup, fork, window, oven, bowl, banana, refrigerator, couch, toaster"
+1897,COCO_train2014_000000525668.jpg,"mouse, bicycle, clock, blender, fork, window, plate, broccoli, oven, bowl, banana, refrigerator, microwave, couch, toaster"
+1898,COCO_train2014_000000325079.jpg,"shoe, microwave, bicycle, umbrella"
+1899,COCO_train2014_000000369775.jpg,"bottle, bicycle"
+1900,COCO_train2014_000000301970.jpg,giraffe
+1901,volleyballcourt3.jpg,volleyballcourt
+1902,n01580077_3341.JPEG,jay
+1903,amusement4.jpg,amusement
+1904,n03908714_4115.JPEG,pencil sharpener
+1905,stripmall6.jpg,stripmall
+1906,COCO_train2014_000000010743.jpg,"shoe, bicycle"
+1907,COCO_train2014_000000248320.jpg,"tie, couch, microwave"
+1908,n02056570_2479.JPEG,"king penguin, Aptenodytes patagonica"
+1909,restaurantkitchen5.jpg,restaurantkitchen
+1910,n04370456_11832.JPEG,sweatshirt
+1911,COCO_train2014_000000426427.jpg,cow
+1912,n01917289_1429.JPEG,brain coral
+1913,n03447447_11680.JPEG,gondola
+1914,squashcourt8.jpg,squashcourt
+1915,rep_COCO_train2014_000000088449.jpg,"bicycle, truck"
+1916,COCO_train2014_000000362677.jpg,hat
+1917,n04346328_27277.JPEG,"stupa, tope"
+1918,n03018349_10.JPEG,"china cabinet, china closet"
+1919,COCO_train2014_000000137396.jpg,"airplane, window, motorcycle"
+1920,COCO_train2014_000000059194.jpg,"clock, laptop, window, potted plant, bed, couch"
+1921,n01534433_436.JPEG,"junco, snowbird"
+1922,COCO_train2014_000000001308.jpg,"bicycle, tennis racket"
+1923,rep_COCO_train2014_000000535994.jpg,truck
+1924,barbershop2.jpg,barbershop
+1925,n03598930_5224.JPEG,jigsaw puzzle
+1926,COCO_train2014_000000392851.jpg,"cat, fire hydrant, motorcycle"
+1927,rep_COCO_train2014_000000507789.jpg,"door, refrigerator, plate"
+1928,n04456115_29862.JPEG,torch
+1929,COCO_train2014_000000195768.jpg,"bicycle, tennis racket"
+1930,n03769881_3263.JPEG,minibus
+1931,hedgemaze2.jpg,hedgemaze
+1932,n01984695_57624.JPEG,"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish"
+1933,n07579787_12197.JPEG,plate
+1934,n03394916_8640.JPEG,"French horn, horn"
+1935,COCO_train2014_000000338693.jpg,"bicycle, street sign, bench, motorcycle, boat, fire hydrant"
+1936,chemicalplant4.jpg,chemicalplant
+1937,COCO_train2014_000000517251.jpg,"bottle, bicycle, kite"
+1938,n03220513_10663.JPEG,dome
+1939,recordingstudio3.jpg,recordingstudio
+1940,sushibar.jpg,sushibar
+1941,n04311004_2467.JPEG,steel arch bridge
+1942,COCO_train2014_000000485595.jpg,"bicycle, couch, suitcase, bird"
+1943,n02325366_7131.JPEG,"wood rabbit, cottontail, cottontail rabbit"
+1944,COCO_train2014_000000393907.jpg,cat
+1945,COCO_train2014_000000471315.jpg,bear
+1946,COCO_train2014_000000383652.jpg,"blender, plate"
+1947,n01665541_21853.JPEG,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea"
+1948,COCO_train2014_000000130876.jpg,"cup, window"
+1949,rep_COCO_train2014_000000028868.jpg,"bicycle, baseball bat"
+1950,n03599486_3567.JPEG,"jinrikisha, ricksha, rickshaw"
+1951,COCO_train2014_000000505486.jpg,giraffe
+1952,COCO_train2014_000000157700.jpg,"cell phone, remote, laptop, mouse"
+1953,COCO_train2014_000000245590.jpg,"potted plant, keyboard, bicycle, clock"
+1954,appleorchard1.jpg,appleorchard
+1955,COCO_train2014_000000423488.jpg,"mouse, plate, microwave, couch, remote"
+1956,rep_n02447366_24047.JPEG,rep_n02447366_
+1957,n02787622_21775.JPEG,banjo
+1958,office1.jpg,office
+1959,n02095570_6359.JPEG,Lakeland terrier
+1960,COCO_train2014_000000021095.jpg,"hot dog, carrot"
+1961,rep_n01798484_1157.JPEG,rep_n01798484_
+1962,n02356798_1614.JPEG,"fox squirrel, eastern fox squirrel, Sciurus niger"
+1963,COCO_train2014_000000147659.jpg,"cup, fork, window, plate, bowl, banana, orange"
+1964,rep_n03065424_30673.JPEG,rep_n03065424_
+1965,n02802426_12743.JPEG,basketball
+1966,n03249569_52165.JPEG,"drum, membranophone, tympan"
+1967,COCO_train2014_000000334208.jpg,"sandwich, hot dog, broccoli, apple"
+1968,COCO_train2014_000000442489.jpg,"window, carrot, plate, bowl, banana"
+1969,n02107908_6464.JPEG,Appenzeller
+1970,n02951585_2812.JPEG,"can opener, tin opener"
+1971,nursery4.jpg,nursery
+1972,cargo4.jpg,cargo
+1973,n02098413_13571.JPEG,"Lhasa, Lhasa apso"
+1974,COCO_train2014_000000413115.jpg,"fire hydrant, motorcycle"
+1975,clothingstore7.jpg,clothingstore
+1976,n04509417_4411.JPEG,"unicycle, monocycle"
+1977,n07753592_11210.JPEG,banana
+1978,COCO_train2014_000000427729.jpg,elephant
+1979,n02229544_6831.JPEG,cricket
+1980,COCO_train2014_000000110780.jpg,"bicycle, tennis racket"
+1981,COCO_train2014_000000576204.jpg,"bicycle, snowboard"
+1982,n02093754_6217.JPEG,Border terrier
+1983,n01491361_6719.JPEG,"tiger shark, Galeocerdo cuvieri"
+1984,COCO_train2014_000000268008.jpg,"bicycle, bird, baseball glove, umbrella, skateboard"
+1985,rep_COCO_train2014_000000268008.jpg,"bicycle, bird, baseball glove, umbrella, skateboard"
+1986,COCO_train2014_000000019863.jpg,truck
+1987,n09288635_24976.JPEG,geyser
+1988,cubicle6.jpg,cubicle
+1989,COCO_train2014_000000517484.jpg,"mouse, bicycle, microwave, hair drier, couch"
+1990,COCO_train2014_000000069705.jpg,bear
+1991,COCO_train2014_000000442666.jpg,"microwave, bicycle"
+1992,n02321529_12622.JPEG,"sea cucumber, holothurian"
+1993,bus_shelter4.jpg,bus_shelter
+1994,COCO_train2014_000000539395.jpg,truck
+1995,jail3.jpg,jail
+1996,COCO_train2014_000000139817.jpg,"bicycle, baseball bat"
+1997,planetarium2.jpg,planetarium
+1998,COCO_train2014_000000219735.jpg,"bicycle, pizza, fork, window, couch"
+1999,n04328186_10015.JPEG,"stopwatch, stop watch"
+2000,n03272010_3139.JPEG,electric guitar
+2001,n01496331_7150.JPEG,"electric ray, crampfish, numbfish, torpedo"
+2002,olympicswimmingpool8.jpg,olympicswimmingpool
+2003,rep_n04596742_10368.JPEG,rep_n04596742_
+2004,n02107142_20241.JPEG,"Doberman, Doberman pinscher"
+2005,chemicalplant3.jpg,chemicalplant
+2006,pasture3.jpg,pasture
+2007,n03877472_14630.JPEG,"pajama, pyjama, pj's, jammies"
+2008,COCO_train2014_000000450864.jpg,"bicycle, donut, couch, knife, cup, fork, window, plate, broccoli, bowl, banana, spoon"
+2009,COCO_train2014_000000547367.jpg,carrot
+2010,rep_n03345487_28487.JPEG,rep_n03345487_
+2011,COCO_train2014_000000237831.jpg,"chair, bicycle, fork, window, couch"
+2012,n02788148_1592.JPEG,"bannister, banister, balustrade, balusters, handrail"
+2013,rep_COCO_train2014_000000191734.jpg,"airplane, bicycle"
+2014,churchInside1.jpg,churchInside
+2015,COCO_train2014_000000461561.jpg,"banana, couch, window, broccoli"
+2016,n03062245_13041.JPEG,cocktail shaker
+2017,n03899768_2483.JPEG,"patio, terrace"
+2018,n01824575_4563.JPEG,coucal
+2019,ShowJumping5.jpg,ShowJumping
+2020,COCO_train2014_000000310714.jpg,"fork, window, bowl, banana, hot dog"
+2021,COCO_train2014_000000550221.jpg,"bicycle, bus, frisbee"
+2022,COCO_train2014_000000106154.jpg,hat
+2023,n02028035_607.JPEG,"redshank, Tringa totanus"
+2024,n03791053_3596.JPEG,"motor scooter, scooter"
+2025,COCO_train2014_000000044129.jpg,"microwave, bicycle"
+2026,COCO_train2014_000000242979.jpg,"bicycle, boat"
+2027,COCO_train2014_000000546242.jpg,"fire hydrant, bird"
+2028,COCO_train2014_000000195425.jpg,"airplane, bicycle"
+2029,theater2.jpg,theater
+2030,COCO_train2014_000000264316.jpg,vase
+2031,n02086910_11262.JPEG,papillon
+2032,n01440764_13744.JPEG,"tench, Tinca tinca"
+2033,COCO_train2014_000000103366.jpg,"bicycle, snowboard"
+2034,brewery3.jpg,brewery
+2035,COCO_train2014_000000540577.jpg,"bicycle, surfboard"
+2036,COCO_train2014_000000537685.jpg,"potted plant, hair drier, clock, couch"
+2037,COCO_train2014_000000227843.jpg,"blender, window, plate, refrigerator, banana, couch, toaster"
+2038,COCO_train2014_000000150931.jpg,"bicycle, tennis racket"
+2039,n04152593_16952.JPEG,"screen, CRT screen"
+2040,COCO_train2014_000000078593.jpg,"horse, skis"
+2041,n02085782_1848.JPEG,Japanese spaniel
+2042,n04033901_7131.JPEG,"quill, quill pen"
+2043,n03272562_12814.JPEG,electric locomotive
+2044,drycleaners1.jpg,drycleaners
+2045,n03404251_22206.JPEG,fur coat
+2046,rep_COCO_train2014_000000479035.jpg,"bicycle, knife, bowl, cake, spoon"
+2047,n02104029_7367.JPEG,kuvasz
+2048,n02606052_3145.JPEG,"rock beauty, Holocanthus tricolor"
+2049,COCO_train2014_000000041340.jpg,"bicycle, sports ball, snowboard"
+2050,n03794056_4287.JPEG,mousetrap
+2051,COCO_train2014_000000357228.jpg,"bicycle, tennis racket"
+2052,COCO_train2014_000000031078.jpg,"bicycle, snowboard"
+2053,n02106166_6320.JPEG,Border collie
+2054,COCO_train2014_000000332875.jpg,"bicycle, cup, fork, window, plate, banana, refrigerator, scissors"
+2055,COCO_train2014_000000342742.jpg,"donut, fork, window, banana"
+2056,COCO_train2014_000000333629.jpg,"bicycle, sports ball"
+2057,n03445777_9105.JPEG,golf ball
+2058,weightroom.jpg,weightroom
+2059,n04149813_8849.JPEG,scoreboard
+2060,n02138441_4996.JPEG,"meerkat, mierkat"
+2061,COCO_train2014_000000056201.jpg,"banana, window, carrot"
+2062,HorseRaceTrack.jpg,HorseRaceTrack
+2063,canyon3.jpg,canyon
+2064,COCO_train2014_000000074887.jpg,cow
+2065,rep_n03623198_3026.JPEG,rep_n03623198_
+2066,casino1.jpg,casino
+2067,n02281406_11784.JPEG,"sulphur butterfly, sulfur butterfly"
+2068,hottub5.jpg,hottub
+2069,van_interior4.jpg,van_interior
+2070,COCO_train2014_000000071429.jpg,carrot
+2071,rep_circus1.jpg,rep_circus
+2072,COCO_train2014_000000369171.jpg,"bicycle, surfboard"
+2073,rep_n04277352_10350.JPEG,rep_n04277352_
+2074,n02098413_10777.JPEG,"Lhasa, Lhasa apso"
+2075,COCO_train2014_000000278555.jpg,"bicycle, tennis racket"
+2076,n04141076_41934.JPEG,"sax, saxophone"
+2077,bus_shelter3.jpg,bus_shelter
+2078,COCO_train2014_000000323178.jpg,"fire hydrant, truck"
+2079,COCO_train2014_000000035357.jpg,"bus, boat"
+2080,n02087394_715.JPEG,Rhodesian ridgeback
+2081,COCO_train2014_000000100396.jpg,"bicycle, cup, window, plate, scissors, couch"
+2082,n04501370_14560.JPEG,turnstile
+2083,rep_COCO_train2014_000000405401.jpg,"bicycle, snowboard"
+2084,COCO_train2014_000000028093.jpg,"shoe, hat"
+2085,hedgemaze4.jpg,hedgemaze
+2086,COCO_train2014_000000316583.jpg,"microwave, bicycle"
+2087,n01945685_9266.JPEG,slug
+2088,COCO_train2014_000000157342.jpg,"banana, broccoli"
+2089,n03133878_3353.JPEG,Crock Pot
+2090,COCO_train2014_000000341852.jpg,dog
+2091,n02018795_7636.JPEG,bustard
+2092,COCO_train2014_000000006268.jpg,"bottle, bicycle"
+2093,COCO_train2014_000000087871.jpg,"bicycle, clock, dog, fork, laptop, cell phone, remote"
+2094,n01675722_4844.JPEG,banded gecko
+2095,rep_COCO_train2014_000000363605.jpg,bear
+2096,COCO_train2014_000000475236.jpg,cake
+2097,n09399592_21478.JPEG,"promontory, headland, head, foreland"
+2098,driveway8.jpg,driveway
+2099,n01944390_7203.JPEG,snail
+2100,n04254680_5488.JPEG,soccer ball
+2101,n03485794_11620.JPEG,"handkerchief, hankie, hanky, hankey"
+2102,COCO_train2014_000000306031.jpg,"door, refrigerator, plate, banana"
+2103,gazebo.jpg,gazebo
+2104,campusquad1.jpg,campusquad
+2105,COCO_train2014_000000570543.jpg,"bicycle, traffic light"
+2106,lake3.jpg,lake
+2107,citystreet10.jpg,citystreet
+2108,n03786901_624.JPEG,mortar
+2109,jewelrystore6.jpg,jewelrystore
+2110,n02058221_121.JPEG,"albatross, mollymawk"
+2111,COCO_train2014_000000333820.jpg,"bicycle, tennis racket"
+2112,rep_n04019541_4621.JPEG,rep_n04019541_
+2113,track5.jpg,track
+2114,n03933933_13875.JPEG,pier
+2115,COCO_train2014_000000414176.jpg,cat
+2116,circus3.jpg,circus
+2117,COCO_train2014_000000392115.jpg,bus
+2118,COCO_train2014_000000088274.jpg,"bicycle, hot dog, carrot"
+2119,COCO_train2014_000000553586.jpg,"banana, window, orange, broccoli"
+2120,n03535780_40946.JPEG,"horizontal bar, high bar"
+2121,n02346627_9849.JPEG,"porcupine, hedgehog"
+2122,forestpath10.jpg,forestpath
+2123,n01882714_5094.JPEG,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus"
+2124,n02667093_944.JPEG,abaya
+2125,driveway7.jpg,driveway
+2126,rep_n02277742_15647.JPEG,rep_n02277742_
+2127,n03761084_13893.JPEG,"microwave, microwave oven"
+2128,rep_n03617480_5796.JPEG,rep_n03617480_
+2129,COCO_train2014_000000334216.jpg,bear
+2130,n12144580_6520.JPEG,corn
+2131,COCO_train2014_000000143245.jpg,bear
+2132,sandbox8.jpg,sandbox
+2133,n07730033_793.JPEG,cardoon
+2134,n03877845_719.JPEG,palace
+2135,COCO_train2014_000000330084.jpg,zebra
+2136,COCO_train2014_000000218179.jpg,"door, refrigerator, plate"
+2137,n03721384_567.JPEG,"marimba, xylophone"
+2138,COCO_train2014_000000474342.jpg,dog
+2139,n02777292_5132.JPEG,"balance beam, beam"
+2140,n12620546_21684.JPEG,"hip, rose hip, rosehip"
+2141,COCO_train2014_000000203615.jpg,cat
+2142,COCO_train2014_000000540735.jpg,elephant
+2143,COCO_train2014_000000151830.jpg,"blender, sandwich, plate, broccoli, banana, vase, couch, toaster"
+2144,COCO_train2014_000000432508.jpg,"street sign, bicycle"
+2145,alley3.jpg,alley
+2146,COCO_train2014_000000043150.jpg,"bicycle, car, vase, motorcycle"
+2147,n07248320_3857.JPEG,"book jacket, dust cover, dust jacket, dust wrapper"
+2148,ruralroad3.jpg,ruralroad
+2149,n03223299_27176.JPEG,"doormat, welcome mat"
+2150,farmersmarket6.jpg,farmersmarket
+2151,n03208938_8049.JPEG,"disk brake, disc brake"
+2152,forestpath4.jpg,forestpath
+2153,rep_n04557648_12671.JPEG,rep_n04557648_
+2154,n02259212_6090.JPEG,leafhopper
+2155,COCO_train2014_000000207833.jpg,"couch, knife, cup, fork, window, bed, banana, bowl, scissors, spoon"
+2156,bridge7.jpg,bridge
+2157,COCO_train2014_000000230422.jpg,"horse, skis"
+2158,n02102040_1709.JPEG,"English springer, English springer spaniel"
+2159,COCO_train2014_000000440334.jpg,apple
+2160,n03141823_841.JPEG,crutch
+2161,COCO_train2014_000000232648.jpg,"door, refrigerator, fork, plate"
+2162,COCO_train2014_000000466895.jpg,vase
+2163,n02797295_9188.JPEG,"barrow, garden cart, lawn cart, wheelbarrow"
+2164,COCO_train2014_000000037358.jpg,"fire hydrant, sheep"
+2165,COCO_train2014_000000329474.jpg,"horse, mirror"
+2166,cornfield4.jpg,cornfield
+2167,n03792782_3388.JPEG,"mountain bike, all-terrain bike, off-roader"
+2168,homegarage.jpg,homegarage
+2169,artStudio2.jpg,artStudio
+2170,rep_n03032252_36446.JPEG,rep_n03032252_
+2171,COCO_train2014_000000521972.jpg,"bicycle, car, traffic light"
+2172,COCO_train2014_000000411475.jpg,zebra
+2173,n02834397_10231.JPEG,bib
+2174,COCO_train2014_000000332574.jpg,oven
+2175,n03633091_17909.JPEG,ladle
+2176,COCO_train2014_000000030109.jpg,"bicycle, kite"
+2177,COCO_train2014_000000081363.jpg,giraffe
+2178,n07584110_6892.JPEG,consomme
+2179,n02099712_8083.JPEG,Labrador retriever
+2180,rep_cabana2.jpg,rep_cabana
+2181,n02099267_5415.JPEG,flat-coated retriever
+2182,COCO_train2014_000000414022.jpg,parking meter
+2183,n01860187_2314.JPEG,"black swan, Cygnus atratus"
+2184,COCO_train2014_000000274685.jpg,"bicycle, sheep"
+2185,n03063599_3952.JPEG,coffee mug
+2186,COCO_train2014_000000306249.jpg,"cup, laptop, window, potted plant, bed, banana, scissors, couch"
+2187,n02116738_8455.JPEG,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus"
+2188,rep_n04557648_12671.JPEG,rep_n04557648_
+2189,boardwalk4.jpg,boardwalk
+2190,n02105056_6457.JPEG,groenendael
+2191,n07932039_10433.JPEG,eggnog
+2192,COCO_train2014_000000211198.jpg,"bicycle, surfboard"
+2193,n02107908_1426.JPEG,Appenzeller
+2194,COCO_train2014_000000447130.jpg,"bicycle, surfboard"
+2195,hallway.jpg,hallway
+2196,COCO_train2014_000000422268.jpg,vase
+2197,n04336792_8303.JPEG,stretcher
+2198,homegarage3.jpg,homegarage
+2199,n03018349_3077.JPEG,"china cabinet, china closet"
+2200,n04592741_17849.JPEG,wing
+2201,COCO_train2014_000000024287.jpg,hat
+2202,n04330267_289.JPEG,stove
+2203,COCO_train2014_000000151414.jpg,"potted plant, dog"
+2204,n03841143_2896.JPEG,"odometer, hodometer, mileometer, milometer"
+2205,COCO_train2014_000000022696.jpg,"bicycle, donut, couch, knife, fork, window, bed, spoon"
+2206,COCO_train2014_000000322869.jpg,"bicycle, snowboard"
+2207,van_interior2.jpg,van_interior
+2208,rep_COCO_train2014_000000470907.jpg,bear
+2209,rep_n04044716_4079.JPEG,rep_n04044716_
+2210,n03259280_1792.JPEG,Dutch oven
+2211,n03188531_14772.JPEG,"diaper, nappy, napkin"
+2212,COCO_train2014_000000482912.jpg,"horse, traffic light"
+2213,COCO_train2014_000000461208.jpg,"tie, bicycle, motorcycle, bird"
+2214,COCO_train2014_000000531515.jpg,"bicycle, baseball bat, motorcycle"
+2215,conference2.jpg,conference
+2216,pub6.jpg,pub
+2217,cubicle7.jpg,cubicle
+2218,COCO_train2014_000000486921.jpg,elephant
+2219,COCO_train2014_000000401720.jpg,"bicycle, sheep"
+2220,COCO_train2014_000000523236.jpg,bus
+2221,COCO_train2014_000000535994.jpg,truck
+2222,COCO_train2014_000000166678.jpg,"chair, knife, window, scissors, couch"
+2223,cockpit4.jpg,cockpit
+2224,closet.jpg,closet
+2225,n03538406_6494.JPEG,"horse cart, horse-cart"
+2226,COCO_train2014_000000508861.jpg,"bicycle, cake"
+2227,dormroom6.jpg,dormroom
+2228,COCO_train2014_000000424138.jpg,"elephant, horse"
+2229,COCO_train2014_000000224926.jpg,"bicycle, surfboard"
+2230,n07860988_7618.JPEG,dough
+2231,n13037406_529.JPEG,gyromitra
+2232,rep_COCO_train2014_000000507789.jpg,"door, refrigerator, plate"
+2233,COCO_train2014_000000317090.jpg,"bottle, bicycle, couch, kite"
+2234,n04120489_4427.JPEG,running shoe
+2235,n03930630_13437.JPEG,"pickup, pickup truck"
+2236,rep_COCO_train2014_000000061215.jpg,"pizza, window, orange"
+2237,n01914609_1551.JPEG,"sea anemone, anemone"
+2238,COCO_train2014_000000243839.jpg,"tie, mouse, bicycle, bird"
+2239,n02489166_12553.JPEG,"proboscis monkey, Nasalis larvatus"
+2240,COCO_train2014_000000109560.jpg,"bicycle, snowboard"
+2241,n04392985_14385.JPEG,tape player
+2242,n13040303_7350.JPEG,"stinkhorn, carrion fungus"
+2243,COCO_train2014_000000296474.jpg,"tie, bicycle, umbrella, frisbee, truck"
+2244,n03777568_7670.JPEG,Model T
+2245,cabana3.jpg,cabana
+2246,movie_theater5.jpg,movie_theater
+2247,auto_showroom3.jpg,auto_showroom
+2248,COCO_train2014_000000283678.jpg,"bicycle, kite, bird, baseball glove, skateboard"
+2249,rep_COCO_train2014_000000147659.jpg,"cup, fork, window, plate, bowl, banana, orange"
+2250,COCO_train2014_000000391892.jpg,"bicycle, bus, boat"
+2251,artStudio1.jpg,artStudio
+2252,n01491361_3094.JPEG,"tiger shark, Galeocerdo cuvieri"
+2253,n02091831_990.JPEG,"Saluki, gazelle hound"
+2254,n02486261_7157.JPEG,"patas, hussar monkey, Erythrocebus patas"
+2255,COCO_train2014_000000131524.jpg,vase
+2256,COCO_train2014_000000201969.jpg,"horse, bicycle, traffic light, bird"
+2257,cabinIndoors3.jpg,cabinIndoors
+2258,COCO_train2014_000000559024.jpg,truck
+2259,COCO_train2014_000000346583.jpg,"cat, motorcycle"
+2260,n12985857_4114.JPEG,coral fungus
+2261,pond4.jpg,pond
+2262,porch8.jpg,porch
+2263,rep_COCO_train2014_000000225383.jpg,"tie, bicycle, truck"
+2264,COCO_train2014_000000288751.jpg,traffic light
+2265,n02105056_2213.JPEG,groenendael
+2266,flowershop2.jpg,flowershop
+2267,ruralroad7.jpg,ruralroad
+2268,n03995372_7219.JPEG,power drill
+2269,COCO_train2014_000000447182.jpg,"bicycle, snowboard"
+2270,rep_COCO_train2014_000000428691.jpg,"bicycle, traffic light"
+2271,n02408429_17770.JPEG,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis"
+2272,n04579145_1376.JPEG,whiskey jug
+2273,COCO_train2014_000000205875.jpg,mirror
+2274,n04310018_3250.JPEG,steam locomotive
+2275,COCO_train2014_000000173987.jpg,horse
+2276,rep_n02808304_3656.JPEG,rep_n02808304_
+2277,COCO_train2014_000000117542.jpg,"door, refrigerator, fork"
+2278,n03814906_39850.JPEG,necklace
+2279,n04136333_2487.JPEG,sarong
+2280,COCO_train2014_000000476380.jpg,donut
+2281,COCO_train2014_000000389154.jpg,cow
+2282,foodcourt3.jpg,foodcourt
+2283,COCO_train2014_000000416279.jpg,"boat, traffic light"
+2284,n02112137_8202.JPEG,"chow, chow chow"
+2285,baggageClaim4.jpg,baggageClaim
+2286,n04515003_11913.JPEG,"upright, upright piano"
+2287,COCO_train2014_000000520515.jpg,airplane
+2288,n04023962_15831.JPEG,"punching bag, punch bag, punching ball, punchball"
+2289,n02492035_887.JPEG,"capuchin, ringtail, Cebus capucinus"
+2290,COCO_train2014_000000342639.jpg,"bicycle, bird, bottle, horse, skateboard"
+2291,n03825788_8895.JPEG,nipple
+2292,COCO_train2014_000000540538.jpg,horse
+2293,COCO_train2014_000000523306.jpg,"bear, tie, bicycle, bird"
+2294,cafeteria5.jpg,cafeteria
+2295,n02966193_63.JPEG,"carousel, carrousel, merry-go-round, roundabout, whirligig"
+2296,n02417914_4656.JPEG,"ibex, Capra ibex"
+2297,n04209239_832.JPEG,shower curtain
+2298,n01985128_12937.JPEG,"crayfish, crawfish, crawdad, crawdaddy"
+2299,COCO_train2014_000000502441.jpg,broccoli
+2300,rep_COCO_train2014_000000312003.jpg,"bicycle, parking meter, street sign, bench, motorcycle, boat"
+2301,metroInside1.jpg,metroInside
+2302,COCO_train2014_000000330086.jpg,"bicycle, refrigerator"
+2303,COCO_train2014_000000174504.jpg,"bicycle, sports ball"
+2304,COCO_train2014_000000154972.jpg,bus
+2305,n07749582_16294.JPEG,lemon
+2306,hedgemaze1.jpg,hedgemaze
+2307,n04557648_10553.JPEG,water bottle
+2308,balconyIN5.jpg,balconyIN
+2309,n03216828_21284.JPEG,"dock, dockage, docking facility"
+2310,COCO_train2014_000000005028.jpg,"mouse, keyboard, clock, bicycle, potted plant, banana, scissors, couch, toaster"
+2311,COCO_train2014_000000119505.jpg,"bicycle, suitcase, street sign, umbrella, vase"
+2312,windmill4.jpeg,windmill
+2313,n03529860_9840.JPEG,"home theater, home theatre"
+2314,martialartsclass4.jpg,martialartsclass
+2315,n03394916_51071.JPEG,"French horn, horn"
+2316,COCO_train2014_000000460198.jpg,giraffe
+2317,n02123159_1673.JPEG,tiger cat
+2318,dentist3.jpg,dentist
+2319,COCO_train2014_000000294233.jpg,"bicycle, tennis racket"
+2320,COCO_train2014_000000495040.jpg,train
+2321,COCO_train2014_000000194108.jpg,"tie, bicycle, car, bird, motorcycle, fire hydrant, vase"
+2322,COCO_train2014_000000016314.jpg,bicycle
+2323,rep_COCO_train2014_000000508861.jpg,"bicycle, cake"
+2324,n03125729_4829.JPEG,cradle
+2325,COCO_train2014_000000404108.jpg,"bicycle, tennis racket"
+2326,n02992529_4954.JPEG,"cellular telephone, cellular phone, cellphone, cell, mobile phone"
+2327,rep_COCO_train2014_000000399337.jpg,vase
+2328,COCO_train2014_000000087249.jpg,"shoe, couch, mirror"
+2329,n03026506_10.JPEG,Christmas stocking
+2330,COCO_train2014_000000313921.jpg,"bicycle, sports ball, snowboard"
+2331,bedroom4.jpeg,bedroom
+2332,childsroom4.jpg,childsroom
+2333,n04296562_22704.JPEG,stage
+2334,n02704792_31170.JPEG,"amphibian, amphibious vehicle"
+2335,rep_n03617480_5796.JPEG,rep_n03617480_
+2336,rep_n04277352_10350.JPEG,rep_n04277352_
+2337,n04399382_2877.JPEG,"teddy, teddy bear"
+2338,observatory4.jpeg,observatory
+2339,n02086646_6541.JPEG,Blenheim spaniel
+2340,n07873807_7941.JPEG,"pizza, pizza pie"
+2341,n02788148_754.JPEG,"bannister, banister, balustrade, balusters, handrail"
+2342,COCO_train2014_000000085564.jpg,"baseball glove, skateboard, kite, bicycle"
+2343,COCO_train2014_000000509292.jpg,"bicycle, baseball bat"
+2344,COCO_train2014_000000092288.jpg,"knife, fork, window, plate, hot dog, spoon, orange"
+2345,minigolf.jpg,minigolf
+2346,COCO_train2014_000000405516.jpg,"bicycle, snowboard"
+2347,COCO_train2014_000000282707.jpg,"blender, sandwich, plate, banana, sink, spoon, toaster"
+2348,COCO_train2014_000000334772.jpg,giraffe
+2349,n06794110_3809.JPEG,street sign
+2350,COCO_train2014_000000384235.jpg,"mouse, laptop, plate, cell phone, remote"
+2351,n01687978_6955.JPEG,agama
+2352,COCO_train2014_000000056647.jpg,"clock, blender, plate"
+2353,airportTerminal6.jpg,airportTerminal
+2354,n01819313_2418.JPEG,"sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita"
+2355,n03924679_1201.JPEG,photocopier
+2356,flowershop3.jpg,flowershop
+2357,minigolf2.jpg,minigolf
+2358,COCO_train2014_000000292034.jpg,bicycle
+2359,COCO_train2014_000000323182.jpg,vase
+2360,rep_n02113978_9805.JPEG,rep_n02113978_
+2361,COCO_train2014_000000011299.jpg,bus
+2362,n02017213_6605.JPEG,"European gallinule, Porphyrio porphyrio"
+2363,COCO_train2014_000000206467.jpg,"bicycle, motorcycle, truck, bird"
+2364,n04355933_2835.JPEG,sunglass
+2365,COCO_train2014_000000469816.jpg,"parking meter, fire hydrant"
+2366,n03196217_993.JPEG,digital clock
+2367,COCO_train2014_000000117536.jpg,street sign
+2368,COCO_train2014_000000080987.jpg,bear
+2369,COCO_train2014_000000008998.jpg,vase
+2370,COCO_train2014_000000059321.jpg,vase
+2371,n01498041_6496.JPEG,stingray
+2372,n03761084_2939.JPEG,"microwave, microwave oven"
+2373,n03026506_1084.JPEG,Christmas stocking
+2374,n04336792_2479.JPEG,stretcher
+2375,n03868863_11907.JPEG,oxygen mask
+2376,balconyOUT2.jpg,balconyOUT
+2377,COCO_train2014_000000557886.jpg,"bicycle, sheep"
+2378,COCO_train2014_000000382890.jpg,train
+2379,COCO_train2014_000000195816.jpg,"teddy bear, tie, bicycle, bird"
+2380,pharmacy2.jpg,pharmacy
+2381,airplanecabin3.jpg,airplanecabin
+2382,COCO_train2014_000000497797.jpg,"bicycle, sports ball"
+2383,rep_n04044716_4079.JPEG,rep_n04044716_
+2384,n02795169_31928.JPEG,"barrel, cask"
+2385,COCO_train2014_000000559908.jpg,"bottle, bicycle, kite"
+2386,recordingstudio1.jpg,recordingstudio
+2387,n04146614_3924.JPEG,school bus
+2388,frontDoor5.jpg,frontDoor
+2389,n03649909_2646.JPEG,"lawn mower, mower"
+2390,concerthall1.jpg,concerthall
+2391,swimmingpool1.jpg,swimmingpool
+2392,COCO_train2014_000000323397.jpg,"tie, microwave, bicycle"
+2393,n03775071_13796.JPEG,mitten
+2394,COCO_train2014_000000257983.jpg,hat
+2395,n04366367_8673.JPEG,suspension bridge
+2396,rep_n03617480_5796.JPEG,rep_n03617480_
+2397,COCO_train2014_000000438751.jpg,"horse, boat"
+2398,n02859443_14540.JPEG,boathouse
+2399,n02906734_22139.JPEG,broom
+2400,rep_COCO_train2014_000000182642.jpg,"airplane, bicycle"
+2401,COCO_train2014_000000559816.jpg,vase
+2402,COCO_train2014_000000355458.jpg,"bicycle, suitcase"
+2403,COCO_train2014_000000334953.jpg,"cat, bicycle, tennis racket"
+2404,n02500267_456.JPEG,"indri, indris, Indri indri, Indri brevicaudatus"
+2405,n02009912_6582.JPEG,"American egret, great white heron, Egretta albus"
+2406,n02174001_391.JPEG,rhinoceros beetle
+2407,newsstand7.jpg,newsstand
+2408,cabinIndoors4.jpg,cabinIndoors
+2409,n02088094_908.JPEG,"Afghan hound, Afghan"
+2410,COCO_train2014_000000561394.jpg,"plate, bed, refrigerator, mirror, scissors"
+2411,cornfield.jpg,cornfield
+2412,COCO_train2014_000000370369.jpg,cow
+2413,COCO_train2014_000000270278.jpg,parking meter
+2414,n02268853_504.JPEG,damselfly
+2415,rooftop4.jpg,rooftop
+2416,COCO_train2014_000000044267.jpg,"blender, plate"
+2417,COCO_train2014_000000161328.jpg,"bottle, bicycle, kite"
+2418,n02869837_28668.JPEG,"bonnet, poke bonnet"
+2419,rep_COCO_train2014_000000191734.jpg,"airplane, bicycle"
+2420,lightingstore4.jpg,lightingstore
+2421,COCO_train2014_000000321304.jpg,"bicycle, surfboard"
+2422,n02104029_967.JPEG,kuvasz
+2423,rep_COCO_train2014_000000037823.jpg,cow
+2424,COCO_train2014_000000503779.jpg,bus
+2425,n01829413_7324.JPEG,hornbill
+2426,COCO_train2014_000000267697.jpg,giraffe
+2427,n03109150_25396.JPEG,"corkscrew, bottle screw"
+2428,n02444819_306.JPEG,otter
+2429,rep_COCO_train2014_000000090569.jpg,"bicycle, couch, cup, window"
+2430,COCO_train2014_000000265023.jpg,"microwave, bicycle, umbrella, snowboard"
+2431,COCO_train2014_000000380989.jpg,sheep
+2432,bakery4.jpg,bakery
+2433,COCO_train2014_000000431764.jpg,"bicycle, truck"
+2434,COCO_train2014_000000246759.jpg,"bicycle, train"
+2435,n02105251_546.JPEG,briard
+2436,COCO_train2014_000000150559.jpg,"tie, bicycle, car, motorcycle, microwave, boat"
+2437,n04366367_7379.JPEG,suspension bridge
+2438,n04074963_34370.JPEG,"remote control, remote"
+2439,playroom2.jpg,playroom
+2440,n03594945_19405.JPEG,"jeep, landrover"
+2441,COCO_train2014_000000335688.jpg,"clock, fork, laptop, cell phone, couch, remote"
+2442,COCO_train2014_000000050256.jpg,"bicycle, boat"
+2443,COCO_train2014_000000273138.jpg,"clock, carrot, window, bowl, banana, hot dog"
+2444,COCO_train2014_000000298170.jpg,truck
+2445,COCO_train2014_000000144193.jpg,"bicycle, hat"
+2446,n02256656_14556.JPEG,"cicada, cicala"
+2447,COCO_train2014_000000470613.jpg,bear
+2448,n02794156_8585.JPEG,barometer
+2449,n02643566_1245.JPEG,lionfish
+2450,rep_COCO_train2014_000000405401.jpg,"bicycle, snowboard"
+2451,sculpturegarden3.jpg,sculpturegarden
+2452,n02977058_6277.JPEG,"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM"
+2453,COCO_train2014_000000178031.jpg,"bicycle, sheep"
+2454,basement5.jpg,basement
+2455,n02128385_393.JPEG,"leopard, Panthera pardus"
+2456,n03376595_6893.JPEG,folding chair
+2457,n03982430_16514.JPEG,"pool table, billiard table, snooker table"
+2458,firestation2.jpg,firestation
+2459,rep_COCO_train2014_000000199743.jpg,"bicycle, car, motorcycle, boat, fire hydrant, train"
+2460,COCO_train2014_000000488295.jpg,door
+2461,n09193705_2043.JPEG,alp
+2462,rep_n04335435_10063.JPEG,rep_n04335435_
+2463,COCO_train2014_000000317061.jpg,"bicycle, surfboard"
+2464,COCO_train2014_000000485465.jpg,"cup, window, plate"
+2465,COCO_train2014_000000274463.jpg,zebra
+2466,n03657121_13603.JPEG,"lens cap, lens cover"
+2467,n02443484_3544.JPEG,"black-footed ferret, ferret, Mustela nigripes"
+2468,n02113624_10154.JPEG,toy poodle
+2469,COCO_train2014_000000437516.jpg,"microwave, bicycle, surfboard"
+2470,flowershop4.jpg,flowershop
+2471,COCO_train2014_000000474545.jpg,giraffe
+2472,hallway4.jpg,hallway
+2473,n02100583_24912.JPEG,"vizsla, Hungarian pointer"
+2474,n01560419_9017.JPEG,bulbul
+2475,COCO_train2014_000000018078.jpg,vase
+2476,musicStore3.jpg,musicStore
+2477,photographer_studio3.jpg,photographer_studio
+2478,COCO_train2014_000000424979.jpg,"bicycle, car, fork, window, motorcycle, hot dog, orange"
+2479,COCO_train2014_000000096925.jpg,"airplane, bicycle, boat, motorcycle"
+2480,n03759954_17124.JPEG,"microphone, mike"
+2481,COCO_train2014_000000204422.jpg,"bicycle, sports ball, snowboard"
+2482,ballroom3.jpg,ballroom
+2483,n02807133_20308.JPEG,"bathing cap, swimming cap"
+2484,rep_COCO_train2014_000000341033.jpg,"bicycle, tennis racket"
+2485,COCO_train2014_000000419759.jpg,"bicycle, bus, boat"
+2486,n03100240_14200.JPEG,convertible
+2487,COCO_train2014_000000061266.jpg,"tie, bicycle, umbrella, frisbee, truck"
+2488,n02009229_2158.JPEG,"little blue heron, Egretta caerulea"
+2489,church8.jpg,church
+2490,n02835271_12743.JPEG,"bicycle-built-for-two, tandem bicycle, tandem"
+2491,COCO_train2014_000000271568.jpg,zebra
+2492,COCO_train2014_000000238001.jpg,"tie, bicycle, umbrella, frisbee"
+2493,n04270147_7710.JPEG,spatula
+2494,rep_COCO_train2014_000000190964.jpg,bus
+2495,rep_COCO_train2014_000000028868.jpg,"bicycle, baseball bat"
+2496,COCO_train2014_000000327682.jpg,"bicycle, tennis racket"
+2497,kitchen5.jpg,kitchen
+2498,n03623198_9557.JPEG,knee pad
+2499,n01806567_6210.JPEG,quail
+2500,n03180011_7261.JPEG,desktop computer
+2501,COCO_train2014_000000055514.jpg,"bicycle, snowboard"
+2502,COCO_train2014_000000000650.jpg,"dog, motorcycle"
+2503,n03000134_4467.JPEG,chainlink fence
+2504,n03843555_1517.JPEG,oil filter
+2505,COCO_train2014_000000578843.jpg,"clock, window, couch, bird"
+2506,n03290653_2105.JPEG,entertainment center
+2507,COCO_train2014_000000443940.jpg,cat
+2508,COCO_train2014_000000292739.jpg,bear
+2509,sushibar5.jpg,sushibar
+2510,pier.jpg,pier
+2511,COCO_train2014_000000313480.jpg,"bicycle, traffic light"
+2512,tailor2.jpg,tailor
+2513,lake2.jpg,lake
+2514,n02398521_5517.JPEG,"hippopotamus, hippo, river horse, Hippopotamus amphibius"
+2515,COCO_train2014_000000502058.jpg,"cow, bicycle"
+2516,COCO_train2014_000000229456.jpg,giraffe
+2517,n07590611_22056.JPEG,"hot pot, hotpot"
+2518,COCO_train2014_000000095176.jpg,"bicycle, snowboard"
+2519,n04259630_9316.JPEG,sombrero
+2520,COCO_train2014_000000151049.jpg,truck
+2521,COCO_train2014_000000099363.jpg,"bicycle, snowboard"
+2522,COCO_train2014_000000388011.jpg,hat
+2523,rep_n02797295_13746.JPEG,rep_n02797295_
+2524,COCO_train2014_000000505592.jpg,bear
+2525,n03661043_37272.JPEG,library
+2526,COCO_train2014_000000506039.jpg,"bicycle, tennis racket"
+2527,COCO_train2014_000000520100.jpg,"banana, hot dog, carrot, window"
+2528,COCO_train2014_000000149791.jpg,"refrigerator, fork, scissors"
+2529,n02120505_15753.JPEG,"grey fox, gray fox, Urocyon cinereoargenteus"
+2530,rep_n13040303_4195.JPEG,rep_n13040303_
+2531,n02814533_14771.JPEG,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+2532,COCO_train2014_000000410966.jpg,"bicycle, umbrella, frisbee"
+2533,n02077923_413.JPEG,sea lion
+2534,lockerroom.jpg,lockerroom
+2535,n03876231_17739.JPEG,paintbrush
+2536,COCO_train2014_000000244646.jpg,"mouse, bicycle, clock, blender, fork, window, refrigerator, horse, couch"
+2537,n02111500_9058.JPEG,Great Pyrenees
+2538,n03785016_8397.JPEG,moped
+2539,park2.jpg,park
+2540,COCO_train2014_000000281567.jpg,"mirror, clock"
+2541,n04493381_10004.JPEG,"tub, vat"
+2542,fireEscape.jpg,fireEscape
+2543,n13054560_3021.JPEG,bolete
+2544,n03459775_2895.JPEG,"grille, radiator grille"
+2545,jail1.jpg,jail
+2546,exerciseequipment3.jpg,exerciseequipment
+2547,COCO_train2014_000000363084.jpg,"horse, banana, bird"
+2548,campusquad3.jpg,campusquad
+2549,sparoom6.jpg,sparoom
+2550,COCO_train2014_000000569678.jpg,"bicycle, tennis racket"
+2551,rep_COCO_train2014_000000037823.jpg,cow
+2552,n02093754_3799.JPEG,Border terrier
+2553,n03733805_6985.JPEG,measuring cup
+2554,n02443484_2595.JPEG,"black-footed ferret, ferret, Mustela nigripes"
+2555,grocerystore3.jpg,grocerystore
+2556,COCO_train2014_000000366396.jpg,"bicycle, snowboard"
+2557,n02129165_6344.JPEG,"lion, king of beasts, Panthera leo"
+2558,rep_elevatorOutside4.jpg,rep_elevatorOutside
+2559,COCO_train2014_000000009199.jpg,"mirror, vase"
+2560,n01440764_10110.JPEG,"tench, Tinca tinca"
+2561,COCO_train2014_000000352724.jpg,"fork, clock, apple"
+2562,COCO_train2014_000000056283.jpg,"microwave, bicycle, couch"
+2563,n02412080_7942.JPEG,"ram, tup"
+2564,COCO_train2014_000000208730.jpg,bear
+2565,rep_n02808304_3656.JPEG,rep_n02808304_
+2566,COCO_train2014_000000461187.jpg,"bicycle, suitcase, bird, motorcycle, microwave"
+2567,squashcourt7.jpg,squashcourt
+2568,COCO_train2014_000000423209.jpg,"bus, boat, motorcycle"
+2569,pavilion3.jpg,pavilion
+2570,n04254680_11069.JPEG,soccer ball
+2571,COCO_train2014_000000212440.jpg,donut
+2572,desertvegetation3.jpg,desertvegetation
+2573,n02128925_59838.JPEG,"jaguar, panther, Panthera onca, Felis onca"
+2574,COCO_train2014_000000263599.jpg,bus
+2575,n02091134_12975.JPEG,whippet
+2576,COCO_train2014_000000173833.jpg,donut
+2577,chickenCoop8.jpg,chickenCoop
+2578,n02268443_8810.JPEG,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"
+2579,COCO_train2014_000000004442.jpg,"bicycle, mirror"
+2580,COCO_train2014_000000246453.jpg,"mouse, fork"
+2581,n03384352_4806.JPEG,forklift
+2582,n02097130_5347.JPEG,giant schnauzer
+2583,theater1.jpg,theater
+2584,COCO_train2014_000000524195.jpg,"bicycle, parking meter, car"
+2585,n01592084_5666.JPEG,chickadee
+2586,rep_n11879895_2208.JPEG,rep_n11879895_
+2587,n02104365_5226.JPEG,schipperke
+2588,COCO_train2014_000000046753.jpg,horse
+2589,hardwarestore3.jpg,hardwarestore
+2590,n02607072_621.JPEG,anemone fish
+2591,n03637318_10842.JPEG,"lampshade, lamp shade"
+2592,bistrooutdoor6.jpg,bistrooutdoor
+2593,COCO_train2014_000000228671.jpg,"bottle, bicycle, kite"
+2594,COCO_train2014_000000507812.jpg,"blender, cup, plate, refrigerator, toaster"
+2595,COCO_train2014_000000545405.jpg,"tie, bicycle, pizza, orange"
+2596,n03854065_46637.JPEG,"organ, pipe organ"
+2597,movie_theater2.jpg,movie_theater
+2598,n02012849_5570.JPEG,crane
+2599,n03938244_9802.JPEG,pillow
+2600,n03594734_18268.JPEG,"jean, blue jean, denim"
+2601,rep_parkinggarage3.jpg,rep_parkinggarage
+2602,rep_COCO_train2014_000000268008.jpg,"bicycle, bird, baseball glove, umbrella, skateboard"
+2603,n07880968_408.JPEG,burrito
+2604,COCO_train2014_000000021972.jpg,bus
+2605,n07714571_12075.JPEG,head cabbage
+2606,rainforest6.jpg,rainforest
+2607,COCO_train2014_000000475952.jpg,"mouse, bicycle, fork, bed, umbrella, couch"
+2608,COCO_train2014_000000197068.jpg,microwave
+2609,COCO_train2014_000000336764.jpg,"tie, bicycle, sheep"
+2610,COCO_train2014_000000026981.jpg,"donut, carrot, window"
+2611,COCO_train2014_000000514955.jpg,cat
+2612,constructionSite2.jpg,constructionSite
+2613,COCO_train2014_000000401699.jpg,elephant
+2614,COCO_train2014_000000073997.jpg,"bottle, bicycle"
+2615,n03888257_10680.JPEG,"parachute, chute"
+2616,n04208210_12148.JPEG,shovel
+2617,COCO_train2014_000000576749.jpg,"cat, bicycle, traffic light, bird"
+2618,n04523525_13604.JPEG,vault
+2619,n02966687_15679.JPEG,"carpenter's kit, tool kit"
+2620,rep_bakery5.jpg,rep_bakery
+2621,lookout5.jpg,lookout
+2622,bridalboutique4.jpg,bridalboutique
+2623,skislope.jpg,skislope
+2624,n03045698_3644.JPEG,cloak
+2625,COCO_train2014_000000167908.jpg,"bottle, bicycle, kite"
+2626,COCO_train2014_000000121446.jpg,"keyboard, mouse, clock, dog"
+2627,n03832673_21438.JPEG,"notebook, notebook computer"
+2628,COCO_train2014_000000554486.jpg,broccoli
+2629,COCO_train2014_000000000605.jpg,"bowl, fork, window"
+2630,COCO_train2014_000000484761.jpg,"bicycle, bus"
+2631,dormroom9.jpg,dormroom
+2632,COCO_train2014_000000021718.jpg,"bowl, banana, hot dog, carrot"
+2633,COCO_train2014_000000067572.jpg,hat
+2634,n07717556_4021.JPEG,butternut squash
+2635,rep_n01798484_1157.JPEG,rep_n01798484_
+2636,n03485407_8249.JPEG,"hand-held computer, hand-held microcomputer"
+2637,COCO_train2014_000000019665.jpg,keyboard
+2638,COCO_train2014_000000223447.jpg,"bicycle, sheep"
+2639,n02672831_13968.JPEG,"accordion, piano accordion, squeeze box"
+2640,n01629819_519.JPEG,"European fire salamander, Salamandra salamandra"
+2641,grocerystore5.jpg,grocerystore
+2642,n02396427_12265.JPEG,"wild boar, boar, Sus scrofa"
+2643,n02978881_8333.JPEG,cassette
+2644,COCO_train2014_000000064148.jpg,"mouse, bicycle, keyboard, potted plant, cell phone"
+2645,COCO_train2014_000000389207.jpg,"tie, bicycle, plate, microwave, vase"
+2646,sidewalk5.jpg,sidewalk
+2647,lab1.jpg,lab
+2648,n02804414_3181.JPEG,bassinet
+2649,waterfall_outdoor9.jpg,waterfall_outdoor
+2650,n01796340_12862.JPEG,ptarmigan
+2651,COCO_train2014_000000565834.jpg,truck
+2652,n01632458_2.JPEG,"spotted salamander, Ambystoma maculatum"
+2653,COCO_train2014_000000146256.jpg,"bear, bicycle, couch"
+2654,COCO_train2014_000000546147.jpg,"mouse, bicycle, bird, umbrella, couch"
+2655,n02100236_582.JPEG,German short-haired pointer
+2656,COCO_train2014_000000047638.jpg,fire hydrant
+2657,applestore2.jpg,applestore
+2658,n01687978_468.JPEG,agama
+2659,rep_COCO_train2014_000000112805.jpg,bird
+2660,bistrooutdoor5.jpg,bistrooutdoor
+2661,COCO_train2014_000000278060.jpg,"bicycle, couch, knife, fork, window, plate, banana, spoon, orange"
+2662,n02108089_276.JPEG,boxer
+2663,rep_n12985857_4114.JPEG,rep_n12985857_
+2664,appleorchard4.jpg,appleorchard
+2665,golfcourse4.jpg,golfcourse
+2666,COCO_train2014_000000216539.jpg,bus
+2667,rep_COCO_train2014_000000147659.jpg,"cup, fork, window, plate, bowl, banana, orange"
+2668,n04252225_3764.JPEG,"snowplow, snowplough"
+2669,n02091032_7089.JPEG,Italian greyhound
+2670,n02110806_5333.JPEG,basenji
+2671,n04179913_10794.JPEG,sewing machine
+2672,n03376595_4806.JPEG,folding chair
+2673,COCO_train2014_000000159562.jpg,"horse, couch, laptop, cell phone"
+2674,COCO_train2014_000000455691.jpg,"sandwich, carrot, window, banana, hot dog"
+2675,COCO_train2014_000000023253.jpg,"airplane, bicycle"
+2676,COCO_train2014_000000232186.jpg,"banana, carrot"
+2677,n03868242_1758.JPEG,oxcart
+2678,COCO_train2014_000000262239.jpg,"bicycle, blender, bowl, cake, spoon, toaster"
+2679,banquetHall4.jpg,banquetHall
+2680,COCO_train2014_000000438810.jpg,giraffe
+2681,bakerykitchen4.jpg,bakerykitchen
+2682,COCO_train2014_000000355622.jpg,refrigerator
+2683,COCO_train2014_000000238687.jpg,"bicycle, sports ball"
+2684,n04462240_14345.JPEG,toyshop
+2685,n01950731_8536.JPEG,"sea slug, nudibranch"
+2686,n03680355_4384.JPEG,Loafer
+2687,COCO_train2014_000000256785.jpg,"bicycle, train"
+2688,n07613480_1329.JPEG,trifle
+2689,rep_n04367480_1601.JPEG,rep_n04367480_
+2690,COCO_train2014_000000338501.jpg,"bicycle, kite, skateboard"
+2691,hardwarestore2.jpg,hardwarestore
+2692,COCO_train2014_000000365003.jpg,"clock, laptop, window, potted plant, couch"
+2693,rep_n02120079_6668.JPEG,rep_n02120079_
+2694,COCO_train2014_000000107197.jpg,traffic light
+2695,fishmarket1.jpg,fishmarket
+2696,COCO_train2014_000000575121.jpg,hat
+2697,n02231487_6462.JPEG,"walking stick, walkingstick, stick insect"
+2698,n03532672_3469.JPEG,"hook, claw"
+2699,recordingstudio2.jpg,recordingstudio
+2700,n04332243_10859.JPEG,strainer
+2701,n04026417_14316.JPEG,purse
+2702,n04254120_981.JPEG,soap dispenser
+2703,n03425413_14302.JPEG,"gas pump, gasoline pump, petrol pump, island dispenser"
+2704,wineVineyard8.jpg,wineVineyard
+2705,n03961711_10816.JPEG,plate rack
+2706,COCO_train2014_000000098480.jpg,"plate, bowl, refrigerator, banana, spoon, toaster"
+2707,COCO_train2014_000000189794.jpg,"bicycle, car, bird, motorcycle, umbrella"
+2708,COCO_train2014_000000532124.jpg,giraffe
+2709,n04372370_29525.JPEG,"switch, electric switch, electrical switch"
+2710,n03602883_176.JPEG,joystick
+2711,rep_COCO_train2014_000000027710.jpg,elephant
+2712,n02105505_5107.JPEG,komondor
+2713,n02107574_3968.JPEG,Greater Swiss Mountain dog
+2714,COCO_train2014_000000195027.jpg,"spoon, bicycle, knife, cup, window, bowl, couch"
+2715,rep_COCO_train2014_000000147659.jpg,"cup, fork, window, plate, bowl, banana, orange"
+2716,rep_COCO_train2014_000000114846.jpg,"bicycle, sheep"
+2717,n02883205_22710.JPEG,"bow tie, bow-tie, bowtie"
+2718,COCO_train2014_000000100669.jpg,"bicycle, bird"
+2719,coralreef2.jpg,coralreef
+2720,cargo2.jpg,cargo
+2721,n02483362_7720.JPEG,"gibbon, Hylobates lar"
+2722,n02108422_4646.JPEG,bull mastiff
+2723,n04037443_16953.JPEG,"racer, race car, racing car"
+2724,cubicle4.jpg,cubicle
+2725,COCO_train2014_000000207751.jpg,truck
+2726,poolhall4.jpg,poolhall
+2727,cliff3.jpg,cliff
+2728,COCO_train2014_000000074835.jpg,"bicycle, spoon, apple"
+2729,COCO_train2014_000000309135.jpg,giraffe
+2730,COCO_train2014_000000577964.jpg,"bottle, bicycle, couch"
+2731,n07753275_19151.JPEG,"pineapple, ananas"
+2732,COCO_train2014_000000350358.jpg,"bicycle, skis"
+2733,COCO_train2014_000000242631.jpg,"bicycle, skis"
+2734,COCO_train2014_000000084829.jpg,"kite, bottle, bicycle, cat"
+2735,COCO_train2014_000000444018.jpg,"bicycle, fire hydrant, truck"
+2736,martialartsclass.jpg,martialartsclass
+2737,COCO_train2014_000000172805.jpg,"keyboard, clock, window, potted plant, bed, vase, couch"
+2738,n02108422_1386.JPEG,bull mastiff
+2739,n01847000_13051.JPEG,drake
+2740,COCO_train2014_000000558788.jpg,bus
+2741,COCO_train2014_000000087126.jpg,"blender, fork, laptop, plate, bed, refrigerator, scissors"
+2742,movie_theater6.jpg,movie_theater
+2743,COCO_train2014_000000049550.jpg,"plate, bird"
+2744,COCO_train2014_000000395740.jpg,"shoe, bicycle, couch"
+2745,rep_n03461385_91813.JPEG,rep_n03461385_
+2746,COCO_train2014_000000260871.jpg,"blender, fork, plate, refrigerator, toaster"
+2747,n01601694_10357.JPEG,"water ouzel, dipper"
+2748,kitchen.jpg,kitchen
+2749,COCO_train2014_000000239739.jpg,cat
+2750,n04612504_2166.JPEG,yawl
+2751,n03272010_3329.JPEG,electric guitar
+2752,COCO_train2014_000000122959.jpg,hair drier
+2753,n02483708_559.JPEG,"siamang, Hylobates syndactylus, Symphalangus syndactylus"
+2754,n02090622_9860.JPEG,"borzoi, Russian wolfhound"
+2755,n02011460_1645.JPEG,bittern
+2756,n03843555_6225.JPEG,oil filter
+2757,COCO_train2014_000000528231.jpg,elephant
+2758,n02108089_344.JPEG,boxer
+2759,COCO_train2014_000000092001.jpg,"potted plant, keyboard, bicycle, mirror"
+2760,COCO_train2014_000000179019.jpg,"blender, toaster"
+2761,n04613696_442.JPEG,yurt
+2762,n04111531_2186.JPEG,rotisserie
+2763,n01695060_8208.JPEG,"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis"
+2764,hallway5.jpg,hallway
+2765,sculpturegarden4.jpg,sculpturegarden
+2766,COCO_train2014_000000113449.jpg,"bicycle, tennis racket"
+2767,COCO_train2014_000000496335.jpg,vase
+2768,icecream3.jpg,icecream
+2769,circus2.jpg,circus
+2770,COCO_train2014_000000544060.jpg,"bicycle, tennis racket"
+2771,boardwalk.jpg,boardwalk
+2772,rep_COCO_train2014_000000450864.jpg,"bicycle, donut, couch, knife, cup, fork, window, plate, broccoli, bowl, banana, spoon"
+2773,COCO_train2014_000000219750.jpg,"tie, bicycle, motorcycle, fire hydrant, train"
+2774,n02114855_10373.JPEG,"coyote, prairie wolf, brush wolf, Canis latrans"
+2775,n04204238_15792.JPEG,shopping basket
+2776,HorseRaceTrack3.jpg,HorseRaceTrack
+2777,rep_n02120079_6668.JPEG,rep_n02120079_
+2778,n03355925_29587.JPEG,"flagpole, flagstaff"
+2779,n02137549_9639.JPEG,mongoose
+2780,n03899768_36177.JPEG,"patio, terrace"
+2781,highway7.jpg,highway
+2782,COCO_train2014_000000148986.jpg,"cat, hat"
+2783,COCO_train2014_000000230014.jpg,bear
+2784,COCO_train2014_000000100599.jpg,"bicycle, sheep"
+2785,bar2.jpg,bar
+2786,n02099712_3376.JPEG,Labrador retriever
+2787,COCO_train2014_000000475306.jpg,"chair, fork, window, knife"
+2788,COCO_train2014_000000423222.jpg,"cup, couch, window"
+2789,n02701002_18950.JPEG,ambulance
+2790,COCO_train2014_000000454915.jpg,"cell phone, laptop, remote"
+2791,COCO_train2014_000000137706.jpg,elephant
+2792,n02128757_5491.JPEG,"snow leopard, ounce, Panthera uncia"
+2793,COCO_train2014_000000488558.jpg,"mouse, clock, window, plate, remote, orange"
+2794,COCO_train2014_000000264735.jpg,elephant
+2795,n02730930_15556.JPEG,apron
+2796,COCO_train2014_000000016243.jpg,"chair, fork, bowl, banana, teddy bear, couch"
+2797,swimmingpool4.jpg,swimmingpool
+2798,n01530575_8174.JPEG,"brambling, Fringilla montifringilla"
+2799,COCO_train2014_000000071550.jpg,"spoon, bicycle, suitcase, knife, cup, fork, window, couch"
+2800,n03692522_3393.JPEG,"loupe, jeweler's loupe"
+2801,n02279972_16487.JPEG,"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus"
+2802,apartmentBuilding3.jpg,apartmentBuilding
+2803,n04398044_3768.JPEG,teapot
+2804,COCO_train2014_000000263276.jpg,"banana, carrot, window"
+2805,n07753113_34311.JPEG,fig
+2806,rep_n04136333_2487.JPEG,rep_n04136333_
+2807,botanicalGarden7.jpg,botanicalGarden
+2808,COCO_train2014_000000556154.jpg,"bicycle, boat, motorcycle"
+2809,concerthall6.jpg,concerthall
+2810,n04476259_14877.JPEG,tray
+2811,COCO_train2014_000000546140.jpg,bus
+2812,COCO_train2014_000000449032.jpg,"bicycle, giraffe"
+2813,n04263257_8347.JPEG,soup bowl
+2814,COCO_train2014_000000049841.jpg,"cell phone, laptop, remote"
+2815,COCO_train2014_000000284089.jpg,cat
+2816,n02097130_5202.JPEG,giant schnauzer
+2817,COCO_train2014_000000428726.jpg,"bicycle, skateboard"
+2818,n07714990_5274.JPEG,broccoli
+2819,n07875152_4302.JPEG,potpie
+2820,COCO_train2014_000000125703.jpg,"bear, bicycle"
+2821,rep_n02797295_13746.JPEG,rep_n02797295_
+2822,n02112137_9156.JPEG,"chow, chow chow"
+2823,doctor6.jpg,doctor
+2824,n03478589_2647.JPEG,half track
+2825,churchInside3.jpg,churchInside
+2826,n07614500_14624.JPEG,"ice cream, icecream"
+2827,n02088238_4702.JPEG,"basset, basset hound"
+2828,COCO_train2014_000000371353.jpg,orange
+2829,copyroom4.jpg,copyroom
+2830,n02123394_8575.JPEG,Persian cat
+2831,COCO_train2014_000000539967.jpg,"bicycle, skateboard, baseball glove"
+2832,warehouseoutside4.jpg,warehouseoutside
+2833,COCO_train2014_000000128475.jpg,"banana, cake"
+2834,carwash2.jpg,carwash
+2835,rep_n02640242_821.JPEG,rep_n02640242_
+2836,n04074963_2601.JPEG,"remote control, remote"
+2837,n02027492_3536.JPEG,"red-backed sandpiper, dunlin, Erolia alpina"
+2838,n04235860_9783.JPEG,sleeping bag
+2839,COCO_train2014_000000095809.jpg,"bicycle, umbrella, snowboard"
+2840,track3.jpg,track
+2841,COCO_train2014_000000433021.jpg,parking meter
+2842,n04599235_18601.JPEG,"wool, woolen, woollen"
+2843,COCO_train2014_000000318444.jpg,"bicycle, sports ball, snowboard"
+2844,n03478589_16397.JPEG,half track
+2845,shootingrange2.jpg,shootingrange
+2846,COCO_train2014_000000318381.jpg,donut
+2847,COCO_train2014_000000404296.jpg,"sandwich, plate, broccoli, banana, apple"
+2848,COCO_train2014_000000450914.jpg,"sandwich, banana, broccoli, apple"
+2849,n09472597_50230.JPEG,volcano
+2850,n02033041_3885.JPEG,dowitcher
+2851,COCO_train2014_000000304587.jpg,"clock, fork, laptop, window, cell phone, teddy bear, remote"
+2852,COCO_train2014_000000441891.jpg,hat
+2853,n04273569_31172.JPEG,speedboat
+2854,rep_COCO_train2014_000000450864.jpg,"bicycle, donut, couch, knife, cup, fork, window, plate, broccoli, bowl, banana, spoon"
+2855,n02117135_17291.JPEG,"hyena, hyaena"
+2856,n02361337_944.JPEG,marmot
+2857,n03793489_4253.JPEG,"mouse, computer mouse"
+2858,COCO_train2014_000000354645.jpg,"banana, hot dog, fork, knife"
+2859,COCO_train2014_000000082464.jpg,pizza
+2860,island2.jpg,island
+2861,n03729826_15069.JPEG,matchstick
+2862,COCO_train2014_000000505057.jpg,"bicycle, car, motorcycle, umbrella, train"
+2863,glaciers_outdoor2.jpg,glaciers_outdoor
+2864,n04435653_2335.JPEG,tile roof
+2865,n02799071_35743.JPEG,baseball
+2866,COCO_train2014_000000032474.jpg,"bicycle, boat"
+2867,n04229816_5019.JPEG,ski mask
+2868,COCO_train2014_000000135316.jpg,bus
+2869,n02106550_12073.JPEG,Rottweiler
+2870,COCO_train2014_000000280764.jpg,"bicycle, surfboard"
+2871,hayfield6.jpg,hayfield
+2872,rep_COCO_train2014_000000090569.jpg,"bicycle, couch, cup, window"
+2873,COCO_train2014_000000244967.jpg,"bicycle, fork, suitcase"
+2874,cockpit1.jpg,cockpit
+2875,n04443257_7473.JPEG,"tobacco shop, tobacconist shop, tobacconist"
+2876,COCO_train2014_000000531828.jpg,"bicycle, cake"
+2877,apartmentBuilding4.jpg,apartmentBuilding
+2878,COCO_train2014_000000239013.jpg,"potted plant, scissors, window, couch"
+2879,n02093256_2737.JPEG,"Staffordshire bullterrier, Staffordshire bull terrier"
+2880,COCO_train2014_000000301603.jpg,"mouse, bicycle, clock, suitcase, fork, vase, couch"
+2881,COCO_train2014_000000281575.jpg,"bear, bicycle"
+2882,coffeeshop5.jpg,coffeeshop
+2883,ATM4.jpg,ATM
+2884,COCO_train2014_000000285253.jpg,"cell phone, clock, remote"
+2885,n02701002_703.JPEG,ambulance
+2886,balconyOUT5.jpg,balconyOUT
+2887,hospitalroom3.jpg,hospitalroom
+2888,n02112018_4088.JPEG,Pomeranian
+2889,n02423022_2032.JPEG,gazelle
+2890,n03179701_40133.JPEG,desk
+2891,COCO_train2014_000000572215.jpg,"airplane, bicycle"
+2892,n03759954_21427.JPEG,"microphone, mike"
+2893,tollbooth8.jpg,tollbooth
+2894,n02672831_2255.JPEG,"accordion, piano accordion, squeeze box"
+2895,COCO_train2014_000000326712.jpg,baseball bat
+2896,n01843383_8221.JPEG,toucan
+2897,COCO_train2014_000000335824.jpg,"bicycle, umbrella, snowboard"
+2898,COCO_train2014_000000142958.jpg,"mouse, fork, mirror, couch"
+2899,COCO_train2014_000000033727.jpg,vase
+2900,COCO_train2014_000000199126.jpg,"bicycle, traffic light"
+2901,COCO_train2014_000000525790.jpg,"bicycle, tennis racket"
+2902,rep_cabana2.jpg,rep_cabana
+2903,COCO_train2014_000000556491.jpg,bird
+2904,sushibar8.jpg,sushibar
+2905,churchInside4.jpg,churchInside
+2906,COCO_train2014_000000551164.jpg,"bed, scissors"
+2907,hayfield5.jpg,hayfield
+2908,COCO_train2014_000000445323.jpg,"mouse, bicycle, suitcase, cell phone, remote"
+2909,n02483362_24921.JPEG,"gibbon, Hylobates lar"
+2910,n04487394_11206.JPEG,trombone
+2911,rep_n04040759_5145.JPEG,rep_n04040759_
+2912,n02325366_10969.JPEG,"wood rabbit, cottontail, cottontail rabbit"
+2913,n02100735_1814.JPEG,English setter
+2914,COCO_train2014_000000278962.jpg,"donut, toaster"
+2915,COCO_train2014_000000167346.jpg,"tie, bicycle, fork, shoe, traffic light"
+2916,n01580077_8319.JPEG,jay
+2917,COCO_train2014_000000254481.jpg,"baseball glove, bicycle"
+2918,n04542943_728.JPEG,waffle iron
+2919,COCO_train2014_000000568495.jpg,cake
+2920,n02113799_6304.JPEG,standard poodle
+2921,n04389033_5669.JPEG,"tank, army tank, armored combat vehicle, armoured combat vehicle"
+2922,soccerfield2.jpg,soccerfield
+2923,fabricstore1.jpg,fabricstore
+2924,COCO_train2014_000000372535.jpg,"shoe, bicycle, bird"
+2925,rep_n04026417_26908.JPEG,rep_n04026417_
+2926,n02606052_9042.JPEG,"rock beauty, Holocanthus tricolor"
+2927,COCO_train2014_000000042861.jpg,"cat, bicycle, vase, sheep"
+2928,COCO_train2014_000000129334.jpg,"mouse, fork, laptop, cell phone, teddy bear, remote"
+2929,lightingstore1.jpg,lightingstore
+2930,COCO_train2014_000000347133.jpg,"bicycle, kite, skateboard"
+2931,n02106166_11132.JPEG,Border collie
+2932,COCO_train2014_000000126770.jpg,"bicycle, parking meter, window, motorcycle, shoe, bed, couch"
+2933,COCO_train2014_000000403535.jpg,bear
+2934,COCO_train2014_000000430850.jpg,scissors
+2935,n02113712_789.JPEG,miniature poodle
+2936,COCO_train2014_000000067230.jpg,"horse, skis"
+2937,COCO_train2014_000000336935.jpg,"bottle, bicycle, umbrella"
+2938,n03733281_17260.JPEG,"maze, labyrinth"
+2939,n04417672_7941.JPEG,"thatch, thatched roof"
+2940,n15075141_17963.JPEG,"toilet tissue, toilet paper, bathroom tissue"
+2941,n03692522_13672.JPEG,"loupe, jeweler's loupe"
+2942,COCO_train2014_000000576422.jpg,hat
+2943,n02317335_26063.JPEG,"starfish, sea star"
+2944,n03110669_116357.JPEG,"cornet, horn, trumpet, trump"
+2945,COCO_train2014_000000266622.jpg,"banana, fork, window, apple"
+2946,n03868863_3487.JPEG,oxygen mask
+2947,COCO_train2014_000000185225.jpg,"banana, pizza"
+2948,shootingrange7.jpg,shootingrange
+2949,n03534580_89.JPEG,"hoopskirt, crinoline"
+2950,COCO_train2014_000000412922.jpg,elephant
+2951,n02444819_7052.JPEG,otter
+2952,playroom3.jpeg,playroom
+2953,shootingrange5.jpg,shootingrange
+2954,n06794110_1757.JPEG,street sign
+2955,hospitalroom2.jpg,hospitalroom
+2956,rep_COCO_train2014_000000407676.jpg,hat
+2957,stream_outdoor9.jpg,stream_outdoor
+2958,COCO_train2014_000000304092.jpg,bear
+2959,n02102177_3788.JPEG,Welsh springer spaniel
+2960,n03950228_8249.JPEG,"pitcher, ewer"
+2961,n01990800_4092.JPEG,isopod
+2962,COCO_train2014_000000092067.jpg,"bicycle, tennis racket"
+2963,greenmountains.jpg,greenmountains
+2964,COCO_train2014_000000202326.jpg,"broccoli, apple"
+2965,COCO_train2014_000000037823.jpg,cow
+2966,n13133613_6261.JPEG,"ear, spike, capitulum"
+2967,COCO_train2014_000000127377.jpg,"street sign, fire hydrant"
+2968,COCO_train2014_000000154011.jpg,zebra
+2969,dinosaur2.jpg,dinosaur
+2970,n02096177_2820.JPEG,"cairn, cairn terrier"
+2971,n07697537_15597.JPEG,"hotdog, hot dog, red hot"
+2972,bakery2.jpg,bakery
+2973,MRI2.jpg,MRI
+2974,n04592741_14716.JPEG,wing
+2975,rep_COCO_train2014_000000488558.jpg,"mouse, clock, window, plate, remote, orange"
+2976,n03347037_5147.JPEG,"fire screen, fireguard"
+2977,COCO_train2014_000000361469.jpg,"mouse, bicycle, cake"
+2978,COCO_train2014_000000323010.jpg,"bear, bicycle"
+2979,museum4.jpg,museum
+2980,n09229709_9182.JPEG,bubble
+2981,greenhouse2.jpg,greenhouse
+2982,n02105641_12380.JPEG,"Old English sheepdog, bobtail"
+2983,COCO_train2014_000000402507.jpg,"knife, carrot, hot dog, spoon, orange"
+2984,n02666196_2861.JPEG,abacus
+2985,n02793495_3112.JPEG,barn
+2986,COCO_train2014_000000046024.jpg,"mouse, dog, laptop, cell phone, couch, remote"
+2987,n03485794_25025.JPEG,"handkerchief, hankie, hanky, hankey"
+2988,RVinside1.jpg,RVinside
+2989,COCO_train2014_000000417141.jpg,"banana, window, donut"
+2990,n09835506_1446.JPEG,"ballplayer, baseball player"
+2991,COCO_train2014_000000501867.jpg,"bicycle, car, airplane, boat, fire hydrant, train"
+2992,COCO_train2014_000000182799.jpg,"tie, microwave, bicycle"
+2993,rep_COCO_train2014_000000191686.jpg,zebra
+2994,COCO_train2014_000000052219.jpg,"bicycle, fork, window, bowl, banana, scissors"
+2995,COCO_train2014_000000037165.jpg,"bicycle, cake, train"
+2996,n02860847_9221.JPEG,"bobsled, bobsleigh, bob"
+2997,COCO_train2014_000000558822.jpg,cow
+2998,COCO_train2014_000000056837.jpg,"bicycle, tennis racket"
+2999,park8.jpg,park
+3000,footballstadium.jpg,footballstadium
+3001,factory5.jpg,factory
+3002,n01693334_1910.JPEG,"green lizard, Lacerta viridis"
+3003,n04370456_6463.JPEG,sweatshirt
+3004,n03954731_22664.JPEG,"plane, carpenter's plane, woodworking plane"
+3005,n04517823_10308.JPEG,"vacuum, vacuum cleaner"
+3006,COCO_train2014_000000247893.jpg,"bicycle, sports ball, snowboard"
+3007,COCO_train2014_000000385582.jpg,"bicycle, suitcase"
+3008,swimmingpool3.jpg,swimmingpool
+3009,COCO_train2014_000000425283.jpg,"window, apple"
+3010,COCO_train2014_000000169262.jpg,"scissors, couch, window"
+3011,COCO_train2014_000000055465.jpg,hat
+3012,rep_shoestore5.jpg,rep_shoestore
+3013,COCO_train2014_000000017856.jpg,teddy bear
+3014,n02782093_37277.JPEG,balloon
+3015,COCO_train2014_000000488089.jpg,"keyboard, bicycle, suitcase, window, couch"
+3016,rep_squashcourt.jpg,rep_squashcourt
+3017,n02443114_7290.JPEG,"polecat, fitch, foulmart, foumart, Mustela putorius"
+3018,cabin6.jpg,cabin
+3019,drycleaners4.jpg,drycleaners
+3020,COCO_train2014_000000225829.jpg,"bicycle, bus"
+3021,n02074367_1704.JPEG,"dugong, Dugong dugon"
+3022,COCO_train2014_000000264830.jpg,"bicycle, sports ball"
+3023,n01677366_11319.JPEG,"common iguana, iguana, Iguana iguana"
+3024,onboat5.jpg,onboat
+3025,COCO_train2014_000000009987.jpg,bicycle
+3026,n02364673_15875.JPEG,"guinea pig, Cavia cobaya"
+3027,n02268443_70872.JPEG,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"
+3028,n04201297_3116.JPEG,shoji
+3029,n07932039_8461.JPEG,eggnog
+3030,n07745940_2237.JPEG,strawberry
+3031,n02097658_9331.JPEG,"silky terrier, Sydney silky"
+3032,COCO_train2014_000000402095.jpg,"microwave, bicycle, suitcase"
+3033,COCO_train2014_000000166504.jpg,"bottle, bicycle"
+3034,n04033995_1031.JPEG,"quilt, comforter, comfort, puff"
+3035,office2.jpg,office
+3036,n12267677_14599.JPEG,acorn
+3037,bleachers8.jpg,bleachers
+3038,coralreef3.jpg,coralreef
+3039,nursery.jpg,nursery
+3040,COCO_train2014_000000108859.jpg,"bicycle, sandwich, fork, plate, broccoli, oven, bowl, banana, refrigerator, sink, spoon, toaster"
+3041,COCO_train2014_000000330513.jpg,"banana, window, donut, sink"
+3042,elevatorOutside1.jpg,elevatorOutside
+3043,COCO_train2014_000000134169.jpg,"microwave, bicycle, suitcase"
+3044,COCO_train2014_000000475840.jpg,hat
+3045,n03871628_11370.JPEG,packet
+3046,n02114548_19508.JPEG,"white wolf, Arctic wolf, Canis lupus tundrarum"
+3047,COCO_train2014_000000559145.jpg,"bicycle, tennis racket"
+3048,COCO_train2014_000000102989.jpg,"bicycle, car, street sign, motorcycle, boat"
+3049,COCO_train2014_000000369367.jpg,cow
+3050,COCO_train2014_000000486962.jpg,"bicycle, tennis racket"
+3051,n04266014_5427.JPEG,space shuttle
+3052,n04335435_2590.JPEG,"streetcar, tram, tramcar, trolley, trolley car"
+3053,classroom1.jpg,classroom
+3054,n02093859_1318.JPEG,Kerry blue terrier
+3055,rep_COCO_train2014_000000191686.jpg,zebra
+3056,n02110806_11410.JPEG,basenji
+3057,n02487347_3203.JPEG,macaque
+3058,COCO_train2014_000000139551.jpg,"bottle, bicycle"
+3059,COCO_train2014_000000267898.jpg,zebra
+3060,n02643566_1483.JPEG,lionfish
+3061,COCO_train2014_000000462505.jpg,"bicycle, train, motorcycle"
+3062,COCO_train2014_000000469445.jpg,donut
+3063,attic4.jpg,attic
+3064,COCO_train2014_000000403789.jpg,"bicycle, suitcase, sheep"
+3065,n07248320_8401.JPEG,"book jacket, dust cover, dust jacket, dust wrapper"
+3066,n02066245_4953.JPEG,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus"
+3067,COCO_train2014_000000411130.jpg,"bicycle, suitcase, train, motorcycle"
+3068,n01484850_13992.JPEG,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias"
+3069,n04049303_6067.JPEG,rain barrel
+3070,rep_shootingrange5.jpg,rep_shootingrange
+3071,n03662601_23139.JPEG,lifeboat
+3072,coffeeshop3.jpg,coffeeshop
+3073,n03014705_2691.JPEG,chest
+3074,rep_COCO_train2014_000000028868.jpg,"bicycle, baseball bat"
+3075,COCO_train2014_000000233104.jpg,"cat, sheep"
+3076,n04371774_14436.JPEG,swing
+3077,COCO_train2014_000000531814.jpg,street sign
+3078,n02095314_6058.JPEG,wire-haired fox terrier
+3079,COCO_train2014_000000068996.jpg,hat
+3080,n02669723_9493.JPEG,"academic gown, academic robe, judge's robe"
+3081,n02395406_7919.JPEG,"hog, pig, grunter, squealer, Sus scrofa"
+3082,cliff4.jpg,cliff
+3083,rep_n04019541_4621.JPEG,rep_n04019541_
+3084,deck4.jpg,deck
+3085,hayfield4.jpg,hayfield
+3086,COCO_train2014_000000122923.jpg,traffic light
+3087,n02091467_4960.JPEG,"Norwegian elkhound, elkhound"
+3088,COCO_train2014_000000040399.jpg,"bicycle, suitcase"
+3089,COCO_train2014_000000401822.jpg,"refrigerator, toaster"
+3090,staircase.jpg,staircase
+3091,COCO_train2014_000000357203.jpg,"bicycle, tennis racket"
+3092,church3.jpg,church
+3093,COCO_train2014_000000315229.jpg,"shoe, car"
+3094,COCO_train2014_000000123692.jpg,"baseball glove, bicycle, skateboard, bird"
+3095,n03089624_1676.JPEG,"confectionery, confectionary, candy store"
+3096,COCO_train2014_000000042366.jpg,street sign
+3097,COCO_train2014_000000070421.jpg,"horse, motorcycle"
+3098,n01443537_2819.JPEG,"goldfish, Carassius auratus"
+3099,n02111277_28582.JPEG,"Newfoundland, Newfoundland dog"
+3100,n02892201_13959.JPEG,"brass, memorial tablet, plaque"
+3101,n04192698_5041.JPEG,"shield, buckler"
+3102,n02006656_7738.JPEG,spoonbill
+3103,COCO_train2014_000000557811.jpg,"bottle, bicycle, kite"
+3104,n01981276_3580.JPEG,"king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica"
+3105,COCO_train2014_000000379713.jpg,"bicycle, skis"
+3106,cave.jpg,cave
+3107,COCO_train2014_000000479035.jpg,"bicycle, knife, bowl, cake, spoon"
